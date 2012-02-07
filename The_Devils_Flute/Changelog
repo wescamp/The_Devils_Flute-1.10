@@ -1,0 +1,20 @@
+* version 0.1.1:
+	* fixed necromancer portrait in scenario 2
+	* added note to scenario objectives about side 2 reinforcements in scenario 7
+	* fixed typo in scenario 5 intro
+	* you cannot win scenario 7 by killing Patrick
+	* Dunduggwyn's house is now pointed to with a blinking image in scenario 3
+	* updated rotate-area.lua to version 1.1
+	* Arch Mage Ghost doesn't advance to Great Mage anymore
+	* added {AMLA_DEFAULT} to Rogue Scientist, Arcane Grenadier and Arch Mage Ghost
+	* moved macros associated with scenario 9 from utils/misc.cfg to utils/danse-macabre-macros.cfg
+	* revised final dialogue in scenario 10
+	* removed announcement.txt
+	* scenario 7 is lost if you move Basyl to a wrong house
+	* now the campaign has an icon displayed on the add-on server
+	
+* version 0.1.0a:
+	* fixed missing </i> tag in Anyguest's Inn
+	
+* version 0.1.0:
+	* initial release

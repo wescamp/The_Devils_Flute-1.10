@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Wwt         , Wwt         , Wwt         , Gg          , Wwt         , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Wwt^Bw\     , Ds          , Ds          , Wwt         , Wwt         , Wwt         , Wwt         , Gg          , Gg          , Gg          
+Gg          , Gg          , Wwt         , Gs          , Gs^Ft       , Gs          , Ds          , Wwt         , Ds          , Wwt         , Gg          , Gg          
+Gg          , Gg          , Wwt         , Gg          , Gg          , Gs^Ft       , Gs^Ft       , Ds          , Gs          , Wwt         , Wwt         , Gg          
+Gg          , Gg          , Wwt         , Ds          , Gd          , Gg          , Gg          , Gs^Ft       , Gs          , Wwt         , Wwt         , Gg          
+Gg          , Gg          , Wwt         , Ds          , Gd          , Gg          , Gs          , Gs          , Gs^Ft       , Gd          , Wwt         , Gg          
+Gg          , Gg          , Wwt         , Ds          , Gs^Ft       , Gs^Ft       , Ds          , Gd          , Gs^Ft       , Wwt         , Wwt         , Gg          
+Gg          , Gg          , Wwt         , Wwt         , Wwt         , Ds          , Wwt         , Ds          , Wwt         , Wwt         , Gg          , Gg          
+Gg          , Gg          , Gg          , Wwt         , Gg          , Wwt         , Gg          , Wwt         , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
