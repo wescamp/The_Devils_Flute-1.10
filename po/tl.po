@@ -1,0 +1,3774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The_Devils_Flute 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-02-20 20:44-0500\n"
+"PO-Revision-Date: 2012-02-20 20:44-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tl\n"
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:10
+msgid "TDF"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#. [editor_group]: id=tdf
+#: _main.cfg:11 _main.cfg:71
+msgid "The Devil's Flute"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:17
+msgid ""
+"Creona, the well-known assassin, gets a strange job from a strange person. "
+"So, in fact, it's no surprise that things take a strange turn...\n"
+"\t\n"
+"??? level, 10 scenarios (2 text-only)"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:19
+msgid "difficulty_menu^Experienced"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:19
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:19
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:19
+msgid "difficulty_menu^Apprentice"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:19
+msgid "difficulty_menu^Virtuoso"
+msgstr ""
+
+#. [campaign]: id=The_Devils_Flute
+#: _main.cfg:19
+msgid "(Difficult)"
+msgstr ""
+
+#. [about]
+#: _main.cfg:23
+msgid "Campaign design, coding and some franken-art"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:25 _main.cfg:46
+msgid "lipk"
+msgstr ""
+
+#. [about]
+#: _main.cfg:29
+msgid "WML assistance"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:31
+msgid "Sapient"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:34
+msgid "Alarantalara"
+msgstr ""
+
+#. [about]
+#: _main.cfg:38
+msgid "Non-mainline music"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:40
+msgid "West"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:43
+msgid "a3deap"
+msgstr ""
+
+#. [about]
+#: _main.cfg:50
+msgid "Random code & content copied from"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:52
+msgid "'Invasion from the Unknown' by shadowmaster"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:55
+msgid "'RPG Resources' by PapaSmurfReloaded"
+msgstr ""
+
+#. [entry]
+#: _main.cfg:58
+msgid "'RPG Creation Kit' by Bob_The_Mighty"
+msgstr ""
+
+#. [scenario]: id=The_Appointment
+#: scenarios/01_The_Appointment.cfg:6
+msgid "The Appointment"
+msgstr ""
+
+#. [side]: id=Mal Amadeus, type=Lich
+#: scenarios/01_The_Appointment.cfg:29
+msgid "Mysterious undead"
+msgstr ""
+
+#. [side]: id=Mal Amadeus, type=Lich
+#. [side]: id=Mal Amadeus, type=Party Lich, (id=Skele1)}, (id=Skele2, (id=Skele3
+#: scenarios/01_The_Appointment.cfg:31 scenarios/09_Danse_Macabre.cfg:146
+#: scenarios/04_Embarrassing_Question.cfg:24
+msgid "Mal Amadeus"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Appointment.cfg:66
+msgid ""
+"Hello. Thank you for playing.\n"
+"\t\t\t\n"
+"This campaign is still under development. All scenarios are done and should "
+"be of enjoyable quality, but it's not finished at all. Visit the add-on's "
+"development thread with your problems, suggestions and notices in the "
+"Scenario/Campaign Development section at forums.wesnoth.org. I'm especially "
+"interested in any possible grammatical issues.\n"
+"\n"
+"If you're playing with music off, I advise you to reconsider. Not as if "
+"there were revolutionarily new, unheard tracks in this campaign, but I spent "
+"much time with choosing the best music for each scenario (or part of a "
+"scenario), and I doubt you can fully get the athmosphere without hearing "
+"them.\n"
+"\n"
+"Have fun,\n"
+"lipk\n"
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Appointment.cfg:69
+msgid "Once upon a time, somewhere in Wesnoth..."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Appointment.cfg:72
+msgid ""
+"...lived a woman, Creona, by name. Having a strong, aggressive personality "
+"and unwillingness to obey to anyone, she didn't have many friends. Wandering "
+"from town to town in Wesnoth, she practiced the last job you'd expect from a "
+"woman."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Appointment.cfg:75
+msgid ""
+"Creona was an assassin. Or, elegantly spoken, an assassiness. Obviously, she "
+"didn't have an easy start in this quite masculine profession. However, on "
+"the other hand, the bigger attention was she got after her first successes. "
+"It didn't take two years for her to merit the name 'Queen of the Assassins', "
+"and to get one of the greatest bounties ever seen on her head."
+msgstr ""
+
+#. [part]
+#: scenarios/01_The_Appointment.cfg:78
+msgid ""
+"Her employers (and victims) included not just noblemen, generals and "
+"criminals, but also a wide range of non-human creatures inhabiting the lands "
+"around Wesnoth. She got used to their strange customs, and wasn't too "
+"surprised when she got an invitation for a meeting in a forest, far away "
+"from inhabited areas."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:88
+msgid ""
+"Okay, my client is waiting for us on the other side of the forest. Move on!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/01_The_Appointment.cfg:92
+msgid "Do we know anything about this man?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:96
+msgid "We shall soon."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/01_The_Appointment.cfg:100
+msgid "And about the job? Who is the target?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:104
+msgid ""
+"I have no clue. Would you keep your stupid questions for yourself, please?"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_The_Appointment.cfg:110
+msgid "Meet your employer"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:124
+msgid "Now I will have an unsatisfied customer... what a shame!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/01_The_Appointment.cfg:139
+msgid "Ughhh..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:149
+msgid "It may sound odd, but we can't continue without him!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:161
+msgid ""
+"I should move to the front... I have to arrange the business personally, "
+"after all!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/01_The_Appointment.cfg:177
+msgid "The trees seem to be parched here... strange."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/01_The_Appointment.cfg:202
+msgid "Undead! Undead in the forest!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:206
+msgid "Destroy them! We can't let them harm our employer!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/01_The_Appointment.cfg:224
+msgid ""
+"We could be more efficient against the undead if I gave some grenades to "
+"everyone."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:228
+msgid ""
+"<i>(sighs)</i> I've already told you several times, bombs are too expensive "
+"to equip our whole team with them. It would consume up our profit."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/01_The_Appointment.cfg:232
+msgid "But we'd lose less men."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:236
+msgid ""
+"More men, more shares paid. Even lower makings. Everything's good as it is."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:268
+msgid "What are you doing here, man? Who is your leader?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:275
+msgid "Aww, a lich. I can only hope my client is all right."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:335
+msgid "Hey, you are Creona, the famous assassiness, aren't you?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:339
+msgid "Yes I am."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:343
+msgid "Well, I'm Mal Amadeus, your client."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:347
+msgid ""
+"Ah, really? You could be a bit more welcoming if you want to count on my "
+"services!"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:351
+msgid "What? I hope you didn't have any trouble with my servants?"
+msgstr ""
+
+#. [message]: speaker=$offended_undead[0].id
+#: scenarios/01_The_Appointment.cfg:355
+msgid "Offended $offended_undead[0].type"
+msgstr ""
+
+#. [message]: speaker=$offended_undead[0].id
+#: scenarios/01_The_Appointment.cfg:356
+msgid ""
+"It wasn't us, master! We were just collecting flowers in the forest, when "
+"they attacked us for no reason!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:360
+msgid "Errr..."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:364
+msgid ""
+"Ah, the usual prejudices against undead. There isn't another race on the "
+"continent which is as persecuted as ours!"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:368
+msgid ""
+"But hopefully we can put aside our baseless stereotypes now and talk about "
+"your tasks."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:372
+msgid "Indeed."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:376
+msgid ""
+"Well, I need you to fetch me an object. It belongs to the arch mage "
+"Dunduggwyn who lives in the city of Cyty."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:380
+msgid ""
+"An arch mage, you say? That won't be cheap. Their kind is pretty hard to "
+"deal with."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:384
+msgid ""
+"It's not necessary to murder him. Just bring me the object. My offer is 400 "
+"golds."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:388
+msgid ""
+"Stealing things from a living arch mage is even more dangerous! 800 at least."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:392
+msgid ""
+"Well, then just kill him. 500 golds are more than generous for this job."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:396
+msgid ""
+"Hah, you must be joking. A notoriously unimportant princeling costed 350 to "
+"my client last month. I won't do this for less than the double price."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:400
+msgid ""
+"For 700 gold I could recruit an entire army and take over the whole city. "
+"650 is the last proposal. 200 prepaid and an additional 450 in case of "
+"success."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:404
+msgid ""
+"That sounds fair enough. And precisely what object do you wish to get? Some "
+"magic book, I guess."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:408
+msgid "No. A flute."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:412
+msgid "A flute?"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:416
+msgid "Exactly. I need the flute from the silver thread on Dunduggwyn's neck."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/01_The_Appointment.cfg:420
+msgid ""
+"As you wish. Just give me that 200 golds and we shall come along with your "
+"precious instrument in a few days."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:424
+msgid "Here it is."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/01_The_Appointment.cfg:437
+msgid "I'll be waiting for you here. Good luck."
+msgstr ""
+
+#. [scenario]: id=Anyguests_Inn
+#: scenarios/02_Anyguests_Inn.cfg:5
+msgid "Anyguest's Inn"
+msgstr ""
+
+#. [side]: id=Bruggwy, type=Assassin, (id=Renegade)}
+#: scenarios/02_Anyguests_Inn.cfg:25
+msgid "Bruggwy's team"
+msgstr ""
+
+#. [side]: id=Bruggwy, type=Assassin, (id=Renegade)}
+#: scenarios/02_Anyguests_Inn.cfg:28
+msgid "Bruggwy"
+msgstr ""
+
+#. [side]: (id=Spectator1, (id=Spectator2, (id=Innkeeper
+#: scenarios/02_Anyguests_Inn.cfg:47
+msgid "Spectators"
+msgstr ""
+
+#. [side]: (id=Spectator1, (id=Spectator2, (id=Innkeeper
+#: scenarios/02_Anyguests_Inn.cfg:64
+msgid "Innkeeper"
+msgstr ""
+
+#. [side]: id=Dwarvish Guest)}, id=Drake Guest)}, id=Merman Guest)}, id=Necromancer Guest)}
+#: scenarios/02_Anyguests_Inn.cfg:73
+msgid "Guests"
+msgstr ""
+
+#. [part]
+#: scenarios/02_Anyguests_Inn.cfg:129
+msgid ""
+"Having her team weakened in the excess fight against the lich's minions and "
+"expecting a tough job ahead, Creona decided that it was better to find some "
+"new recruits. Luckily, they didn't have to go far for that. Anyguest's Inn "
+"lied on the road leading to their destination and was a well-known meeting "
+"point of rogues, thiefs, bandits - in one word, those who were having "
+"conflicts with the law. Creona sent Basyl and most of her men ahead to scout "
+"Cyty, and then entered the inn..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:170
+msgid "Hi all! I need some brave men for a really-really dangerous mission!"
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:174
+msgid "Hey! I'm recruiting here! Get away and find some other place!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:178
+msgid ""
+"Well, everybody's free to choose who to contract with. As for me, I'm "
+"getting 650 golds for this job..."
+msgstr ""
+
+#. [message]: speaker=Renegade
+#: scenarios/02_Anyguests_Inn.cfg:182
+msgid "Hmmm, that implies an impressive share! You can count on me!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:200
+msgid "Wise decision."
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:204
+msgid "Don't steal my men or..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:208
+msgid "You can't make up for my better offer with whatever amount of shouting."
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:212
+msgid "<b>GET LOST OR I KILL YOU!</b>"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:216
+msgid "Come on!"
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:220
+msgid "Catch her!"
+msgstr ""
+
+#. [message]: speaker=Spectator1
+#: scenarios/02_Anyguests_Inn.cfg:224
+msgid "Haha! Free entertainment! I'm going to join the winner!"
+msgstr ""
+
+#. [message]: speaker=Spectator2
+#: scenarios/02_Anyguests_Inn.cfg:228
+msgid "Me too!"
+msgstr ""
+
+#. [message]: speaker=Innkeeper
+#: scenarios/02_Anyguests_Inn.cfg:232
+msgid "Okay, boys and girls, but don't destroy the furniture please!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_Anyguests_Inn.cfg:250
+msgid "Kill Bruggwy"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_Anyguests_Inn.cfg:254 scenarios/02_Anyguests_Inn.cfg:816
+#: scenarios/09_Danse_Macabre.cfg:426 scenarios/09_Danse_Macabre.cfg:486
+#: utils/misc.cfg:40
+msgid "Death of Creona"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_Anyguests_Inn.cfg:258 scenarios/02_Anyguests_Inn.cfg:426
+#: scenarios/02_Anyguests_Inn.cfg:652 scenarios/02_Anyguests_Inn.cfg:820
+#: utils/misc.cfg:48
+msgid "Turns run out"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:272
+msgid ""
+"Dying in a pub brawl by the hands of a second-class assassin. What a shame! "
+"Better to die fast."
+msgstr ""
+
+#. [message]: speaker=Renegade
+#: scenarios/02_Anyguests_Inn.cfg:288
+msgid "Okay, calm down, I will..."
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:292
+msgid "You will die, traitor!"
+msgstr ""
+
+#. [message]: speaker=Spectator1
+#: scenarios/02_Anyguests_Inn.cfg:307
+msgid "Excellent! Go on!"
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:322
+msgid "You haven't won yet!"
+msgstr ""
+
+#. [message]: speaker=$store_side2[0].id
+#: scenarios/02_Anyguests_Inn.cfg:353
+msgid "I think it's more tactical to retreat towards the front door."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:371
+msgid "Finished. So, who can I expect to follow me?"
+msgstr ""
+
+#. [message]: speaker=Spectator2
+#: scenarios/02_Anyguests_Inn.cfg:375
+msgid "Hey, it's not done yet! You have to kill him."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:379
+msgid "Don't be childish. You aren't in a circus."
+msgstr ""
+
+#. [message]: speaker=Spectator1
+#: scenarios/02_Anyguests_Inn.cfg:383
+msgid "We won't join you unless you slay that guy."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:387
+msgid "<i>(sighs)</i> Alright. Where did he run?"
+msgstr ""
+
+#. [message]: speaker=Innkeeper
+#: scenarios/02_Anyguests_Inn.cfg:391
+msgid ""
+"Towards the bedrooms, I think. Bruggwy's a master of masking, he might have "
+"already changed into a guest of whatever race. Be careful, and try not to "
+"kill any of my authentic customers, please."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:395
+msgid ""
+"You could prevent me from harming your business by telling who are your so-"
+"called authentic customers."
+msgstr ""
+
+#. [message]: speaker=Innkeeper
+#: scenarios/02_Anyguests_Inn.cfg:399
+msgid "Ehm... I can't really remember it."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:403
+msgid "Somewhat shameful for a man in your job."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:416
+msgid ""
+"He can hide nowhere here, so he must be inside of one of the rooms. I should "
+"take a look at each one."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_Anyguests_Inn.cfg:422
+msgid "Visit all rooms"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_Anyguests_Inn.cfg:461 scenarios/02_Anyguests_Inn.cfg:514
+#: scenarios/02_Anyguests_Inn.cfg:567 scenarios/02_Anyguests_Inn.cfg:620
+msgid "<i>Creona asks about Bruggwy</i>"
+msgstr ""
+
+#. [message]: speaker=Dwarvish Guest
+#: scenarios/02_Anyguests_Inn.cfg:465
+msgid ""
+"Yep, I definitely heard him running past my door. He must be either in the "
+"second or the third room."
+msgstr ""
+
+#. [message]: speaker=Drake Guest
+#: scenarios/02_Anyguests_Inn.cfg:518
+msgid "I'm not Bruggwy, and I don't care at all where he is."
+msgstr ""
+
+#. [message]: speaker=Merman Guest
+#: scenarios/02_Anyguests_Inn.cfg:571
+msgid ""
+"Hmmm... I heard a slam of door, must have come from the first or the last "
+"room."
+msgstr ""
+
+#. [message]: speaker=Necromancer Guest
+#: scenarios/02_Anyguests_Inn.cfg:624
+msgid ""
+"I didn't notice anything, but my instincts tell me that if he's not in the "
+"third room, he must be in the second."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:638
+msgid ""
+"So one of these men is Bruggwy. I'm sure that he tried everything to deceive "
+"me, but that will be his doom. I don't see any reason why would have the "
+"others lied to me, so I just have to deduce who was the one who made a false "
+"statement."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_Anyguests_Inn.cfg:644
+msgid "Move Creona to Bruggwy's room"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_Anyguests_Inn.cfg:648
+msgid "Move to a wrong room"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:725
+msgid "I have one more little question..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:729
+msgid "Did you really think that I won't find you?"
+msgstr ""
+
+#. [animate_unit]
+#: scenarios/02_Anyguests_Inn.cfg:744
+msgid "*swoosh*"
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:773
+msgid "Arghh..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:777
+msgid "You're the seeker now."
+msgstr ""
+
+#. [message]: speaker=Bruggwy
+#: scenarios/02_Anyguests_Inn.cfg:781
+msgid "Damn you!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:797
+msgid "Heh! And this miserable weakling claimed that he would kill me!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_Anyguests_Inn.cfg:812
+msgid "Really kill Bruggwy at last"
+msgstr ""
+
+#. [message]: speaker=$unit.id
+#: scenarios/02_Anyguests_Inn.cfg:827
+msgid "Auch... what the hell are you doing?!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:831
+msgid "Oops, this isn't Bruggwy!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_Anyguests_Inn.cfg:835
+msgid "Distant voice of Bruggwy"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_Anyguests_Inn.cfg:836
+msgid "Definitely not! Goodbye, stupid girl!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:855
+msgid ""
+"I shouldn't bother $unit.name again... if he's Bruggwy, he might become "
+"suspicous."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:883
+msgid ""
+"Huh, done at last. He was quite tough for an amateur. Maybe I could have "
+"made a good use of him... but it's too late to think about that, I'm afraid."
+msgstr ""
+
+#. [message]: speaker=Spectator1
+#: scenarios/02_Anyguests_Inn.cfg:887
+msgid "Bravo! You're performing amazingly in battle dear... ehm..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/02_Anyguests_Inn.cfg:891
+msgid "Creona."
+msgstr ""
+
+#. [message]: speaker=Spectator2
+#: scenarios/02_Anyguests_Inn.cfg:895
+msgid "Creona? The famous Creona?"
+msgstr ""
+
+#. [message]: speaker=Spectator1
+#: scenarios/02_Anyguests_Inn.cfg:899
+msgid ""
+"Why didn't you start with that? It would have been no question to join you!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#. [message]: speaker=Merlyn
+#: scenarios/02_Anyguests_Inn.cfg:903 scenarios/09_Danse_Macabre.cfg:516
+#: scenarios/10_A_Job_Well_Done.cfg:148
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Spectator2
+#: scenarios/02_Anyguests_Inn.cfg:907
+msgid ""
+"But now we'll do anyway. It's a great honor to work for you... how much will "
+"be my salary?"
+msgstr ""
+
+#. [scenario]: id=Chaos_in_Cyty
+#: scenarios/03_Chaos_in_Cyty.cfg:5
+msgid "Chaos in Cyty"
+msgstr ""
+
+#. [side]: id=Zzzsss, type=Naga Warrior
+#. [side]: id=Ssszzz, type=Saurian Ambusher
+#: scenarios/03_Chaos_in_Cyty.cfg:26 scenarios/03_Chaos_in_Cyty.cfg:50
+msgid "mercenaries"
+msgstr ""
+
+#. [side]: id=Zzzsss, type=Naga Warrior
+#: scenarios/03_Chaos_in_Cyty.cfg:27
+msgid "Disappointed nagas"
+msgstr ""
+
+#. [side]: id=Zzzsss, type=Naga Warrior
+#: scenarios/03_Chaos_in_Cyty.cfg:30
+msgid "Zzzsss"
+msgstr ""
+
+#. [side]: id=Ssszzz, type=Saurian Ambusher
+#: scenarios/03_Chaos_in_Cyty.cfg:51
+msgid "Disappointed saurians"
+msgstr ""
+
+#. [side]: id=Ssszzz, type=Saurian Ambusher
+#: scenarios/03_Chaos_in_Cyty.cfg:54
+msgid "Ssszzz"
+msgstr ""
+
+#. [side]
+#: scenarios/03_Chaos_in_Cyty.cfg:77
+msgid "loyalists"
+msgstr ""
+
+#. [side]
+#: scenarios/03_Chaos_in_Cyty.cfg:78
+msgid "City militia"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Chaos_in_Cyty.cfg:92
+msgid ""
+"Basyl rarely worked fast, so Creona saw no reason to hurry with the "
+"departure. She rented the fake-merman's old room, asked for a boat, and "
+"enjoyed a tropical holdiay for a few days. When she thought the scouts might "
+"have had finished their job, she commanded her team to pack up and set off."
+msgstr ""
+
+#. [part]
+#: scenarios/03_Chaos_in_Cyty.cfg:96
+msgid "They reunited with the others at midnight, north of Cyty."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:132
+msgid "Here I am. So, what could you find out about the mage?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:136
+msgid ""
+"He doesn't have a family, loves gardening, roast beef and watching wesball "
+"in his crystal ball. Yeah, and he's the uncle of the lord of the city, so he "
+"lives in the palace. More exactly, in the cottage at the riverside."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:144
+msgid "Good. Now we can start making the plan."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:148
+msgid "With your excuse, I've already prepared everything."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:152
+msgid "What? I only told you to collect information!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:156
+msgid ""
+"Yes, but I couldn't stop myself brainstorming about the project. And I found "
+"the best solution."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:160
+msgid "I listen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_Chaos_in_Cyty.cfg:171
+msgid "There's a dam east of the city. We blow it up to make a flood."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_Chaos_in_Cyty.cfg:180
+msgid ""
+"I couldn't find any mufflers for the bombs so this will be likely to go with "
+"a big noise. Big enough to wake the city militia."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_Chaos_in_Cyty.cfg:189
+msgid "So I hired some saurians to keep them busy."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_Chaos_in_Cyty.cfg:198
+msgid "The flood will overrun the palace and the nearby areas in a short time."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_Chaos_in_Cyty.cfg:207
+msgid "After that our naga mercenaries can easily control the territory."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:214
+msgid "So our only task is to walk in and grab the flute."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:220
+msgid "Well, this is ingenious."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:224
+msgid "Thanks."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:228
+msgid "I only suggest some little modifications."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:232
+msgid "Precisely?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:236
+msgid "No bombs, no flood, no nagas and no saurians. That's all."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:240
+msgid "But why? This will completely..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:244
+msgid ""
+"Because I simply have no intention to launch a full-scale attack against the "
+"city."
+msgstr ""
+
+#. [message]: speaker=Zzzsss
+#: scenarios/03_Chaos_in_Cyty.cfg:250
+msgid "Humansssss! Give ussss our money!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:254
+msgid ""
+"I'm sorry, there's no money for you. We don't need your help. However you "
+"can take this fool as a compensation. He makes for an excellent slave."
+msgstr ""
+
+#. [message]: speaker=Zzzsss
+#: scenarios/03_Chaos_in_Cyty.cfg:258
+msgid ""
+"We don't like human'ssssss humour. Pay our goldsssss or we sssssslay you!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:262
+msgid "I don't pay anything."
+msgstr ""
+
+#. [message]: speaker=Zzzsss
+#: scenarios/03_Chaos_in_Cyty.cfg:266
+msgid "Then we take by for(c)ssssssse!"
+msgstr ""
+
+#. [message]: speaker=Ssszzz
+#: scenarios/03_Chaos_in_Cyty.cfg:270
+msgid "Sssssso ssssshall we!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_Chaos_in_Cyty.cfg:278
+msgid "Move a unit to Dunduggwyn's house"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:293
+msgid "Curse you, Basyl... I die for your incompetence..."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:308
+msgid "Maybe this plan wasn't so ingenious... ugghhh..."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Chaos_in_Cyty.cfg:324
+msgid "Nagas are attacking the city!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Chaos_in_Cyty.cfg:340
+msgid "Saurians are attacking the city!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Chaos_in_Cyty.cfg:356
+msgid "Treacheroussssss humansssss! Where isssss our money?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Chaos_in_Cyty.cfg:372
+msgid "Here's your payment, damned reptile!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:383
+msgid "Ehm... Creona?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:368
+#: scenarios/03_Chaos_in_Cyty.cfg:387
+msgid "Yes?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:391
+msgid "Don't kill me please."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:395
+msgid "Don't provide a reason."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:399
+msgid "Well, the bombs... err... I forgot... they are timed..."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:451
+msgid "What was that? Alarm!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:467
+msgid "I'm afraid I will definitely kill you!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_Chaos_in_Cyty.cfg:491
+msgid ""
+"The wild waves are crashing against the wall so fiercely that it collapses!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_Chaos_in_Cyty.cfg:513
+msgid ""
+"Big part of the city's defense structures are now nothing more than "
+"underwater ruins. On the other side, the flood seems to be exhausted now - "
+"it just silently pours over the streets."
+msgstr ""
+
+#. [message]: speaker=Zzzsss
+#: scenarios/03_Chaos_in_Cyty.cfg:523
+msgid "The town isssss underwater. Ni(c)ssssse!"
+msgstr ""
+
+#. [event]: id=Dunduggwyn
+#. [unit]: id=Dunduggwyn, type=Arch Mage
+#. [unit]: id=Dunduggwyn, type=Arch Mage Ghost
+#: scenarios/06_Zombies_in_the_Stable.cfg:857
+#: scenarios/03_Chaos_in_Cyty.cfg:555 scenarios/10_A_Job_Well_Done.cfg:188
+msgid "Dunduggwyn"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/03_Chaos_in_Cyty.cfg:565
+msgid "Who is that? Wait... argh, assassins!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_Chaos_in_Cyty.cfg:571
+msgid "Kill Dunduggwyn to get the flute from him"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/03_Chaos_in_Cyty.cfg:575
+msgid "Somebody else kills Dunduggwyn before you"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:600
+msgid "Here's it! Let's pick it up and leave this blasted city fast."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Chaos_in_Cyty.cfg:606
+msgid "Here's the flute!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:610
+msgid "Good! Grab it and then we can go."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:634
+msgid "They killed our wiseman! Catch them, they must not get away with this!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_Chaos_in_Cyty.cfg:664
+msgid "Pick up the flute with a unit"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Chaos_in_Cyty.cfg:683
+msgid ""
+"What isssss that sssssshiny thing? $second_unit.name likesssss it. "
+"$second_unit.name takesssss it."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:719
+msgid "Oh no! That reptile stole the flute. We failed."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_Chaos_in_Cyty.cfg:751
+msgid "Got it!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:758
+msgid ""
+"Okay, let's go. Don't expect me waiting for anybody. I won't stay in this "
+"madness for a minute longer than I have to!"
+msgstr ""
+
+#. [objectives]
+#: scenarios/03_Chaos_in_Cyty.cfg:762
+msgid ""
+"Any unit moved to the signpost is eventually removed from the map. When "
+"Creona leaves, the scenario ends. Every unit still on the map is lost."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_Chaos_in_Cyty.cfg:765
+msgid "The flute-bearer, Basyl and Creona reaches the signpost"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/03_Chaos_in_Cyty.cfg:769
+msgid "The flute-bearer dies"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:794
+msgid "Don't die you idiot!"
+msgstr ""
+
+#. [message]: speaker=Ssszzz
+#: scenarios/03_Chaos_in_Cyty.cfg:828
+msgid "You won't esssscape!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:870
+msgid "Damn, we lost the flute."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/03_Chaos_in_Cyty.cfg:923
+msgid ""
+"I don't understand what Creona is complaining about... everything went "
+"smoothly!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:951
+msgid "Great! The flute is now in safe."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:982
+msgid "Move on, Basyl! I won't wait for eternity!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:1007
+msgid ""
+"It's your luck $flute_bearer.name that you could lay your hands on that "
+"gadget! I wouldn't be so patient otherwise!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/03_Chaos_in_Cyty.cfg:1014
+msgid "Well done. Let's head back to Amadeus' keep."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1049
+msgid "Blast it. They escaped. But it's not over! We must catch these bandits!"
+msgstr ""
+
+#. [message]: speaker=$walterpartner.id
+#: scenarios/03_Chaos_in_Cyty.cfg:1053
+msgid "Excuse me, sir, I have a good idea."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1057
+msgid "What is that?"
+msgstr ""
+
+#. [message]: speaker=$walterpartner.id
+#: scenarios/03_Chaos_in_Cyty.cfg:1061
+msgid "The best tools against criminals are their own ones!"
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1065
+msgid ""
+"This doesn't sound too sympathetic at first glance. Could you explain it?"
+msgstr ""
+
+#. [message]: speaker=$walterpartner.id
+#: scenarios/03_Chaos_in_Cyty.cfg:1069
+msgid "I think we should hire an assassin to assassinate the assassins."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1073
+msgid ""
+"Interesting idea. However, I don't see why the Secret Service couldn't do "
+"that."
+msgstr ""
+
+#. [message]: speaker=$walterpartner.id
+#: scenarios/03_Chaos_in_Cyty.cfg:1077
+msgid ""
+"They certainly could, but there's a risk that we'd lose some valuable men. "
+"According to my plan, only our assassin could die. Or the other one. One "
+"less problem anyway."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1081
+msgid "Neat! Haha! Very-very neat!"
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1085
+msgid "JACK!!!"
+msgstr ""
+
+#. [side]: id=Agent Jack, type=Ranger
+#. [scenario]: id=Agent_Jack
+#. [unit]: id=Agent Jack, type=Ranger
+#: scenarios/05_Agent_Jack.cfg:5 scenarios/05_Agent_Jack.cfg:23
+#: scenarios/03_Chaos_in_Cyty.cfg:1090
+msgid "Agent Jack"
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/03_Chaos_in_Cyty.cfg:1098
+msgid "Yes, sir."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1102
+msgid ""
+"Who is the most professional, most evil, most dangerous assassin on our "
+"wanted list? We need him."
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/03_Chaos_in_Cyty.cfg:1106
+msgid "We need a criminal???"
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1110
+msgid ""
+"Yes. We hire him to find and kill the murderers of Dunduggwyn. Such a crime "
+"should not go unpunished!"
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/03_Chaos_in_Cyty.cfg:1114
+msgid "Hmmm... let me see... actually he's a she. Her name is Creona."
+msgstr ""
+
+#. [message]: speaker=Walter
+#: scenarios/03_Chaos_in_Cyty.cfg:1118
+msgid ""
+"A woman? Strange... but it doesn't matter. Find her and tell her that she "
+"gets 400 golds for the head of the murderer. Go!"
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#. [message]: speaker=$random_loy_unit.id
+#: scenarios/03_Chaos_in_Cyty.cfg:1122 scenarios/07_Merlyn.cfg:809
+msgid "Yes sir."
+msgstr ""
+
+#. [scenario]: id=Embarrassing_Question
+#: scenarios/04_Embarrassing_Question.cfg:5
+msgid "Embarrassing Question"
+msgstr ""
+
+#. [side]: id=Mal Amadeus, type=Lich
+#: scenarios/04_Embarrassing_Question.cfg:22
+msgid "Not anymore mysterious undead"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:99 scenarios/04_Embarrassing_Question.cfg:62
+msgid "Hello."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/04_Embarrassing_Question.cfg:66
+msgid "It's you? You were pretty quick. Do you have the flute?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/04_Embarrassing_Question.cfg:70
+msgid "Maybe. Depends on how many golds you have left."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/04_Embarrassing_Question.cfg:74
+msgid "Ah, the careful! Here's your reward."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/04_Embarrassing_Question.cfg:85
+msgid "You're lucky. Accidentally, we have a flute."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/04_Embarrassing_Question.cfg:89
+msgid "Haha! Thanks."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/04_Embarrassing_Question.cfg:96
+msgid ""
+"Well... Amadeus... it's not my habit to ask  my clients about their "
+"motivations, but I simply can't imagine that... why is this flute so "
+"important to you?"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/04_Embarrassing_Question.cfg:103
+msgid "Errr... you know... it just has such a nice voice!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/04_Embarrassing_Question.cfg:107
+msgid "???"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/04_Embarrassing_Question.cfg:111
+msgid "Goodbye!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/04_Embarrassing_Question.cfg:127
+msgid "I think your last question embarassed him a bit."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/04_Embarrassing_Question.cfg:131
+msgid "It's no surprise. People rarely like to be honest about their purposes."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/04_Embarrassing_Question.cfg:135
+msgid "I'm sure he needs that flute for some evil machinations."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/04_Embarrassing_Question.cfg:139
+msgid ""
+"What did you expect? That he would perform on charity concerts? It's not our "
+"business, anyways."
+msgstr ""
+
+#. [side]: id=Agent Jack, type=Ranger
+#: scenarios/05_Agent_Jack.cfg:27
+msgid "Secret Service of Wesnoth"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Agent_Jack.cfg:38
+msgid ""
+"With their new earnings in their pockets, Creona's team headed north to "
+"leave Wesnoth. This was usual after noisier jobs, and flooding a whole city "
+"was something could be called 'noisy'. Find a village, pay a lot for the "
+"accomodation, so the villagers won't tell anybody that you were there, rest "
+"a bit, then leave to find a new employer - that was the good old scenario. "
+"Nothing implied that it'd be any different this time."
+msgstr ""
+
+#. [part]
+#: scenarios/05_Agent_Jack.cfg:42
+msgid ""
+"Simultaneously, the Secret Service of Wesnoth put on heavy efforts to find "
+"Creona to charge her with her own assassination. Agent Jack wasn't new to "
+"his profession, he knew where to start searching for a most wanted criminal "
+"- in the northlands."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:76
+msgid ""
+"If I remember well, these cliffs aren't so far from Gubbre. We shall be "
+"there by sunset."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/05_Agent_Jack.cfg:80
+msgid "Someone is approaching on the road."
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:95
+msgid "Greetings, beautiful lady!"
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:103
+msgid "You're Creona, the well-known assassin, aren't you?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:107
+msgid "Hmmm... yes I am."
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:111
+msgid "It's pretty hard to find you! I have a job for you."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:115
+msgid "Really?"
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:119
+msgid ""
+"Really. A few days ago, bandits intruded to my home city Cyty, and killed "
+"Dunduggwyn, a largely respected man of the town. General Walter, the "
+"military commander of the city offers you 400 gold for finding and slaying "
+"the murderers."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:123
+msgid "It sounds interesting..."
+msgstr ""
+
+#. [event]: (id=Hawkeye Howard
+#: scenarios/05_Agent_Jack.cfg:128
+msgid "Hawkeye Howard"
+msgstr ""
+
+#. [message]: speaker=Hawkeye Howard
+#: scenarios/05_Agent_Jack.cfg:132
+msgid ""
+"Wait Jack! I know this woman! I saw her in that night in Cyty. She is the "
+"murderer of Dunduggwyn!"
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:139
+msgid ""
+"Well, milady, then I suppose you can get a 400 gold reward for commiting "
+"suicide."
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:146
+msgid ""
+"But it's very unlikely that you would do that, so I'm afraid I have to kill "
+"you myself."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:150
+msgid "In your place, I would try to get away alive instead."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_Agent_Jack.cfg:191
+msgid "Defeat Agent Jack"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Agent_Jack.cfg:206
+msgid "I will make you drink up all the water in my backyard!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:224
+msgid "Come on, Jack! You can't win, why to bother us then?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Agent_Jack.cfg:242
+msgid "I hate you, Basyl!!!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/05_Agent_Jack.cfg:246
+msgid "Why does everybody blame me? I didn't do anything this time!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Agent_Jack.cfg:259
+msgid "Blast my sharp eyes! Why did I have to make Jack attack these bandits?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/05_Agent_Jack.cfg:263
+msgid "This is the fate of nitpickers."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Agent_Jack.cfg:284
+msgid ""
+"Dry leaves again... I hope it's just autumn this time, not another nasty "
+"lich!"
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:298
+msgid "You're wrong if you think it's so easy to kill Agent Jack!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/05_Agent_Jack.cfg:310
+msgid "Oh no! He escaped. What will happen now?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:314
+msgid ""
+"Another bounty will be put on my head. It matters little. If somebody "
+"managed to kill me, he could have already become a millionaire by that."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:318
+msgid "Let's go. The holiday resort is very close."
+msgstr ""
+
+#. [message]: speaker=Agent Jack
+#: scenarios/05_Agent_Jack.cfg:336
+msgid "Hah! A shiny trophy to my collection."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/05_Agent_Jack.cfg:352
+msgid ""
+"He was a fool, but still... it's impossible to find another usable "
+"explosives expert for this cheap!"
+msgstr ""
+
+#. [scenario]: id=Zombies_in_the_Stable
+#: scenarios/06_Zombies_in_the_Stable.cfg:5
+msgid "Zombies in the Stable"
+msgstr ""
+
+#. [side]
+#: scenarios/06_Zombies_in_the_Stable.cfg:51
+msgid "Once again mysterious undead"
+msgstr ""
+
+#. [side]
+#: scenarios/06_Zombies_in_the_Stable.cfg:69
+msgid "Who can they be?"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Zombies_in_the_Stable.cfg:75
+msgid ""
+"The outlaws continued their journey towards Gubbre, a village Creona knew "
+"about that it would gladly provide them shelter in exchange of some gold. "
+"The fight with the SSW party evidently caused a delay, so they didn't "
+"arrived before sunset as wanted."
+msgstr ""
+
+#. [part]
+#: scenarios/06_Zombies_in_the_Stable.cfg:79
+msgid ""
+"However, this couldn't annoy most of the team. They were just after a "
+"generous payday and a before a several weeks long vacation. Or at least they "
+"thought so..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:96
+msgid "Damn that sneak... it will be fortnight when we arrive to Gubbre."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:100
+msgid ""
+"What if we don't find anybody awaken? I don't want to sleep in the forest."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:104
+msgid ""
+"Heh, I wouldn't have compunction for arousing the whole settlement. It's "
+"really a minor annoyance compared to the money we're going to pay them for "
+"this little holiday."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_Zombies_in_the_Stable.cfg:109
+msgid "Get to Gubbre"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:124
+msgid ""
+"Being killed by a miserable pile of flesh... not a glorious end for my "
+"career."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:140
+msgid ""
+"I don't think I can make any use of Basyl as a zombie... not likely he can "
+"still handle bombs."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:161
+msgid "Oh no, not again!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:165
+msgid "Perhaps it's excess to fight them this time either."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:169
+msgid ""
+"Well, if you wish to do diplomacy with a bunch of decaying corpses, just go."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:173
+msgid "Ehm... rather not."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Zombies_in_the_Stable.cfg:178
+msgid "From all around"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Zombies_in_the_Stable.cfg:179
+msgid "Eeeeeeeeeerw... graaaaaaaaa... bwuoaaaaaaaaaaaa..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:192
+msgid ""
+"There might be more of them in the forest... I have a bad feeling that we "
+"won't get our well-merited relax!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_Zombies_in_the_Stable.cfg:198
+msgid "Kill all zombies"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/06_Zombies_in_the_Stable.cfg:219
+msgid "Well, if you're just collecting flowers, say it fast!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/06_Zombies_in_the_Stable.cfg:235
+msgid "You can't say I didn't ask!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:267
+msgid "Where did they come from?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:271
+msgid ""
+"How could I know? Let's hurry to the village and see if we can save anything "
+"from our vacation."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_Zombies_in_the_Stable.cfg:276
+msgid "Investigate the village"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/06_Zombies_in_the_Stable.cfg:315
+msgid "Is there anybody here?"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:328
+msgid "Huh! It's good to see somebody at last who moves and actually lives..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:332
+msgid ""
+"...and not just un-lives! Grrr... you can't imagine what horrors we met!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:336
+msgid "What happened here, villager?"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:340
+msgid "Undead..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:344
+msgid "Lots of lots of undead..."
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:348
+msgid "Lieutenant Fred was killed..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:352
+msgid "More and more of undead..."
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:356
+msgid "Oh no! Here they come again!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Zombies_in_the_Stable.cfg:373
+msgid "Zombie crowd"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Zombies_in_the_Stable.cfg:374
+msgid "Uuuuuuuuuuuuuuurrrrggghhhh... wwruuuuuuuuuuggghhhh..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:378
+msgid "Run! Run for our lives!"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:382
+msgid "Fight! Fight for our lives!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:386
+msgid ""
+"These two won't give a senseful word while these abonimations are lurking "
+"around. Let's get rid of them."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:390
+msgid "There's a whole swarm of them! Maybe we could use some explosives?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:394
+msgid ""
+"I'm fed up with your explosives. Let's lock them up into the stables, then "
+"we can burn them along with the building."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Zombies_in_the_Stable.cfg:399
+msgid "Special game mode"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Zombies_in_the_Stable.cfg:402
+msgid ""
+"The battle against these undead doesn't go the usual way. They can move and "
+"attack you as normal, except that their movepoints are reduced to 2, but "
+"you're unable to harm or kill them. However, when you attack a zombie, you "
+"will push it away by one hex. A zombie got hit becomes fuzzy and can't move "
+"in the next turn (but still can attack!). You can also toss whole queues of "
+"zombies like dominos. Any enemy pushed into one of the stables (the two "
+"villages near the bottom of the map) will be instantly removed from the game."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_Zombies_in_the_Stable.cfg:408
+msgid "Toss all zombies into the stables"
+msgstr ""
+
+#. [message]: speaker=$survivor_villager.id
+#: scenarios/06_Zombies_in_the_Stable.cfg:430
+msgid "Maybe it's better to escape before I get slayed too!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:442
+msgid "Damn... we'll never find out what happened here."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/06_Zombies_in_the_Stable.cfg:513
+msgid ""
+"You're going the wrong way, hellish creature! Let me show you the right path!"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:710
+msgid "Huh. This was tiring."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:714
+msgid ""
+"We're very grateful for your help. If we can do anything for you, just say."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:718
+msgid "Well, we'd need some sort of accomodation for the next few weeks."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:722
+msgid "Oh, no problem. We have quite a few empty rooms right now."
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:726
+msgid "Just take a less bloody one."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:730
+msgid ""
+"Before all, I'd like to know what happened here. Were you experimenting with "
+"necromancy, heh?"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:734
+msgid "No, no it wasn't us..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:738
+msgid ""
+"This whole nightmare started two days ago. Two men arrived from Fruggwoc."
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:742
+msgid ""
+"They said that their village was destroyed. And not just theirs, but Lorcyn, "
+"Krabwy and many others too..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:746
+msgid ""
+"We asked them what happened but they only stuttered and muttered and their "
+"eyes bulged in horror."
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:750
+msgid "Then suddenly one of them shouted: 'Run! Run for our lives!'"
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:754
+msgid "And the other: 'Fight! Fight for our lives!'"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:758
+msgid "And then we noticed him..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:762
+msgid "A man in black robes, coming down the northern road..."
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:766
+msgid "When he came closer we could hear some weird, ghoulish song..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:770
+msgid ""
+"And, unfortunately, not just us... seems like even the dead could hear it!"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:774
+msgid ""
+"The next thing we saw were hordes of zombies staggering out of the cemetery, "
+"as the man continued to play on his flute..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:778
+msgid "His... flute?"
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:782
+msgid "Yes. Is there something wrong?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:786
+msgid "No, no..."
+msgstr ""
+
+#. [message]: speaker=Villager2
+#: scenarios/06_Zombies_in_the_Stable.cfg:790
+msgid "He left towards Daklyn. Hope they had better luck there..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:794
+msgid "Thank you... I think I've heard enough. Good night."
+msgstr ""
+
+#. [message]: speaker=Villager1
+#: scenarios/06_Zombies_in_the_Stable.cfg:798
+msgid "Good night then."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:814
+#: scenarios/06_Zombies_in_the_Stable.cfg:863
+msgid "Creona..."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:828
+msgid "I think..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:832
+msgid "I'm not interested in anything you might think."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:836
+msgid "I think this man is..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:840
+msgid "<b>DON'T SAY IT!</b>"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:844
+msgid ""
+"After 57 murders and hundreds of steals and break-ins in a total value of "
+"more than 5000 golds, for the first time I feel that I've done a horribly, "
+"unreverertably evil thing!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:848
+msgid "<i>(murmuring)</i> We could have not known..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:852
+msgid ""
+"This beast could have destroyed half the northlands by now! This... this is "
+"a crime! And we did help him!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:867
+msgid "Oh no! The mage! He returned to take revenge!"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:871
+msgid "Not at all."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:883
+msgid "I come with peaceful intentions."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:887
+msgid ""
+"<i>(aside)</i> Good to know... we'd be in big trouble if all our victims "
+"appeared seeking for revenge."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:891
+msgid "I have a job for you."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:895
+msgid "Ehm... really?"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:899
+msgid "Yes. I need you to assassinate Mal Amadeus."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:903
+msgid "Mal... Amadeus?"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:907
+msgid "You know who is he, don't you?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:911
+msgid ""
+"Don't do this! I'm suffering from the knowledge that I practically "
+"slaughtered thousands of people and you're tearing my nerves with your silly "
+"jokes! <b>You're not funny at all!</b>"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:915
+msgid ""
+"Oh, calm down, my dear. It's not your fault. Or at least not solely yours. "
+"Let me tell you the whole story."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:919
+msgid "The story of what? The flute? You? Mal Amadeus?"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:923
+msgid ""
+"It's all the same. So let's start. The flute was originally a top secret "
+"security project for Weldyn. The greatest minds of Alduin worked on it. It "
+"was designed to make people calm and sleepy with its magical sound, and so "
+"it could have been a perfect weapon to disband demonstrations or disarm "
+"rebels. The king could have raised taxes quite high with this tool in his "
+"hand."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:927
+msgid ""
+"The problems appeared when a talented young mage, Ludwig joined the "
+"development. It turned out that the original designers were uneducated in "
+"music, and they made a huge mistake. The flute worked as intended when the "
+"melody was in major, but was completely untested for minor tonalities. "
+"Unfortunately, Ludwig was an excellent flute player, and he found the secret "
+"flaw - minor tonality sounded so nerve-rackingly terrifying on this "
+"instrument that even the dead resonated to it."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:931
+msgid ""
+"You might guess the rest... corrupted by the power it gave to him, Ludwig "
+"escaped with the flute and started to build up an undead army. Our luck was "
+"that he wasn't an experienced necromancer, so he couldn't really keep order "
+"among his soldiers. The aimlessly wandering skeletons soon drew the "
+"attention of his pursuers, and he was taken down by the Wesnothian Special "
+"Forces in an ambush the public never got informed of."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:935
+msgid ""
+"The king was shocked by the power of this device, and considered it to be "
+"too dangerous to use. It was buried somewhere deep in the fortress of Weldyn "
+"for a long time. Time passed, and the original creators died one after one - "
+"along with the king. The new government didn't share the old ruler's "
+"concerns, and showed great interest in this weapon. Nobody lived who knew "
+"how the flute worked, though. So it was assigned to me to examine the device "
+"and find out its working mechanisms."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:939
+msgid ""
+"Since I thought that the story was ended back then with the death of Ludwig, "
+"I wasn't really careful about the secretness of the task. But I had to learn "
+"that our men overlooked a crucial thing on that day - Ludwig somehow managed "
+"to blow the flute with his last breath, and he was reborn as Mal Amadeus. By "
+"the time I got to know that he's still alive and seeks for the flute it was "
+"too late - he located me, and... you know the story from here."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:943
+msgid "Unfortunately. Where is he now? Do you know?"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:947
+msgid ""
+"He set up his lair in a cave inside the great northern mountains. The place "
+"is known as the 'Concert Hall' by the locals for its intensive echo effect. "
+"It's a few days' walk from here."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:951
+msgid ""
+"Thanks. I am... sorry for all that happened. I'll do my best to make up for "
+"it. We must go now."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:955
+msgid "You aren't strong enough to fight him alone."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:959
+msgid "I wish I didn't have to, but that's our only option."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:963
+msgid ""
+"Don't be so pessimistic. Many people's life is on risk. You must find help!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:967
+msgid ""
+"And who would help us!? Wesnothians? There's a thousand gold bounty on my "
+"head! Northlanders? Yeah, just after they got rid of the undead in their "
+"very own homes. Who?!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:971
+msgid "I know... someone."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:975
+msgid "Speak up!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:979
+msgid ""
+"I have a... brother. He lives in Larfoc. He's very educated in arcane "
+"magic... or at least used to be."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:983
+msgid "You have a brother? You never said."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:987
+msgid ""
+"I forgot it myself... we aren't really in contact since... since very long."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:991
+msgid "Alright, we'll fetch him. I mean, if still lives in Larfoc."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/06_Zombies_in_the_Stable.cfg:995
+msgid ""
+"I'm pretty sure he does. I would be surprised if he even stepped out from "
+"his house in the last twenty years."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/06_Zombies_in_the_Stable.cfg:999
+msgid ""
+"Very well. As you can see, I'm responsible for this catastrophy, too, and I "
+"wasn't joking when I said that I'd like to pay you for your job. My offer is "
+"650 golds: 200 prepaid and an additional 450 in cas of success. How does "
+"that sound?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/06_Zombies_in_the_Stable.cfg:1003
+msgid "Very generous. But I think, for this one time, I will work for free."
+msgstr ""
+
+#. [unit]: id=Merlyn, type=Arcane Grenadier
+#. [scenario]: id=Merlyn
+#: scenarios/07_Merlyn.cfg:5 scenarios/07_Merlyn.cfg:688 utils/heros.cfg:48
+msgid "Merlyn"
+msgstr ""
+
+#. [side]: id=Patrick, type=Lieutenant
+#: scenarios/07_Merlyn.cfg:39
+msgid "City guard"
+msgstr ""
+
+#. [side]: id=Patrick, type=Lieutenant
+#: scenarios/07_Merlyn.cfg:43
+msgid "Lieutenant Patrick"
+msgstr ""
+
+#. [side]
+#: scenarios/07_Merlyn.cfg:65
+msgid "Thief Guild of Larfoc"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Merlyn.cfg:91
+msgid ""
+"Creona forced her team into a ruthless march to reach Larfoc as soon as "
+"possible. Unnormally for her, she couldn't concentrate on the tasks ahead. "
+"The only thing in her mind was that they were wasting time and should have "
+"gone even faster. Just when the towers of Larfoc appeared in the horizon she "
+"realised that she still knew almost nothing about Basyl's brother, where did "
+"he live and how they would persuade him the help them."
+msgstr ""
+
+#. [part]
+#: scenarios/07_Merlyn.cfg:94
+msgid ""
+"She also totally forgot about the escape of Agent Jack, although the "
+"consequences of that soonly became very-very actual..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:105
+msgid "Why have you never mentioned that you had a brother?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:109
+msgid ""
+"I've already told you. We haven't see eachother for so long that I even "
+"started to forget that I have a brother."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:113
+msgid "Tell me a bit about him."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:117
+msgid ""
+"He's name is Merlyn. He's two years older than me and always have been "
+"obsessed with arcane magic. I can't really tell more. I don't like him."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:121
+msgid "Why?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:125
+msgid ""
+"You know... we're very different. He used to be an eminent student. He was "
+"nice and obedient. He always did the right thing and I always did the wrong."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:129
+msgid "Haha! The suppressed brother syndrome?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:133
+msgid ""
+"Call it what you want. Half my childhood passed with listening 'you could "
+"learn from your brother or you'll end up as a criminal'. You would hate him "
+"too."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:137
+msgid "Quite a childish attitude."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:141
+msgid "Well... yes, maybe."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:145
+msgid "You shall have some time to talk this over soon. For now, let's go."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:149
+msgid "Merlyn lives in the old town, up on the mountain."
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:167
+msgid ""
+"Sorry, madam, I can't let you go further! No woman's allowed to enter the "
+"district before sunrise."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:171
+msgid "What kind of rule this is?!"
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:175
+msgid ""
+"Oh, you haven't heard the news? A group of bandits, saurians and nagas "
+"attacked and ruined Cyty about a week ago. The outlaws are still in escape, "
+"and now there're strict security rules in order to prevent them from raiding "
+"another settlement. But the only thing we currently know about them is their "
+"leader, who's a woman. Fortunately, an agent of the Secret Service of "
+"Wesnoth identified her, so you can enter the old town as soon as an SSW "
+"ofiicial checked your identity. But they're not on duty until dawn."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:179
+msgid ""
+"Okay then, I'll stay outside, just some of these impeccable gentlemen go in."
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:183
+msgid ""
+"I'm afraid that's impossible, too. I've a good reason to think that they're "
+"your companions so letting them inside our walls is nothing better than "
+"letting you."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:187
+msgid "<i>Basyl?</i>"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:191
+msgid "<i>Yes?</i>"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:195
+msgid "<i>Is there another way to get into that district?</i>"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:199
+msgid ""
+"<i>Maybe... I remember there was a weak point. But I doubt that the guards "
+"would tolerate us probing the wall.</i>"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:203
+msgid ""
+"<i>Don't care about the guards. We'll keep them busy. Meanwhile, you sneak "
+"into the castle and take out your brother.</i>"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:207
+msgid "<i>What if he doesn't want to come?</i>"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:211
+msgid ""
+"<i>Your problem. I strongly advise you not to return without Merlyn. Good "
+"luck.</i>"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:215
+msgid "Hey you! Canhead!"
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:219
+msgid "What...?!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:223
+msgid ""
+"I decided not to annoy myself with your pathetic bureaucracy. After all, I'm "
+"not here for sightseeing, but to destroy your town with my saurian allies!"
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:227
+msgid "What kind of joke is this?!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:231
+msgid "A very serious one! Creona's always <i>deathly</i> serious!"
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:235
+msgid "Creona... it's she! Get them!"
+msgstr ""
+
+#. [objectives]
+#: scenarios/07_Merlyn.cfg:259
+msgid ""
+"Patrick gets some golds after every killed unit of his, so don't be too much "
+"bloody-handed"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_Merlyn.cfg:262
+msgid "Find a way into the old town with Basyl"
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:278
+msgid "We got her! I surely get a promotion for this."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:300
+msgid "Oh, this is not good. Nobody can tell us now where we can find Merlyn."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:306
+msgid ""
+"Oh, poor, poor Basyl! Have you listened to our mother's benevolent warnings, "
+"you wouldn't have ended up like this. I'm going to return to my home now to "
+"mourn you for a year."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:313
+msgid ""
+"Come back, you bastard! Eh, we have to leave not more but less armed than "
+"we've come. It's your fault, Basyl."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:331
+msgid "No! Merlyn! We need you!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:335
+msgid ""
+"He couldn't have had much use anyways if he couldn't had standed against "
+"these puny guards. Seems that nobody can help us against Amadeus..."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:367
+msgid "That's it! I hope its walkable till the end."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:388
+msgid ""
+"Great. I can't remember the exact location of Merlyn's house, but maybe a "
+"little promenade on the streets will call back my memories."
+msgstr ""
+
+#. [message]: speaker=Guild Leader
+#: scenarios/07_Merlyn.cfg:399
+msgid "Hey! Who goes there?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:403
+msgid "I'm a traveller, I'm..."
+msgstr ""
+
+#. [message]: speaker=Guild Leader
+#: scenarios/07_Merlyn.cfg:407
+msgid ""
+"You're lurking on the streets at midnight, holding a dagger in one of your "
+"hands and a bomb in the other. You definitely look like some kind of "
+"criminal."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:411
+msgid "I'm not! I'm just a peaceful..."
+msgstr ""
+
+#. [message]: speaker=Guild Leader
+#: scenarios/07_Merlyn.cfg:415
+msgid ""
+"Be welcomed in Larfoc, brother! I'm the the head of the local thieves' guild."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:419
+msgid ""
+"Oh... okay then. I'm Basyl, an explosives expert. And yes, I'm not exactly a "
+"lawful man."
+msgstr ""
+
+#. [message]: speaker=Guild Leader
+#: scenarios/07_Merlyn.cfg:423
+msgid "Nice to see you, Basyl. The thieves of Larfoc are all friends of yours."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:427
+msgid "That's a warm welcoming. Could you help me a bit then?"
+msgstr ""
+
+#. [message]: speaker=Guild Leader
+#: scenarios/07_Merlyn.cfg:431
+msgid "I'll make my best."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:435
+msgid "I'm looking for a mage, Merlyn."
+msgstr ""
+
+#. [message]: speaker=Guild Leader
+#: scenarios/07_Merlyn.cfg:439
+msgid ""
+"Ah, Merlyn! He's a strange man. He lives in one of those unusual dwellings "
+"on the main square."
+msgstr ""
+
+#. [message]: speaker=Guild Leader
+#: scenarios/07_Merlyn.cfg:447
+msgid ""
+"Unfortunately, I cannot specify which. You know, he doesn't own big buckets "
+"of money or jewellery, just books and such stuff. We have little interest in "
+"his precise address. Maybe the others can tell you more. Visit the wooden "
+"houses - you will find my friends there."
+msgstr ""
+
+#. [message]: speaker=Creona
+#. [message]: speaker=Basyl
+#: scenarios/08_Prelude_of_the_Finale.cfg:207 scenarios/07_Merlyn.cfg:451
+#: scenarios/07_Merlyn.cfg:494
+msgid "Thank you."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_Merlyn.cfg:460
+msgid "Visit the log cabins to get more information"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/07_Merlyn.cfg:486 scenarios/07_Merlyn.cfg:514
+#: scenarios/07_Merlyn.cfg:542 scenarios/07_Merlyn.cfg:566
+msgid "<i>(Basyl explains the situation)</i>"
+msgstr ""
+
+#. [message]: speaker=Guild Member
+#: scenarios/07_Merlyn.cfg:490
+msgid ""
+"He hates extreme temperatures, both cold and hot. That's all I know about "
+"him."
+msgstr ""
+
+#. [message]: speaker=Guild Member
+#: scenarios/07_Merlyn.cfg:518
+msgid ""
+"Ah, Merlyn, he's a really weird man. Once I heard him saying that he would "
+"not live even opposite to a house which he wouldn't live in... but he "
+"wouldn't mind it as a neighbour... strange, isn't it?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:522
+msgid "Sure it is."
+msgstr ""
+
+#. [message]: speaker=Guild Member
+#: scenarios/07_Merlyn.cfg:546
+msgid ""
+"I don't know which is his house, but I can remember that he lives next to a "
+"librarian. They're good friends, I often see them chatting."
+msgstr ""
+
+#. [message]: speaker=Guild Member
+#: scenarios/07_Merlyn.cfg:570
+msgid ""
+"Never heard of Merlyn. But hey, would you like to hear an interesting story?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:574
+msgid "Not really."
+msgstr ""
+
+#. [message]: speaker=Guild Member
+#: scenarios/07_Merlyn.cfg:578
+msgid ""
+"Okay, then I'll be short. So, once I broke into that igloo. Guess what I "
+"found inside?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:582
+msgid "Fish?"
+msgstr ""
+
+#. [message]: speaker=Guild Member
+#: scenarios/07_Merlyn.cfg:586
+msgid ""
+"No! Books! Can you imagine it? You go inside, the floor, the table, "
+"everything is from ice and snow, and there're books and books and books "
+"everywhere! Haha! Isn't that funny?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:590
+msgid "Ummm... actually, you provided me some useful information."
+msgstr ""
+
+#. [message]: speaker=Guild Member
+#: scenarios/07_Merlyn.cfg:594
+msgid "Really? Then you might want to hear another..."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:598
+msgid "Nonono. <i>(shuts the door)</i>"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_Merlyn.cfg:608
+msgid "Move Basyl to Merlyn's house"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/07_Merlyn.cfg:612
+msgid "Move Basyl to a wrong house"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:703
+msgid "Who's that?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:707
+msgid "Hi Merlyn."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:711
+msgid "Basyl! My poor, errand brother!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:715
+msgid "I'm quite alright, but..."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:719
+msgid ""
+"You came back to be pulled out from the dark abyss of crime you were fallen "
+"to!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:723
+msgid "Not exactly. But I need your help."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:727
+msgid ""
+"What? My help? In what? Be warned, I won't participate in anything illegal!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:731
+msgid ""
+"No, no, this is for a good purpose, even in your terms. A powerful lich is "
+"terrorising the northern regions. We want to stop him."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:735
+msgid "A lich! The evilest of all creatures in hell! We must destroy him!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:739
+msgid "So you'll help? Great! Pack your luggage and..."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:743
+msgid ""
+"No, there's no time to waste! We leave right now! Lead me on the holy "
+"crusade, brother!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:747
+msgid "As you wish. Let's go then, this way."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:751
+msgid "This way is the lich?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:755
+msgid "No, this way we can leave your garden."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:393 scenarios/07_Merlyn.cfg:759
+msgid "Oh."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_Merlyn.cfg:765
+msgid "Move Basyl or Merlyn near to Creona"
+msgstr ""
+
+#. [unit]: type=Peasant, id=Frightened Citizen
+#: scenarios/07_Merlyn.cfg:778
+msgid "Frightened Citizen"
+msgstr ""
+
+#. [message]: speaker=Frightened Citizen
+#: scenarios/07_Merlyn.cfg:797
+msgid ""
+"Damn, who's that, this late... my god, a madman with bombs! He's gonna blow "
+"me up! <b>HELP!!!</b>"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:801
+msgid "Uh-oh."
+msgstr ""
+
+#. [message]: speaker=Patrick
+#: scenarios/07_Merlyn.cfg:805
+msgid ""
+"I heard a cry! You and you, go and look round in the town. It's not "
+"impossible that some of the bandits sneaked in!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:813
+msgid ""
+"Oh no, they'll find Basyl... we came for reinforcements, but actually had to "
+"leave here some of our best men... and Basyl, too."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:865
+msgid ""
+"What is that? Our beloved city is besieged by bandits! Filthy outlaws, feel "
+"my rage!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:869
+msgid "Stop Merlyn, they are my friends!"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:873
+msgid ""
+"Really? And you expect me to form an alliance with these criminals?! Never!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:877
+msgid "We must destroy that lich somehow! Do you not remember?"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:881
+msgid ""
+"Well... hmmm.. yes, you're right. I can't let this minor conflict to "
+"distract me. Sometimes we have to make sacrifices for the greater good."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:933
+msgid "So you're Basyl's brother."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:937
+msgid "Merlyn, at your service."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:941
+msgid "Creona. I hope Basyl's already explained you the situation."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:945
+msgid "Yes he did. I'm ready to sacrifice my life for the holy purpose."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:949
+msgid "Basyl was quite right. You seem to be very different than he..."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:953
+msgid ""
+"Oh, that's just the surface, an illusion of the eyes. In fact, we have more "
+"similarities than differences."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:957
+msgid "For example?"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:961
+msgid "For example, we both like explosives."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:965
+msgid "Oh no."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/07_Merlyn.cfg:969
+msgid "I have a special bomb, designed particularly against undead. Look!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/07_Merlyn.cfg:983
+msgid "Wow! Cool!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:987
+msgid "Fun time is over, keep on moving. We have nothing to do here."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_Merlyn.cfg:1007
+msgid "Creona reaches the signpost"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/07_Merlyn.cfg:1012
+msgid "Merlyn dies"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/07_Merlyn.cfg:1035
+msgid ""
+"Another city which I can't step into anymore. <i>(sighs)</i> Okay, let's "
+"find that 'Concert Hall'."
+msgstr ""
+
+#. [scenario]: id=Prelude_of_the_Finale
+#: scenarios/08_Prelude_of_the_Finale.cfg:5
+msgid "Prelude of the Finale"
+msgstr ""
+
+#. [side]: type=Deathblade, id=Gatekeeper1
+#. [side]: type=Wraith, id=Gatekeeper2
+#: scenarios/08_Prelude_of_the_Finale.cfg:25
+#: scenarios/08_Prelude_of_the_Finale.cfg:42
+msgid "Once again not mysterious undead"
+msgstr ""
+
+#. [side]: type=Deathblade, id=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:29
+msgid "First Gatekeeper"
+msgstr ""
+
+#. [side]: type=Wraith, id=Gatekeeper2
+#: scenarios/08_Prelude_of_the_Finale.cfg:46
+msgid "Second Gatekeeper"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/08_Prelude_of_the_Finale.cfg:62
+msgid "Are we yet there?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/08_Prelude_of_the_Finale.cfg:67
+msgid "yet there... yet there..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:71
+msgid "Seems like."
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:75
+msgid "Hey you! What's your business here?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:79
+msgid "We came to see Mal Amadeus."
+msgstr ""
+
+#. [message]: speaker=Gatekeeper2
+#: scenarios/08_Prelude_of_the_Finale.cfg:83
+msgid ""
+"Lord Amedeus is giving a reception and a concert right now. Nobody's allowed "
+"to enter."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:87
+msgid ""
+"And invitees, maybe? We're guests in honor. You had better not to infuriate "
+"your master by locking us out."
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:91
+msgid "<i>You knew that Amadeus actually invited guests?</i>"
+msgstr ""
+
+#. [message]: speaker=Gatekeeper2
+#: scenarios/08_Prelude_of_the_Finale.cfg:95
+msgid "<i>No... I thought he organized this whole thing only for himself.</i>"
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:99
+msgid "<i>Suspicious.</i>"
+msgstr ""
+
+#. [message]: speaker=Gatekeeper2
+#: scenarios/08_Prelude_of_the_Finale.cfg:103
+msgid "<i>Yeah, and I really don't like that guy in the white robes.</i>"
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:107
+msgid "Can I see your invitation cards, please?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:111
+msgid ""
+"Euh... I'm afraid I lost it somewhere... I'm an old friend of Amadeus, he "
+"really expects me... we must enter..."
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:115
+msgid "Just through my dead body."
+msgstr ""
+
+#. [message]: speaker=Gatekeeper2
+#: scenarios/08_Prelude_of_the_Finale.cfg:119
+msgid "Haha... that's quite a meaningless banality in your case."
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:123
+msgid "Shut up. You have no body at all."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/08_Prelude_of_the_Finale.cfg:128
+msgid ""
+"I don't think we're strong enough to fight our way through all these undead. "
+"Not even with grenades."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:132
+msgid ""
+"Exceptionally, you're right. It's impossible to beat Amadeus' entire army "
+"and then also Amadeus himself."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/08_Prelude_of_the_Finale.cfg:136
+msgid ""
+"You shall not fall into desperation while you see my light! Here, take these."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:145
+msgid "What's this?"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/08_Prelude_of_the_Finale.cfg:149
+msgid ""
+"Holy water. It makes your weapons much more effective against these unholy "
+"spawns. I have enough for only three men, so choose the three whom you trust "
+"the most!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08_Prelude_of_the_Finale.cfg:163
+msgid "Defeat both enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/08_Prelude_of_the_Finale.cfg:167
+#: scenarios/09_Danse_Macabre.cfg:434 scenarios/09_Danse_Macabre.cfg:494
+msgid "Death of Merlyn"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Prelude_of_the_Finale.cfg:195
+msgid ""
+"Sorry master, I tried to stop them. I hope they won't disturb you too much."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Prelude_of_the_Finale.cfg:203
+msgid ""
+"Okay... khhh... I think... it's not that necessary... to show your "
+"invitation cards... go, have fun..."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/08_Prelude_of_the_Finale.cfg:225
+msgid "I couldn't destroy the lich... I failed my holy mission..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:235
+msgid "At least you're not alone with that."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/08_Prelude_of_the_Finale.cfg:251
+msgid "No! My brother!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:255
+msgid "Eh, even that was a miracle that he could survive for so long..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:271
+msgid "Tell your lord that I hate him..."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/08_Prelude_of_the_Finale.cfg:287
+msgid "You want free tickets, heh? Die, impostor!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Prelude_of_the_Finale.cfg:305
+msgid "Take this, nasty undead!"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/08_Prelude_of_the_Finale.cfg:317
+msgid ""
+"In the name of the fathers of light, go back to the hell where you came from!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/08_Prelude_of_the_Finale.cfg:321
+msgid "Hey boys, I think we've got a white mage here!"
+msgstr ""
+
+#. [message]: speaker=Gatekeeper2
+#: scenarios/08_Prelude_of_the_Finale.cfg:325
+msgid "A white mage! Now it's sure that they have ulterior motives!"
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:329
+msgid "Kill him!"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/08_Prelude_of_the_Finale.cfg:333
+msgid "<b>I'm no white mage. I am the Arcane Grenadier!</b>"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/08_Prelude_of_the_Finale.cfg:337
+msgid "What?"
+msgstr ""
+
+#. [message]: speaker=Gatekeeper1
+#: scenarios/08_Prelude_of_the_Finale.cfg:341
+msgid ""
+"Don't worry about it, likely that he's just insane. You know, all this light-"
+"magic-stuff isn't particularly good for your mental health."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/08_Prelude_of_the_Finale.cfg:354
+msgid "That was your well-deserved fate, unholy creature!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:364
+msgid "Basyl?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:372
+msgid "Errr... could you give me some grenades, please?"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/08_Prelude_of_the_Finale.cfg:376
+msgid ""
+"Of course. Here they are. Be careful with them, they are really explosive."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:380
+msgid "Don't you say!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/08_Prelude_of_the_Finale.cfg:398
+msgid "I've never thought that once I'll be throwing these goddamn grenades."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/08_Prelude_of_the_Finale.cfg:402
+msgid ""
+"Don't look at it like that! Once you'll have got used to it, you'll see that "
+"it's fun!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/08_Prelude_of_the_Finale.cfg:423
+msgid "Wow! This water-thingy really works!"
+msgstr ""
+
+#. [scenario]: id=Danse_Macabre
+#: scenarios/09_Danse_Macabre.cfg:5
+msgid "Danse Macabre"
+msgstr ""
+
+#. [side]: id=Mal Amadeus, type=Party Lich, (id=Skele1)}, (id=Skele2, (id=Skele3
+#: scenarios/09_Danse_Macabre.cfg:143
+msgid "undead"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Danse_Macabre.cfg:170
+msgid ""
+"The group entered the caves. In the light of their torches, they could see "
+"stunning underwater rivers and marvelous stalactites. Yet, there was no sign "
+"of life (or un-life). However, as they proceeded deeper into the underground "
+"dungeons, a faint, distant voice of a flute came to their ears."
+msgstr ""
+
+#. [part]
+#: scenarios/09_Danse_Macabre.cfg:174
+msgid ""
+"Then they arrived to the main hall, which looked like nothing they had "
+"expected..."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/09_Danse_Macabre.cfg:182
+msgid "Wow! This place is..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:186
+msgid "Amazing."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:190
+msgid "A work of evil magic."
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/09_Danse_Macabre.cfg:194
+msgid "Look, there!"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:369
+msgid "Oh, hi Creona! Would you like to join the party?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:373
+msgid "Hello, we..."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:377
+msgid "<b>WE CAME TO DESTROY YOU, VILLAINOUS CREATURE OF THE HELLS!</b>"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:381
+msgid "Merlyn!"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:385
+msgid "What it is? Isn't that our purpose?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:389
+msgid "Sure it is, but I wouldn't have insisted on giving it away."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:397
+msgid ""
+"Ah! Hah! Is this serious? <i>You?</i> With that handful of thugs and that "
+"idiot? Haha!"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:401
+msgid "You don't know what powers are you facing, lich!"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:405
+msgid ""
+"Hahahaha! Your clothes may be light but there's an obvious darkness in your "
+"head. It's <i>you</i> who's rather misinformed about my skills!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:410
+msgid ""
+"It won't be easy to reach Amadeus. I wonder if we could use those runes for "
+"something."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Danse_Macabre.cfg:416
+msgid ""
+"Every glowing (orange) rune has one or two (purple) pairs in the middle of "
+"one of the symmetric stone pillars. The pillars will turn if you move on or "
+"move away from the appropriate rune. Only Merlyn, Basyl and Creona can "
+"trigger runes."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Danse_Macabre.cfg:422
+msgid ""
+"Creona, Basyl and Merlyn reaches the magic circle at the other end of the "
+"abyss"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/09_Danse_Macabre.cfg:430 scenarios/09_Danse_Macabre.cfg:490
+#: utils/misc.cfg:44
+msgid "Death of Basyl"
+msgstr ""
+
+#. [objectives]
+#: scenarios/09_Danse_Macabre.cfg:436
+msgid ""
+"Don't recruit too many units. There won't be many enemies along the way and "
+"it'd be painfully boring to maneuver with a big army in the lanirynth."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:446
+msgid ""
+"I really don't understand what's your problem. We had an agreement. I got my "
+"flute, you got your money. What the hell do you want from me?"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:450
+msgid "What? You helped him to acquire that thing?!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:454
+msgid ""
+"Yes, I did... it was my mistake and this is why I'm trying so hard to make "
+"up for it."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:458
+msgid ""
+"I see, daughter, that you found the right way out of sin and to the light. I "
+"forgive you."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:462
+msgid "Bahh... I'm obliged."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:466
+msgid ""
+"I'm sad that we ended up like this. I thought we could be friends. "
+"Seriously, what do you think of yourself that you come here and try to take "
+"away my property? You didn't leave me any option but to kill you. Maybe "
+"you'll be a bit nicer afterwards."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Danse_Macabre.cfg:482
+msgid "Destroy Mal Amadeus!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Danse_Macabre.cfg:508
+msgid "Master?"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:512
+msgid "Look! He's got some nasty device to revive the dead with!"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:520
+msgid "Don't let them past the abyss!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Danse_Macabre.cfg:524
+msgid "Yes, my lord."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:536
+msgid ""
+"I'm really sorry, Creona. But it's your fault, I wouldn't have harmed you if "
+"you didn't force me."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/09_Danse_Macabre.cfg:551
+msgid "I fell, but you must continue the fight, friends!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:562
+msgid "I'm afraid we can't."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:577
+msgid ""
+"Without Basyl's grenades, this fight is even more hopeless now than it was "
+"before."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:589
+msgid ""
+"I could never perform on a concert while I was alive, and you won't let me "
+"even in my death!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:593
+msgid "Just give me the flute and we're off."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:597
+msgid "Pfff."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:609
+msgid "Go away! You're ruining my concert!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/09_Danse_Macabre.cfg:613
+msgid "We'll stop them, master. I mean, the others."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:627
+msgid "Arrrggghhhh..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:631
+msgid "Game over."
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:635
+msgid "Just let me... blow my flute... for one last time..."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:639
+msgid "Don't even dream of it!"
+msgstr ""
+
+#. [message]: speaker=Mal Amadeus
+#: scenarios/09_Danse_Macabre.cfg:677
+msgid "Noooooo!!!!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/09_Danse_Macabre.cfg:698
+msgid "May you have a luckier second death, Amadeus."
+msgstr ""
+
+#. [scenario]: id=A_Job_Well_Done
+#: scenarios/10_A_Job_Well_Done.cfg:5
+msgid "A Job Well Done"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/10_A_Job_Well_Done.cfg:57
+msgid "Yippie! We made it!"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/10_A_Job_Well_Done.cfg:76
+msgid "Hahaha! Bimm-bumm!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/10_A_Job_Well_Done.cfg:114
+msgid "Ummm, Creona... what are you doing?"
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/10_A_Job_Well_Done.cfg:118
+msgid ""
+"Errr... well... in fact... I'm just getting rid of your goddamn bombs!!!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/10_A_Job_Well_Done.cfg:128
+msgid "It's already spring out here! Fantastic!"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/10_A_Job_Well_Done.cfg:132
+msgid ""
+"I hope this affair will make you reconsider your ways of living, Creona."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/10_A_Job_Well_Done.cfg:136
+msgid "Sure it will."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/10_A_Job_Well_Done.cfg:140
+msgid "Good."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/10_A_Job_Well_Done.cfg:144
+msgid "I'll never do business with liches again."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/10_A_Job_Well_Done.cfg:152
+msgid "Or at least I won't bring them any flutes."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: scenarios/10_A_Job_Well_Done.cfg:156
+msgid "Thank you for all the help. Good bye!"
+msgstr ""
+
+#. [message]: speaker=Basyl
+#: scenarios/10_A_Job_Well_Done.cfg:168
+msgid "Hey Creona! Wait!"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/10_A_Job_Well_Done.cfg:181
+msgid "<i>(Sighs)</i>"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/10_A_Job_Well_Done.cfg:202
+msgid "Forget it, Merlyn. You can't change them."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/10_A_Job_Well_Done.cfg:206
+msgid "Who are you?"
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/10_A_Job_Well_Done.cfg:210
+msgid ""
+"Arch mage Dunduggwyn, former owner of the flute and a victim of your brother."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/10_A_Job_Well_Done.cfg:214
+msgid ""
+"Oh, I'm sorry about that. Sometimes I feel really ashamed for what Basyl's "
+"doing."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/10_A_Job_Well_Done.cfg:218
+msgid ""
+"There's no need to regret, my friend. What would have happened if Basyl and "
+"Creona weren't criminals? Maybe Amadeus would have acquired the flute "
+"anyway, but there wouldn't have been anybody to stop him? What if he didn't "
+"kill these thousands of innocent villagers? Creona would have never changed "
+"her mind, and Amadeus could have caused much more trouble later? What if I "
+"didn't die? I could have become the new Mal Amadeus?"
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/10_A_Job_Well_Done.cfg:222
+msgid "I don't really understand what are you trying to imply."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/10_A_Job_Well_Done.cfg:226
+msgid ""
+"What I'm saying, my friend, is that we know that the story ended well this "
+"way. There's no need to wish for alternative scenarios."
+msgstr ""
+
+#. [message]: speaker=Merlyn
+#: scenarios/10_A_Job_Well_Done.cfg:230
+msgid "Quite a strange point of view."
+msgstr ""
+
+#. [message]: speaker=Dunduggwyn
+#: scenarios/10_A_Job_Well_Done.cfg:234
+msgid "Maybe you'll better understand this once you'll have died too."
+msgstr ""
+
+#. [unit_type]: id=Arcane Grenadier, race=human
+#: units/Arcane_Grenadier.cfg:4
+msgid "Arcane Grenadier"
+msgstr ""
+
+#. [unit_type]: id=Arcane Grenadier, race=human
+#: units/Arcane_Grenadier.cfg:22
+msgid ""
+"Some magi, as they learn about the world around them, and learn the truth of "
+"the suffering and squalor in which humanity too often lives, find that they "
+"cannot bring themselves to be cloistered into a life of study. These men and "
+"women give up the life of a mage, and join monastic orders, dedicating the "
+"skills they have been given to the good of all. After their ordination, they "
+"often travel the world, ministering to sickness and injury.\n"
+"\n"
+"Though not trained for combat, they are a potent ally against magical or "
+"unnatural things."
+msgstr ""
+
+#. [attack]: type=impact
+#: units/Arcane_Grenadier.cfg:42
+msgid "fist"
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/Arcane_Grenadier.cfg:51
+msgid "holy bomb"
+msgstr ""
+
+#. [unit_type]: id=Party Lich, race=undead
+#: units/Party_Lich.cfg:4
+msgid "Party Lich"
+msgstr ""
+
+#. [unit_type]: id=Party Lich, race=undead
+#: units/Party_Lich.cfg:23
+msgid "Even liches have high enough spirit sometimes to organize parties."
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/Party_Lich.cfg:46
+msgid "touch"
+msgstr ""
+
+#. [attack]: type=cold
+#: units/Party_Lich.cfg:58
+msgid "chill tempest"
+msgstr ""
+
+#. [attack]: type=arcane
+#: units/Party_Lich.cfg:70
+msgid "shadow wave"
+msgstr ""
+
+#. [unit_type]: id=Rogue Scientist, race=human
+#: units/Rogue_Scientist.cfg:6
+msgid "Rogue Scientist"
+msgstr ""
+
+#. [unit_type]: id=Rogue Scientist, race=human
+#: units/Rogue_Scientist.cfg:22
+msgid ""
+"Some scholars can't resist the seduction of their own power, and take the "
+"path of crime in the hope of easy money. They are invaluable members of any "
+"crime group for their knowledge of engineering and explosions."
+msgstr ""
+
+#. [attack]: type=blade
+#: units/Rogue_Scientist.cfg:39
+msgid "dagger"
+msgstr ""
+
+#. [attack]: type=fire
+#. [effect]: type=fire
+#: units/Rogue_Scientist.cfg:48 utils/misc.cfg:91
+msgid "grenade"
+msgstr ""
+
+#. [unit]: id=Basyl, type=Rogue Scientist
+#: utils/heros.cfg:10
+msgid "Basyl"
+msgstr ""
+
+#: utils/heros.cfg:27
+msgid "assassins"
+msgstr ""
+
+#: utils/heros.cfg:28
+msgid "Creona's team"
+msgstr ""
+
+#: utils/heros.cfg:31
+msgid "Creona"
+msgstr ""
+
+#: utils/misc.cfg:61
+msgid "Do you want this unit to take the bottle up?"
+msgstr ""
+
+#: utils/misc.cfg:62
+msgid "Yes."
+msgstr ""
+
+#: utils/misc.cfg:63
+msgid "No."
+msgstr ""
+
+#: utils/misc.cfg:64
+msgid ""
+"Merlyn already has an arcane attack. Give that flask to somebody who really "
+"needs it."
+msgstr ""
+
+#. [object]
+#: utils/misc.cfg:66
+msgid "Holy water"
+msgstr ""
+
+#. [object]
+#: utils/misc.cfg:68
+msgid ""
+"Holy water adds arcane damage to your melee weapons. Its effect lasts till "
+"the end of the campaign."
+msgstr ""
