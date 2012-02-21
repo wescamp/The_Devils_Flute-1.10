@@ -1,9 +1,35 @@
+* version 0.1.3
+	* removed unnecessary translatable marks from credit list, added 'many others...' entry
+	* edited scenario 1 intro text
+	* redesigned scenario 10 animation sequence
+	* edited difficulty descriptions
+	* added Nightmare difficulty
+	* added turn limit for scenario 2
+	* replaced all occurences of GOLD and TURNS by GOLD4 and TURNS4
+	* scenario 6 is lost if you kill Patrick
+
+* version 0.1.2:
+	* added 'portrait' for all narrator messages in scenario 7
+	* clipped scenario 4 map
+	* fixed flooded terrain graphics in scenario 3
+	* added translations folder
+	* fixed "first unit moves to a fall forest" event terrain codes and edited dialogue in scenario 5
+	* scenario 6 is lost if Basyl dies
+	* added missing objective in scenario 6
+	* fixed scenario 5 music
+	* fixed typo in scenario 6
+	* fixed typo in scenario 7
+	* removed some code from scenario 7 which shouldn't have been there anyway
+	* added a summary of the statements for the puzzles in scenario 2 and 7
+	* added warning about toss bug in scenario 6
+	* fixed grammatical issues in scenario 6, 7 and 10
+
 * version 0.1.1:
 	* fixed necromancer portrait in scenario 2
 	* added note to scenario objectives about side 2 reinforcements in scenario 7
 	* fixed typo in scenario 5 intro
 	* you cannot win scenario 7 by killing Patrick
-	* Dunduggwyn's house is now pointed to with a blinking image in scenario 3
+	* Dunduggwyn's house is now highlighted by a blinking image in scenario 3
 	* updated rotate-area.lua to version 1.1
 	* Arch Mage Ghost doesn't advance to Great Mage anymore
 	* added {AMLA_DEFAULT} to Rogue Scientist, Arcane Grenadier and Arch Mage Ghost
