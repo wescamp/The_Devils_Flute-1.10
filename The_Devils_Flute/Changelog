@@ -1,3 +1,27 @@
+* version 0.1.4
+	* Internal
+		* renamed utils to macros
+		* added macros/scenarios/scenariosXX.cfg files for macros specific to certain scenarios
+		* moved misc.cfg, heros.cfg, galactic-utils.cfg and danse-macabre-utils.cfg from macros to macros/utilities
+	* Bugfixes & other
+		* in scenario 1 side 2 properly recruits for the final dialog of none's alive; bats can't talk
+		* loyalist leader shouldn't be able to die anymore in scenario 3
+		* the merman is not hidden in scenario 2
+		* starting gold set to 0 in scenario 2
+		* fixed last breath events and added die event for Basyl in scenario 3
+		* no recruit for side 1 in scenario 5
+	* Balancing
+		* scenario 1 should be balanced now
+		* different puzzles added for different difficulties in scenario 2, whole scenario should be balanced
+		* scenario 3 balanced; various changes
+		* scenario 5 balanced; various minor changes
+		* scenario 6 (hopefully) balanced; various minor changes
+	* Artwork
+		* replaced bomb projectiles and rogue scientist sprites
+		* added updated maps of scenario 2 and 3 for BfW 1.11 and later (rainforest replaced with palm trees)
+	* Credits
+		* added artisticdude to art section
+
 * version 0.1.3
 	* removed unnecessary translatable marks from credit list, added 'many others...' entry
 	* edited scenario 1 intro text
