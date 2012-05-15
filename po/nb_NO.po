@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:24+0100\n"
+"POT-Creation-Date: 2012-05-15 06:45-0400\n"
 "PO-Revision-Date: 2012-02-26 17:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #. [campaign]: id=The_Devils_Flute
 #. [editor_group]: id=tdf
-#: The_Devils_Flute/_main.cfg:11 The_Devils_Flute/_main.cfg:77
+#: The_Devils_Flute/_main.cfg:11 The_Devils_Flute/_main.cfg:86
 msgid "The Devil's Flute"
 msgstr ""
 
@@ -29,7 +29,8 @@ msgid ""
 "Creona, the well-known assassin, gets a strange job from a strange person. "
 "So, in fact, it's no surprise that things take a strange turn...\n"
 "\t\n"
-"??? level, 10 scenarios (2 text-only)"
+"Level: easy is easy, nightmare is nightmare. 10 scenarios (2 text-only), "
+"finished."
 msgstr ""
 
 #. [campaign]: id=The_Devils_Flute
@@ -74,7 +75,7 @@ msgstr ""
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:26
-msgid "Campaign design, coding and some franken-art"
+msgid "Campaign design and coding"
 msgstr ""
 
 #. [about]
@@ -84,32 +85,124 @@ msgstr ""
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:41
+msgid "Art"
+msgstr ""
+
+#. [about]
+#: The_Devils_Flute/_main.cfg:50
 msgid "Non-mainline music"
 msgstr ""
 
 #. [about]
-#: The_Devils_Flute/_main.cfg:53
+#: The_Devils_Flute/_main.cfg:62
 msgid "Random code & content copied from"
 msgstr ""
 
 #. [entry]
-#: The_Devils_Flute/_main.cfg:55
-msgid "'Invasion from the Unknown' by shadowmaster"
+#: The_Devils_Flute/_main.cfg:64
+msgid "“Invasion from the Unknown” by shadowmaster"
 msgstr ""
 
 #. [entry]
-#: The_Devils_Flute/_main.cfg:58
-msgid "'RPG Resources' by PapaSmurfReloaded"
+#: The_Devils_Flute/_main.cfg:67
+msgid "“RPG Resources” by PapaSmurfReloaded"
 msgstr ""
 
 #. [entry]
-#: The_Devils_Flute/_main.cfg:61
-msgid "'RPG Creation Kit' by Bob_The_Mighty"
+#: The_Devils_Flute/_main.cfg:70
+msgid "“RPG Creation Kit” by Bob_The_Mighty"
 msgstr ""
 
 #. [about]
-#: The_Devils_Flute/_main.cfg:65
+#: The_Devils_Flute/_main.cfg:74
 msgid "And many others providing feedback and reporting bugs. Thank you all!"
+msgstr ""
+
+#. [unit]: id=Basyl, type=Rogue Scientist
+#: The_Devils_Flute/macros/utilities/heros.cfg:10
+msgid "Basyl"
+msgstr ""
+
+#: The_Devils_Flute/macros/utilities/heros.cfg:27
+msgid "assassins"
+msgstr ""
+
+#: The_Devils_Flute/macros/utilities/heros.cfg:28
+msgid "Creona's team"
+msgstr ""
+
+#: The_Devils_Flute/macros/utilities/heros.cfg:31
+msgid "Creona"
+msgstr ""
+
+#. [scenario]: id=Merlyn
+#. [unit]: id=Merlyn, type=Arcane Grenadier
+#: The_Devils_Flute/macros/utilities/heros.cfg:48
+#: The_Devils_Flute/scenarios/07_Merlyn.cfg:5
+#: The_Devils_Flute/scenarios/07_Merlyn.cfg:767
+msgid "Merlyn"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Devils_Flute/macros/utilities/misc.cfg:40
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:250
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:833
+#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:426
+#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:486
+msgid "Death of Creona"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Devils_Flute/macros/utilities/misc.cfg:44
+#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:430
+#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:490
+msgid "Death of Basyl"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Devils_Flute/macros/utilities/misc.cfg:48
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:254
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:426
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:665
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:837
+msgid "Turns run out"
+msgstr ""
+
+#: The_Devils_Flute/macros/utilities/misc.cfg:61
+msgid "Do you want this unit to take the bottle up?"
+msgstr ""
+
+#: The_Devils_Flute/macros/utilities/misc.cfg:62
+msgid "Yes."
+msgstr ""
+
+#: The_Devils_Flute/macros/utilities/misc.cfg:63
+msgid "No."
+msgstr ""
+
+#: The_Devils_Flute/macros/utilities/misc.cfg:64
+msgid ""
+"Merlyn already has an arcane attack. Give that flask to somebody who really "
+"needs it."
+msgstr ""
+
+#. [object]
+#: The_Devils_Flute/macros/utilities/misc.cfg:66
+msgid "Holy water"
+msgstr ""
+
+#. [object]
+#: The_Devils_Flute/macros/utilities/misc.cfg:68
+msgid ""
+"Holy water adds arcane damage to your melee weapons. Its effect lasts till "
+"the end of the campaign."
+msgstr ""
+
+#. [attack]: type=fire
+#. [effect]: type=fire
+#: The_Devils_Flute/macros/utilities/misc.cfg:91
+#: The_Devils_Flute/units/Rogue_Scientist.cfg:48
+msgid "grenade"
 msgstr ""
 
 #. [scenario]: id=The_Appointment
@@ -118,20 +211,20 @@ msgid "The Appointment"
 msgstr ""
 
 #. [side]: id=Mal Amadeus, type=Lich
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:29
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:30
 msgid "Mysterious undead"
 msgstr ""
 
-#. [side]: id=Mal Amadeus, type=Party Lich, (id=Skele1)}, (id=Skele2, (id=Skele3
 #. [side]: id=Mal Amadeus, type=Lich
+#. [side]: id=Mal Amadeus, type=Party Lich, (id=Skele1)}, (id=Skele2, (id=Skele3
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:32
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:26
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:146
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:31
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:24
 msgid "Mal Amadeus"
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:58
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:46
 msgid ""
 "Hello. Thank you for playing.\n"
 "\t\t\t\n"
@@ -152,31 +245,30 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:69
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:57
 msgid "Once upon a time, somewhere in Wesnoth..."
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:72
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:60
 msgid ""
 "...lived a woman, Creona, by name. Having a strong, aggressive personality "
-"and unwillingness to obey to anyone, she didn't have many friends. Wandering "
+"and an unwillingness to be subject to anyone, she had few friends. Wandering "
 "from town to town in Wesnoth, she practiced the last job you'd expect from a "
 "woman."
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:75
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:63
 msgid ""
-"Creona was an assassin. Obviously, she didn't have an easy start in this "
-"quite masculine profession. However, on the other hand, the bigger attention "
-"was she got after her first successes. It didn't take two years for her to "
-"merit the name 'Queen of the Assassins', and to get one of the greatest "
-"bounties ever seen on her head."
+"Creona was an assassin. She didn't have an easy start in this masculine "
+"profession, but with success she received widespread fame. In less than two "
+"years she earned the title, 'Queen of the Assassins' and got the Wesnothian "
+"King to lay one of the greatest bounties ever seen on her head."
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:78
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:66
 msgid ""
 "Her employers (and victims) included not just noblemen, generals and "
 "criminals, but also a wide range of non-human creatures inhabiting the lands "
@@ -186,214 +278,214 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:88
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:76
 msgid ""
 "Okay, my client is waiting for us on the other side of the forest. Move on!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:92
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:80
 msgid "Do we know anything about this man?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:96
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:84
 msgid "We shall soon."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:100
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:88
 msgid "And about the job? Who is the target?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:104
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:92
 msgid ""
 "I have no clue. Would you keep your stupid questions for yourself, please?"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:110
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:98
 msgid "Meet your employer"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:124
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:116
 msgid "Now I will have an unsatisfied customer... what a shame!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:139
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:131
 msgid "Ughhh..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:149
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:141
 msgid "It may sound odd, but we can't continue without him!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:161
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:153
 msgid ""
 "I should move to the front... I have to arrange the business personally, "
 "after all!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:177
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:169
 msgid "The trees seem to be parched here... strange."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:202
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:194
 msgid "Undead! Undead in the forest!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:206
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:198
 msgid "Destroy them! We can't let them harm our employer!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:224
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:216
 msgid ""
 "We could be more efficient against the undead if I gave some grenades to "
 "everyone."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:228
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:220
 msgid ""
 "<i>(sighs)</i> I've already told you several times, bombs are too expensive "
 "to equip our whole team with them. It would consume up our profit."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:232
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:224
 msgid "But we'd lose less men."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:236
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:228
 msgid ""
 "More men, more shares paid. Even lower makings. Everything's good as it is."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:268
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:260
 msgid "What are you doing here, man? Who is your leader?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:275
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:267
 msgid "Aww, a lich. I can only hope my client is all right."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:335
-msgid "Hey, you are Creona, the famous assassiness, aren't you?"
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:334
+msgid "Hey, you are Creona, the famous assassin, aren't you?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:339
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:338
 msgid "Yes I am."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:343
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:342
 msgid "Well, I'm Mal Amadeus, your client."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:347
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:346
 msgid ""
 "Ah, really? You could be a bit more welcoming if you want to count on my "
 "services!"
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:351
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:350
 msgid "What? I hope you didn't have any trouble with my servants?"
 msgstr ""
 
 #. [message]: speaker=$offended_undead[0].id
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:355
-msgid "Offended $offended_undead[0].type"
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:354
+msgid "Offended $offended_undead[0].language_name"
 msgstr ""
 
 #. [message]: speaker=$offended_undead[0].id
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:356
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:355
 msgid ""
 "It wasn't us, master! We were just collecting flowers in the forest, when "
 "they attacked us for no reason!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:360
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:359
 msgid "Errr..."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:364
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:363
 msgid ""
 "Ah, the usual prejudices against undead. There isn't another race on the "
 "continent which is as persecuted as ours!"
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:368
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:367
 msgid ""
 "But hopefully we can put aside our baseless stereotypes now and talk about "
 "your tasks."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:372
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:371
 msgid "Indeed."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:376
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:375
 msgid ""
 "Well, I need you to fetch me an object. It belongs to the arch mage "
 "Dunduggwyn who lives in the city of Cyty."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:380
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:379
 msgid ""
 "An arch mage, you say? That won't be cheap. Their kind is pretty hard to "
 "deal with."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:384
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:383
 msgid ""
 "It's not necessary to murder him. Just bring me the object. My offer is 400 "
 "golds."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:388
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:387
 msgid ""
 "Stealing things from a living arch mage is even more dangerous! 800 at least."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:392
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:391
 msgid ""
 "Well, then just kill him. 500 golds are more than generous for this job."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:396
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:395
 msgid ""
 "Hah, you must be joking. A notoriously unimportant princeling costed 350 to "
 "my client last month. I won't do this for less than the double price."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:400
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:399
 msgid ""
 "For 700 gold I could recruit an entire army and take over the whole city. "
 "650 is the last proposal. 200 prepaid and an additional 450 in case of "
@@ -401,41 +493,41 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:404
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:403
 msgid ""
 "That sounds fair enough. And precisely what object do you wish to get? Some "
 "magic book, I guess."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:408
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:407
 msgid "No. A flute."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:412
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:411
 msgid "A flute?"
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:416
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:415
 msgid "Exactly. I need the flute from the silver thread on Dunduggwyn's neck."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:420
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:419
 msgid ""
 "As you wish. Just give me that 200 golds and we shall come along with your "
 "precious instrument in a few days."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:424
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:423
 msgid "Here it is."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:437
+#: The_Devils_Flute/scenarios/01_The_Appointment.cfg:436
 msgid "I'll be waiting for you here. Good luck."
 msgstr ""
 
@@ -445,262 +537,215 @@ msgid "Anyguest's Inn"
 msgstr ""
 
 #. [side]: id=Bruggwy, type=Assassin, (id=Renegade)}
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:26
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:35
 msgid "Bruggwy's team"
 msgstr ""
 
 #. [side]: id=Bruggwy, type=Assassin, (id=Renegade)}
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:29
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:38
 msgid "Bruggwy"
 msgstr ""
 
 #. [side]: (id=Spectator1, (id=Spectator2, (id=Innkeeper
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:48
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:57
 msgid "Spectators"
 msgstr ""
 
 #. [side]: (id=Spectator1, (id=Spectator2, (id=Innkeeper
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:65
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:74
 msgid "Innkeeper"
 msgstr ""
 
 #. [side]: id=Dwarvish Guest)}, id=Drake Guest)}, id=Merman Guest)}, id=Necromancer Guest)}
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:74
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:83
 msgid "Guests"
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:130
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:139
 msgid ""
-"Having her team weakened in the excess fight against the lich's minions and "
-"expecting a tough job ahead, Creona decided that it was better to find some "
-"new recruits. Luckily, they didn't have to go far for that. Anyguest's Inn "
-"lied on the road leading to their destination and was a well-known meeting "
-"point of rogues, thiefs, bandits - in one word, those who were having "
-"conflicts with the law. Creona sent Basyl and most of her men ahead to scout "
-"Cyty, and then entered the inn..."
+"Her team weakened by the redundant fight against the lich's minions and with "
+"another tough fight expected to get the flute, Creona decided to find some "
+"new recruits. Luckily, she didn't have to go far. Anyguest's Inn stood on "
+"the road to their destination; it was a well-known meeting point of rogues, "
+"thieves, bandits--in a word, those who were in conflict with the law. Creona "
+"sent Basyl and most of her men ahead to scout Cyty, and then entered the inn."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:171
-msgid "Hi all! I need some brave men for a really-really dangerous mission!"
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:175
+msgid "Hi all! I need some brave men for a really, really dangerous mission!"
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:175
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:179
 msgid "Hey! I'm recruiting here! Get away and find some other place!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:179
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:183
 msgid ""
 "Well, everybody's free to choose who to contract with. As for me, I'm "
 "getting 650 golds for this job..."
 msgstr ""
 
 #. [message]: speaker=Renegade
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:183
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:187
 msgid "Hmmm, that implies an impressive share! You can count on me!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:201
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:205
 msgid "Wise decision."
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:205
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:209
 msgid "Don't steal my men or..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:209
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:213
 msgid "You can't make up for my better offer with whatever amount of shouting."
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:213
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:217
 msgid "<b>GET LOST OR I KILL YOU!</b>"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:217
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:221
 msgid "Come on!"
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:221
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:225
 msgid "Catch her!"
 msgstr ""
 
 #. [message]: speaker=Spectator1
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:225
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:229
 msgid "Haha! Free entertainment! I'm going to join the winner!"
 msgstr ""
 
 #. [message]: speaker=Spectator2
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:229
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:233
 msgid "Me too!"
 msgstr ""
 
 #. [message]: speaker=Innkeeper
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:233
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:237
 msgid "Okay, boys and girls, but don't destroy the furniture please!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:251
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:246
 msgid "Kill Bruggwy"
 msgstr ""
 
-#. [objective]: condition=lose
-#: The_Devils_Flute/utils/misc.cfg:40
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:255
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:826
-#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:426
-#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:486
-msgid "Death of Creona"
-msgstr ""
-
-#. [objective]: condition=lose
-#: The_Devils_Flute/utils/misc.cfg:48
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:259
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:427
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:662
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:830
-msgid "Turns run out"
-msgstr ""
-
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:273
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:272
 msgid ""
 "Dying in a pub brawl by the hands of a second-class assassin. What a shame! "
 "Better to die fast."
 msgstr ""
 
 #. [message]: speaker=Renegade
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:289
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:288
 msgid "Okay, calm down, I will..."
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:293
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:292
 msgid "You will die, traitor!"
 msgstr ""
 
 #. [message]: speaker=Spectator1
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:308
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:307
 msgid "Excellent! Go on!"
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:323
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:322
 msgid "You haven't won yet!"
 msgstr ""
 
 #. [message]: speaker=$store_side2[0].id
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:354
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:353
 msgid "I think it's more tactical to retreat towards the front door."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:372
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:371
 msgid "Finished. So, who can I expect to follow me?"
 msgstr ""
 
 #. [message]: speaker=Spectator2
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:376
-msgid "Hey, it's not done yet! You have to kill him."
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:375
+msgid "Hey, it's not over yet! You have to kill him."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:380
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:379
 msgid "Don't be childish. You aren't in a circus."
 msgstr ""
 
 #. [message]: speaker=Spectator1
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:384
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:383
 msgid "We won't join you unless you slay that guy."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:388
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:387
 msgid "<i>(sighs)</i> Alright. Where did he run?"
 msgstr ""
 
 #. [message]: speaker=Innkeeper
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:392
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:391
 msgid ""
 "Towards the bedrooms, I think. Bruggwy's a master of masking, he might have "
 "already changed into a guest of whatever race. Be careful, and try not to "
-"kill any of my authentic customers, please."
+"kill any of my actual customers, please."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:396
-msgid ""
-"You could prevent me from harming your business by telling who are your so-"
-"called authentic customers."
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:395
+msgid "Well, who are your 'actual' customers?"
 msgstr ""
 
 #. [message]: speaker=Innkeeper
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:400
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:399
 msgid "Ehm... I can't really remember it."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:404
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:403
 msgid "Somewhat shameful for a man in your job."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:417
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:416
 msgid ""
-"He can hide nowhere here, so he must be inside of one of the rooms. I should "
-"take a look at each one."
+"He can't hide here, so he must be inside of one of the rooms. I should take "
+"a look at each one."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:423
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:422
 msgid "Visit all rooms"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:462
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:515
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:568
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:621
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:465
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:518
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:571
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:624
 msgid "<i>Creona asks about Bruggwy</i>"
 msgstr ""
 
-#. [message]: speaker=Dwarvish Guest
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:466
-msgid ""
-"Yep, I definitely heard him running past my door. He must be either in the "
-"second or the third room."
-msgstr ""
-
-#. [message]: speaker=Drake Guest
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:519
-msgid "I'm not Bruggwy, and I don't care at all where he is."
-msgstr ""
-
-#. [message]: speaker=Merman Guest
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:572
-msgid ""
-"Hmmm... I heard a slam of door, must have come from the first or the last "
-"room."
-msgstr ""
-
-#. [message]: speaker=Necromancer Guest
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:625
-msgid ""
-"I didn't notice anything, but my instincts tell me that if he's not in the "
-"third room, he must be in the second."
-msgstr ""
-
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:639
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:642
 msgid ""
 "So one of these men is Bruggwy. I'm sure that he tried everything to deceive "
 "me, but that will be his doom. I don't see any reason why would have the "
@@ -709,135 +754,132 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:644
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:647
 msgid ""
-"'Yep, I definitely heard him running past my door. He must be either in the "
-"second or the third room.'\n"
-"'I'm not Bruggwy, and I don't care at all where he is.'\n"
-"'Hmmm... I heard a slam of door, must have come from the first or the last "
-"room.'\n"
-"'I didn't notice anything, but my instincts tell me that if he's not in the "
-"third room, he must be in the second.'"
+"'$guest_texts[0].text'\n"
+"'$guest_texts[1].text'\n"
+"'$guest_texts[2].text'\n"
+"'$guest_texts[3].text'"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:654
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:657
 msgid "Move Creona to Bruggwy's room"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:658
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:661
 msgid "Move to a wrong room"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:735
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:742
 msgid "I have one more little question..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:739
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:746
 msgid "Did you really think that I won't find you?"
 msgstr ""
 
 #. [animate_unit]
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:754
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:761
 msgid "*swoosh*"
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:783
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:790
 msgid "Arghh..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:787
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:794
 msgid "You're the seeker now."
 msgstr ""
 
 #. [message]: speaker=Bruggwy
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:791
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:798
 msgid "Damn you!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:807
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:814
 msgid "Heh! And this miserable weakling claimed that he would kill me!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:822
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:829
 msgid "Really kill Bruggwy at last"
 msgstr ""
 
 #. [message]: speaker=$unit.id
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:837
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:848
 msgid "Auch... what the hell are you doing?!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:841
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:852
 msgid "Oops, this isn't Bruggwy!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:845
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:856
 msgid "Distant voice of Bruggwy"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:846
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:857
 msgid "Definitely not! Goodbye, stupid girl!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:865
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:876
 msgid ""
 "I shouldn't bother $unit.name again... if he's Bruggwy, he might become "
 "suspicous."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:893
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:904
 msgid ""
-"Huh, done at last. He was quite tough for an amateur. Maybe I could have "
-"made a good use of him... but it's too late to think about that, I'm afraid."
+"Huh, done at last. He was quite tough for an amateur. I could have made a "
+"good use of him... but it's too late to think about that, I'm afraid."
 msgstr ""
 
 #. [message]: speaker=Spectator1
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:897
-msgid "Bravo! You're performing amazingly in battle dear... ehm..."
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:908
+msgid "Bravo! You performed amazingly in battle dear... ehm..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:901
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:912
 msgid "Creona."
 msgstr ""
 
 #. [message]: speaker=Spectator2
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:905
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:916
 msgid "Creona? The famous Creona?"
 msgstr ""
 
 #. [message]: speaker=Spectator1
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:909
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:920
 msgid ""
 "Why didn't you start with that? It would have been no question to join you!"
 msgstr ""
 
 #. [message]: speaker=Creona
 #. [message]: speaker=Merlyn
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:913
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:924
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:516
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:213
 msgid "..."
 msgstr ""
 
 #. [message]: speaker=Spectator2
-#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:917
+#: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:928
 msgid ""
-"But now we'll do anyway. It's a great honor to work for you... how much will "
-"be my salary?"
+"But now we'll do so anyway. It's a great honor to work for you... how much "
+"will be my salary?"
 msgstr ""
 
 #. [scenario]: id=Chaos_in_Cyty
@@ -845,45 +887,45 @@ msgstr ""
 msgid "Chaos in Cyty"
 msgstr ""
 
-#. [side]: id=Zzzsss, type=Naga Warrior
-#. [side]: id=Ssszzz, type=Saurian Ambusher
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:26
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:50
+#. [side]: id=Ssszzz
+#. [side]: id=Zzzsss
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:35
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:59
 msgid "mercenaries"
 msgstr ""
 
-#. [side]: id=Zzzsss, type=Naga Warrior
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:27
+#. [side]: id=Zzzsss
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:36
 msgid "Disappointed nagas"
 msgstr ""
 
-#. [side]: id=Zzzsss, type=Naga Warrior
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:30
+#. [side]: id=Zzzsss
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:39
 msgid "Zzzsss"
 msgstr ""
 
-#. [side]: id=Ssszzz, type=Saurian Ambusher
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:51
+#. [side]: id=Ssszzz
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:60
 msgid "Disappointed saurians"
 msgstr ""
 
-#. [side]: id=Ssszzz, type=Saurian Ambusher
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:54
+#. [side]: id=Ssszzz
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:63
 msgid "Ssszzz"
 msgstr ""
 
 #. [side]
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:77
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:86
 msgid "loyalists"
 msgstr ""
 
 #. [side]
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:78
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:87
 msgid "City militia"
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:92
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:102
 msgid ""
 "Basyl rarely worked fast, so Creona saw no reason to hurry with the "
 "departure. She rented the fake-merman's old room, asked for a boat, and "
@@ -892,17 +934,17 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:96
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:106
 msgid "They reunited with the others at midnight, north of Cyty."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:132
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:142
 msgid "Here I am. So, what could you find out about the mage?"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:136
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:146
 msgid ""
 "He doesn't have a family, loves gardening, roast beef and watching wesball "
 "in his crystal ball. Yeah, and he's the uncle of the lord of the city, so he "
@@ -910,214 +952,214 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:144
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:154
 msgid "Good. Now we can start making the plan."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:148
-msgid "With your excuse, I've already prepared everything."
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:158
+msgid "I've already prepared everything, if you approve"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:152
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:162
 msgid "What? I only told you to collect information!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:156
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:166
 msgid ""
 "Yes, but I couldn't stop myself brainstorming about the project. And I found "
 "the best solution."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:160
-msgid "I listen."
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:170
+msgid "I will listen."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:171
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:181
 msgid "There's a dam east of the city. We blow it up to make a flood."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:180
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:190
 msgid ""
-"I couldn't find any mufflers for the bombs so this will be likely to go with "
-"a big noise. Big enough to wake the city militia."
+"I couldn't muffle the bombs so this will go with a big noise. Big enough to "
+"wake the city militia."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:189
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:199
 msgid "So I hired some saurians to keep them busy."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:198
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:208
 msgid "The flood will overrun the palace and the nearby areas in a short time."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:207
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:217
 msgid "After that our naga mercenaries can easily control the territory."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:214
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:224
 msgid "So our only task is to walk in and grab the flute."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:220
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:230
 msgid "Well, this is ingenious."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:224
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:234
 msgid "Thanks."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:228
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:238
 msgid "I only suggest some little modifications."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:232
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:242
 msgid "Precisely?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:236
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:246
 msgid "No bombs, no flood, no nagas and no saurians. That's all."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:240
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:250
 msgid "But why? This will completely..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:244
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:254
 msgid ""
 "Because I simply have no intention to launch a full-scale attack against the "
 "city."
 msgstr ""
 
 #. [message]: speaker=Zzzsss
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:250
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:260
 msgid "Humansssss! Give ussss our money!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:254
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:264
 msgid ""
 "I'm sorry, there's no money for you. We don't need your help. However you "
-"can take this fool as a compensation. He makes for an excellent slave."
+"can take this fool as compensation. He makes an excellent slave."
 msgstr ""
 
 #. [message]: speaker=Zzzsss
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:258
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:268
 msgid ""
 "We don't like human'ssssss humour. Pay our goldsssss or we sssssslay you!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:262
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:272
 msgid "I don't pay anything."
 msgstr ""
 
 #. [message]: speaker=Zzzsss
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:266
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:276
 msgid "Then we take by for(c)ssssssse!"
 msgstr ""
 
 #. [message]: speaker=Ssszzz
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:270
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:280
 msgid "Sssssso ssssshall we!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:278
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:288
 msgid "Move a unit to Dunduggwyn's house"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:293
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:307
 msgid "Curse you, Basyl... I die for your incompetence..."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:308
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:322
 msgid "Maybe this plan wasn't so ingenious... ugghhh..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:324
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:347
 msgid "Nagas are attacking the city!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:340
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:363
 msgid "Saurians are attacking the city!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:356
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:379
 msgid "Treacheroussssss humansssss! Where isssss our money?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:372
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:395
 msgid "Here's your payment, damned reptile!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:383
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:406
 msgid "Ehm... Creona?"
 msgstr ""
 
-#. [message]: speaker=Creona
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:387
+#. [message]: speaker=Creona
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:410
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:368
 msgid "Yes?"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:391
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:414
 msgid "Don't kill me please."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:395
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:418
 msgid "Don't provide a reason."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:399
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:422
 msgid "Well, the bombs... err... I forgot... they are timed..."
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:451
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:474
 msgid "What was that? Alarm!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:467
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:490
 msgid "I'm afraid I will definitely kill you!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:491
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:511
 msgid ""
 "The wild waves are crashing against the wall so fiercely that it collapses!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:513
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:523
 msgid ""
 "Big part of the city's defense structures are now nothing more than "
 "underwater ruins. On the other side, the flood seems to be exhausted now - "
@@ -1125,184 +1167,184 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Zzzsss
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:523
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:533
 msgid "The town isssss underwater. Ni(c)ssssse!"
 msgstr ""
 
-#. [unit]: id=Dunduggwyn, type=Arch Mage
 #. [event]: id=Dunduggwyn
+#. [unit]: id=Dunduggwyn, type=Arch Mage
 #. [unit]: id=Dunduggwyn, type=Arch Mage Ghost
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:555
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:866
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:563
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:859
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:253
 msgid "Dunduggwyn"
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:565
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:574
 msgid "Who is that? Wait... argh, assassins!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:571
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:580
 msgid "Kill Dunduggwyn to get the flute from him"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:575
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:584
 msgid "Somebody else kills Dunduggwyn before you"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:600
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:613
 msgid "Here's it! Let's pick it up and leave this blasted city fast."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:606
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:619
 msgid "Here's the flute!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:610
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:623
 msgid "Good! Grab it and then we can go."
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:634
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:647
 msgid "They killed our wiseman! Catch them, they must not get away with this!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:664
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:677
 msgid "Pick up the flute with a unit"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:683
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:700
 msgid ""
 "What isssss that sssssshiny thing? $second_unit.name likesssss it. "
 "$second_unit.name takesssss it."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:719
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:736
 msgid "Oh no! That reptile stole the flute. We failed."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:751
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:768
 msgid "Got it!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:758
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:775
 msgid ""
 "Okay, let's go. Don't expect me waiting for anybody. I won't stay in this "
 "madness for a minute longer than I have to!"
 msgstr ""
 
 #. [objectives]
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:762
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:779
 msgid ""
 "Any unit moved to the signpost is eventually removed from the map. When "
 "Creona leaves, the scenario ends. Every unit still on the map is lost."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:765
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:782
 msgid "The flute-bearer, Basyl and Creona reaches the signpost"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:769
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:786
 msgid "The flute-bearer dies"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:794
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:815
 msgid "Don't die you idiot!"
 msgstr ""
 
 #. [message]: speaker=Ssszzz
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:828
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:849
 msgid "You won't esssscape!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:870
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:888
 msgid "Damn, we lost the flute."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:923
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:941
 msgid ""
 "I don't understand what Creona is complaining about... everything went "
 "smoothly!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:951
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:969
 msgid "Great! The flute is now in safe."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:982
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1000
 msgid "Move on, Basyl! I won't wait for eternity!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1007
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1025
 msgid ""
 "It's your luck $flute_bearer.name that you could lay your hands on that "
 "gadget! I wouldn't be so patient otherwise!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1014
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1032
 msgid "Well done. Let's head back to Amadeus' keep."
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1049
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1067
 msgid "Blast it. They escaped. But it's not over! We must catch these bandits!"
 msgstr ""
 
 #. [message]: speaker=$walterpartner.id
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1053
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1071
 msgid "Excuse me, sir, I have a good idea."
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1057
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1075
 msgid "What is that?"
 msgstr ""
 
 #. [message]: speaker=$walterpartner.id
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1061
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1079
 msgid "The best tools against criminals are their own ones!"
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1065
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1083
 msgid ""
 "This doesn't sound too sympathetic at first glance. Could you explain it?"
 msgstr ""
 
 #. [message]: speaker=$walterpartner.id
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1069
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1087
 msgid "I think we should hire an assassin to assassinate the assassins."
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1073
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1091
 msgid ""
 "Interesting idea. However, I don't see why the Secret Service couldn't do "
 "that."
 msgstr ""
 
 #. [message]: speaker=$walterpartner.id
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1077
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1095
 msgid ""
 "They certainly could, but there's a risk that we'd lose some valuable men. "
 "According to my plan, only our assassin could die. Or the other one. One "
@@ -1310,55 +1352,55 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1081
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1099
 msgid "Neat! Haha! Very-very neat!"
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1085
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1103
 msgid "JACK!!!"
 msgstr ""
 
-#. [unit]: id=Agent Jack, type=Ranger
-#. [side]: id=Agent Jack, type=Ranger
 #. [scenario]: id=Agent_Jack
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1090
+#. [side]: id=Agent Jack, type=Ranger
+#. [unit]: id=Agent Jack, type=Ranger
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1108
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:5
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:23
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:38
 msgid "Agent Jack"
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1098
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1116
 msgid "Yes, sir."
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1102
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1120
 msgid ""
 "Who is the most professional, most evil, most dangerous assassin on our "
 "wanted list? We need him."
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1106
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1124
 msgid "We need a criminal???"
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1110
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1128
 msgid ""
 "Yes. We hire him to find and kill the murderers of Dunduggwyn. Such a crime "
 "should not go unpunished!"
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1114
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1132
 msgid "Hmmm... let me see... actually he's a she. Her name is Creona."
 msgstr ""
 
 #. [message]: speaker=Walter
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1118
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1136
 msgid ""
 "A woman? Strange... but it doesn't matter. Find her and tell her that she "
 "gets 400 golds for the head of the murderer. Go!"
@@ -1366,8 +1408,8 @@ msgstr ""
 
 #. [message]: speaker=$random_loy_unit.id
 #. [message]: speaker=Agent Jack
+#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1140
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:888
-#: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1122
 msgid "Yes sir."
 msgstr ""
 
@@ -1377,43 +1419,43 @@ msgid "Embarrassing Question"
 msgstr ""
 
 #. [side]: id=Mal Amadeus, type=Lich
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:22
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:24
 msgid "Not anymore mysterious undead"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:99
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:62
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:64
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:114
 msgid "Hello."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:66
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:68
 msgid "It's you? You were pretty quick. Do you have the flute?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:70
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:72
 msgid "Maybe. Depends on how many golds you have left."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:74
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:76
 msgid "Ah, the careful! Here's your reward."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:85
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:87
 msgid "You're lucky. Accidentally, we have a flute."
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:89
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:91
 msgid "Haha! Thanks."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:96
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:98
 msgid ""
 "Well... Amadeus... it's not my habit to ask  my clients about their "
 "motivations, but I simply can't imagine that... why is this flute so "
@@ -1421,51 +1463,52 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:103
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:105
 msgid "Errr... you know... it just has such a nice voice!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:107
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:109
 msgid "???"
 msgstr ""
 
 #. [message]: speaker=Mal Amadeus
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:111
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:113
 msgid "Goodbye!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:127
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:129
 msgid "I think your last question embarassed him a bit."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:131
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:133
 msgid "It's no surprise. People rarely like to be honest about their purposes."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:135
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:137
 msgid "I'm sure he needs that flute for some evil machinations."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:139
+#: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:141
 msgid ""
 "What did you expect? That he would perform on charity concerts? It's not our "
 "business, anyways."
 msgstr ""
 
 #. [side]: id=Agent Jack, type=Ranger
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:27
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:42
 msgid "Secret Service of Wesnoth"
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:38
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:53
 msgid ""
-"With their new earnings in their pockets, Creona's team headed north to "
+"After collecting the money from Amadeus and dealing the shares, Creona's "
+"team separated into smaller groups not to draw attention and headed north to "
 "leave Wesnoth. This was usual after noisier jobs, and flooding a whole city "
 "was something could be called 'noisy'. Find a village, pay a lot for the "
 "accomodation, so the villagers won't tell anybody that you were there, rest "
@@ -1474,7 +1517,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:42
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:57
 msgid ""
 "Simultaneously, the Secret Service of Wesnoth put on heavy efforts to find "
 "Creona to charge her with her own assassination. Agent Jack wasn't new to "
@@ -1483,44 +1526,44 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:76
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:91
 msgid ""
 "If I remember well, these cliffs aren't so far from Gubbre. We shall be "
 "there by sunset."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:80
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:95
 msgid "Someone is approaching on the road."
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:95
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:110
 msgid "Greetings, beautiful lady!"
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:103
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:118
 msgid "You're Creona, the well-known assassin, aren't you?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:107
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:122
 msgid "Hmmm... yes I am."
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:111
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:126
 msgid "It's pretty hard to find you! I have a job for you."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:115
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:130
 msgid "Really?"
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:119
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:134
 msgid ""
 "Really. A few days ago, bandits intruded to my home city Cyty, and killed "
 "Dunduggwyn, a largely respected man of the town. General Walter, the "
@@ -1529,117 +1572,117 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:123
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:138
 msgid "It sounds interesting..."
 msgstr ""
 
 #. [event]: (id=Hawkeye Howard
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:128
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:143
 msgid "Hawkeye Howard"
 msgstr ""
 
 #. [message]: speaker=Hawkeye Howard
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:132
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:147
 msgid ""
 "Wait Jack! I know this woman! I saw her in that night in Cyty. She is the "
 "murderer of Dunduggwyn!"
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:139
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:154
 msgid ""
 "Well, milady, then I suppose you can get a 400 gold reward for commiting "
 "suicide."
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:146
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:161
 msgid ""
 "But it's very unlikely that you would do that, so I'm afraid I have to kill "
 "you myself."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:150
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:165
 msgid "In your place, I would try to get away alive instead."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:191
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:210
 msgid "Defeat Agent Jack"
 msgstr ""
 
-#. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:206
-msgid "I will make you drink up all the water in my backyard!"
+#. [message]: speaker=$newly_arrived_unit.id
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:231
+msgid "What's going on, Creona?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:224
-msgid "Come on, Jack! You can't win, why to bother us then?"
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:235
+msgid "We've got a little obstacle in our way."
+msgstr ""
+
+#. [message]: speaker=Creona
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:244
+msgid ""
+"Probably it'd be a good idea not to rush ahead so that the others can catch "
+"up..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:242
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:257
+msgid "I will make you drink up all the water in my backyard!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:275
 msgid "I hate you, Basyl!!!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:246
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:279
 msgid "Why does everybody blame me? I didn't do anything this time!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:259
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:292
 msgid "Blast my sharp eyes! Why did I have to make Jack attack these bandits?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:263
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:296
 msgid "This is the fate of nitpickers."
 msgstr ""
 
-#. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:284
-msgid ""
-"Damn! Damn! There're dry trees here! On guard, there might be another nasty "
-"lich lurking around!"
-msgstr ""
-
-#. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:288
-msgid "Mal Autumn, most likely."
-msgstr ""
-
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:302
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:309
 msgid "You're wrong if you think it's so easy to kill Agent Jack!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:314
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:321
 msgid "Oh no! He escaped. What will happen now?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:318
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:325
 msgid ""
 "Another bounty will be put on my head. It matters little. If somebody "
 "managed to kill me, he could have already become a millionaire by that."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:322
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:329
 msgid "Let's go. The holiday resort is very close."
 msgstr ""
 
 #. [message]: speaker=Agent Jack
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:340
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:347
 msgid "Hah! A shiny trophy to my collection."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:356
+#: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:363
 msgid ""
 "He was a fool, but still... it's impossible to find another usable "
 "explosives expert for this cheap!"
@@ -1651,17 +1694,17 @@ msgid "Zombies in the Stable"
 msgstr ""
 
 #. [side]
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:51
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:53
 msgid "Once again mysterious undead"
 msgstr ""
 
 #. [side]
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:69
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:67
 msgid "Who can they be?"
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:75
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:73
 msgid ""
 "The outlaws continued their journey towards Gubbre, a village Creona knew "
 "about that it would gladly provide them shelter in exchange of some gold. "
@@ -1670,7 +1713,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:79
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:77
 msgid ""
 "However, this couldn't annoy most of the team. They were just after a "
 "generous payday and a before a several weeks long vacation. Or at least they "
@@ -1678,18 +1721,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:96
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:94
 msgid "Damn that sneak... it will be midnight when we arrive to Gubbre."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:100
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:98
 msgid ""
 "What if we don't find anybody awaken? I don't want to sleep in the forest."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:104
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:102
 msgid ""
 "Heh, I wouldn't have compunction for arousing the whole settlement. It's "
 "really a minor annoyance compared to the money we're going to pay them for "
@@ -1697,186 +1740,186 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:109
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:107
 msgid "Get to Gubbre"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:124
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:123
 msgid ""
 "Being killed by a miserable pile of flesh... not a glorious end for my "
 "career."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:140
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:139
 msgid ""
 "I don't think I can make any use of Basyl as a zombie... not likely he can "
 "still handle bombs."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:164
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:163
 msgid "Oh no, not again!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:168
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:167
 msgid "Perhaps it's excess to fight them this time either."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:172
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:171
 msgid ""
 "Well, if you wish to do diplomacy with a bunch of decaying corpses, just go."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:176
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:175
 msgid "Ehm... rather not."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:181
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:180
 msgid "From all around"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:182
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:181
 msgid "Eeeeeeeeeerw... graaaaaaaaa... bwuoaaaaaaaaaaaa..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:195
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:188
 msgid ""
 "There might be more of them in the forest... I have a bad feeling that we "
 "won't get our well-merited relax!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:201
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:194
 msgid "Kill all zombies"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:222
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:215
 msgid "Well, if you're just collecting flowers, say it fast!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:238
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:231
 msgid "You can't say I didn't ask!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:270
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:263
 msgid "Where did they come from?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:274
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:267
 msgid ""
 "How could I know? Let's hurry to the village and see if we can save anything "
 "from our vacation."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:279
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:272
 msgid "Investigate the village"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:318
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:311
 msgid "Is there anybody here?"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:331
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:324
 msgid "Huh! It's good to see somebody at last who moves and actually lives..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:335
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:328
 msgid ""
 "...and not just un-lives! Grrr... you can't imagine what horrors we met!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:339
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:332
 msgid "What happened here, villager?"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:343
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:336
 msgid "Undead..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:347
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:340
 msgid "Lots of lots of undead..."
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:351
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:344
 msgid "Lieutenant Fred was killed..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:355
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:348
 msgid "More and more of undead..."
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:359
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:352
 msgid "Oh no! Here they come again!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:376
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:369
 msgid "Zombie crowd"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:377
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:370
 msgid "Uuuuuuuuuuuuuuurrrrggghhhh... wwruuuuuuuuuuggghhhh..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:381
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:374
 msgid "Run! Run for our lives!"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:385
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:378
 msgid "Fight! Fight for our lives!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:389
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:382
 msgid ""
 "These two won't give a senseful word while these abonimations are lurking "
 "around. Let's get rid of them."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:393
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:386
 msgid "There's a whole swarm of them! Maybe we could use some explosives?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:397
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:390
 msgid ""
 "I'm fed up with your explosives. Let's lock them up into the stables, then "
 "we can burn them along with the building."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:402
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:395
 msgid "Special game mode"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:405
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:398
 msgid ""
 "The battle against these undead doesn't go the usual way. They can move and "
 "attack you as normal, except that their movepoints are reduced to 2, but "
@@ -1893,186 +1936,186 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:413
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:406
 msgid "Toss all zombies into the stables"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:417
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:410
 msgid "Any of the villagers die"
 msgstr ""
 
 #. [message]: speaker=$survivor_villager.id
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:439
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:432
 msgid "Maybe it's better to escape before I get slayed too!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:451
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:444
 msgid "Damn... we'll never find out what happened here."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:522
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:515
 msgid ""
 "You're going the wrong way, hellish creature! Let me show you the right path!"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:719
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:712
 msgid "Huh. This was tiring."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:723
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:716
 msgid ""
 "We're very grateful for your help. If we can do anything for you, just say."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:727
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:720
 msgid "Well, we'd need some sort of accomodation for the next few weeks."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:731
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:724
 msgid "Oh, no problem. We have quite a few empty rooms right now."
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:735
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:728
 msgid "Just take a less bloody one."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:739
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:732
 msgid ""
 "Before all, I'd like to know what happened here. Were you experimenting with "
 "necromancy, heh?"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:743
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:736
 msgid "No, no it wasn't us..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:747
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:740
 msgid ""
 "This whole nightmare started two days ago. Two men arrived from Fruggwoc."
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:751
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:744
 msgid ""
 "They said that their village was destroyed. And not just theirs, but Lorcyn, "
 "Krabwy and many others too..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:755
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:748
 msgid ""
 "We asked them what happened but they only stuttered and muttered and their "
 "eyes bulged in horror."
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:759
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:752
 msgid "Then suddenly one of them shouted: 'Run! Run for our lives!'"
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:763
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:756
 msgid "And the other: 'Fight! Fight for our lives!'"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:767
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:760
 msgid "And then we noticed him..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:771
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:764
 msgid "A man in black robes, coming down the northern road..."
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:775
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:768
 msgid "When he came closer we could hear some weird, ghoulish song..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:779
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:772
 msgid ""
 "And, unfortunately, not just us... seems like even the dead could hear it!"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:783
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:776
 msgid ""
 "The next thing we saw were hordes of zombies staggering out of the cemetery, "
 "as the man continued to play on his flute..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:787
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:780
 msgid "His... flute?"
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:791
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:784
 msgid "Yes. Is there something wrong?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:795
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:788
 msgid "No, no..."
 msgstr ""
 
 #. [message]: speaker=Villager2
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:799
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:792
 msgid "He left towards Daklyn. Hope they had better luck there..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:803
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:796
 msgid "Thank you... I think I've heard enough. Good night."
 msgstr ""
 
 #. [message]: speaker=Villager1
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:807
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:800
 msgid "Good night then."
 msgstr ""
 
 #. [message]: speaker=Basyl
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:823
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:872
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:816
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:865
 msgid "Creona..."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:837
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:830
 msgid "I think..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:841
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:834
 msgid "I'm not interested in anything you might think."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:845
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:838
 msgid "I think this man is..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:849
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:842
 msgid "<b>DON'T SAY IT!</b>"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:853
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:846
 msgid ""
 "After 57 murders and hundreds of steals and break-ins in a total value of "
 "more than 5000 golds, for the first time I feel that I've done a horribly, "
@@ -2080,66 +2123,66 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:857
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:850
 msgid "<i>(murmuring)</i> We could have not known..."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:861
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:854
 msgid ""
 "This beast could have destroyed half the northlands by now! This... this is "
 "a crime! And we did help him!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:876
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:869
 msgid "Oh no! The mage! He returned to take revenge!"
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:880
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:873
 msgid "Not at all."
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:892
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:885
 msgid "I come with peaceful intentions."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:896
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:889
 msgid ""
 "<i>(aside)</i> Good to know... we'd be in big trouble if all our victims "
 "appeared seeking for revenge."
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:900
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:893
 msgid "I have a job for you."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:904
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:897
 msgid "Ehm... really?"
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:908
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:901
 msgid "Yes. I need you to assassinate Mal Amadeus."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:912
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:905
 msgid "Mal... Amadeus?"
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:916
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:909
 msgid "You know who is he, don't you?"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:920
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:913
 msgid ""
 "Don't do this! I'm suffering from the knowledge that I practically "
 "slaughtered thousands of people and you're tearing my nerves with your silly "
@@ -2147,19 +2190,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:924
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:917
 msgid ""
 "Oh, calm down, my dear. It's not your fault. Or at least not solely yours. "
 "Let me tell you the whole story."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:928
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:921
 msgid "The story of what? The flute? You? Mal Amadeus?"
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:932
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:925
 msgid ""
 "It's all the same. So let's start. The flute was originally a top secret "
 "security project for Weldyn. The greatest minds of Alduin worked on it. It "
@@ -2170,7 +2213,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:936
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:929
 msgid ""
 "The problems appeared when a talented young mage, Ludwig joined the "
 "development. It turned out that the original designers were uneducated in "
@@ -2182,7 +2225,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:940
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:933
 msgid ""
 "You might guess the rest... corrupted by the power it gave to him, Ludwig "
 "escaped with the flute and started to build up an undead army. Our luck was "
@@ -2193,7 +2236,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:944
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:937
 msgid ""
 "The king was shocked by the power of this device, and considered it to be "
 "too dangerous to use. It was buried somewhere deep in the fortress of Weldyn "
@@ -2205,7 +2248,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:948
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:941
 msgid ""
 "Since I thought that the story was ended back then with the death of Ludwig, "
 "I wasn't really careful about the secretness of the task. But I had to learn "
@@ -2216,12 +2259,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:952
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:945
 msgid "Unfortunately. Where is he now? Do you know?"
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:956
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:949
 msgid ""
 "He set up his lair in a cave inside the great northern mountains. The place "
 "is known as the 'Concert Hall' by the locals for its intensive echo effect. "
@@ -2229,30 +2272,30 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:960
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:953
 msgid ""
 "Thanks. I am... sorry for all that happened. I'll do my best to make up for "
 "it. We must go now."
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:964
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:957
 msgid "You aren't strong enough to fight him alone."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:968
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:961
 msgid "I wish I didn't have to, but that's our only option."
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:972
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:965
 msgid ""
 "Don't be so pessimistic. Many people's life is on risk. You must find help!"
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:976
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:969
 msgid ""
 "And who would help us!? Wesnothians? There's a thousand gold bounty on my "
 "head! Northlanders? Yeah, just after they got rid of the undead in their "
@@ -2260,47 +2303,47 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:980
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:973
 msgid "I know... someone."
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:984
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:977
 msgid "Speak up!"
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:988
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:981
 msgid ""
 "I have a... brother. He lives in Larfoc. He's very educated in arcane "
 "magic... or at least used to be."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:992
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:985
 msgid "You have a brother? You never said."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:996
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:989
 msgid ""
 "I forgot it myself... we aren't really in contact since... since very long."
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1000
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:993
 msgid "Alright, we'll fetch him. I mean, if he still lives in Larfoc."
 msgstr ""
 
 #. [message]: speaker=Basyl
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1004
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:997
 msgid ""
 "I'm pretty sure he does. I would be surprised if he even stepped out from "
 "his house in the last twenty years."
 msgstr ""
 
 #. [message]: speaker=Dunduggwyn
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1008
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1001
 msgid ""
 "Very well. As you can see, I'm responsible for this catastrophy, too, and I "
 "wasn't joking when I said that I'd like to pay you for your job. My offer is "
@@ -2309,16 +2352,8 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Creona
-#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1012
+#: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1005
 msgid "Very generous. But I think, for this one time, I will work for free."
-msgstr ""
-
-#. [unit]: id=Merlyn, type=Arcane Grenadier
-#. [scenario]: id=Merlyn
-#: The_Devils_Flute/utils/heros.cfg:48
-#: The_Devils_Flute/scenarios/07_Merlyn.cfg:5
-#: The_Devils_Flute/scenarios/07_Merlyn.cfg:767
-msgid "Merlyn"
 msgstr ""
 
 #. [side]: id=Patrick, type=Lieutenant
@@ -3453,13 +3488,6 @@ msgid ""
 "abyss"
 msgstr ""
 
-#. [objective]: condition=lose
-#: The_Devils_Flute/utils/misc.cfg:44
-#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:430
-#: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:490
-msgid "Death of Basyl"
-msgstr ""
-
 #. [objectives]
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:436
 msgid ""
@@ -3811,58 +3839,4 @@ msgstr ""
 #. [attack]: type=blade
 #: The_Devils_Flute/units/Rogue_Scientist.cfg:39
 msgid "dagger"
-msgstr ""
-
-#. [effect]: type=fire
-#. [attack]: type=fire
-#: The_Devils_Flute/utils/misc.cfg:91
-#: The_Devils_Flute/units/Rogue_Scientist.cfg:48
-msgid "grenade"
-msgstr ""
-
-#. [unit]: id=Basyl, type=Rogue Scientist
-#: The_Devils_Flute/utils/heros.cfg:10
-msgid "Basyl"
-msgstr ""
-
-#: The_Devils_Flute/utils/heros.cfg:27
-msgid "assassins"
-msgstr ""
-
-#: The_Devils_Flute/utils/heros.cfg:28
-msgid "Creona's team"
-msgstr ""
-
-#: The_Devils_Flute/utils/heros.cfg:31
-msgid "Creona"
-msgstr ""
-
-#: The_Devils_Flute/utils/misc.cfg:61
-msgid "Do you want this unit to take the bottle up?"
-msgstr ""
-
-#: The_Devils_Flute/utils/misc.cfg:62
-msgid "Yes."
-msgstr ""
-
-#: The_Devils_Flute/utils/misc.cfg:63
-msgid "No."
-msgstr ""
-
-#: The_Devils_Flute/utils/misc.cfg:64
-msgid ""
-"Merlyn already has an arcane attack. Give that flask to somebody who really "
-"needs it."
-msgstr ""
-
-#. [object]
-#: The_Devils_Flute/utils/misc.cfg:66
-msgid "Holy water"
-msgstr ""
-
-#. [object]
-#: The_Devils_Flute/utils/misc.cfg:68
-msgid ""
-"Holy water adds arcane damage to your melee weapons. Its effect lasts till "
-"the end of the campaign."
 msgstr ""
