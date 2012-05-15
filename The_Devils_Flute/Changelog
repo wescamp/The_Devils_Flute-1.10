@@ -1,3 +1,11 @@
+* version 0.1.4a
+	* Bugfixes & other
+		* changed Arcane Grenadier gender from female to male
+		* there's now only 1% chance to hit Walter in scenario 3
+		* no victory when enemy leaders defeated in scenario 3
+		* removed escaped quotation marks from _main.cfg, replaced with double quoted strings
+		* various text changes in scenarios 1, 2 and 3
+
 * version 0.1.4
 	* Internal
 		* renamed utils to macros
