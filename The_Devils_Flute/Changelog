@@ -1,3 +1,6 @@
+* version 0.1.4b
+	* double quoted strings replaced with “” signs, now it shold be ok
+
 * version 0.1.4a
 	* Bugfixes & other
 		* changed Arcane Grenadier gender from female to male
