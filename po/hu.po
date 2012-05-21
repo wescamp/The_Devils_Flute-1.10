@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: The_Devils_Flute 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-05-15 06:45-0400\n"
-"PO-Revision-Date: 2012-02-20 20:44-0500\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-05-21 15:53+0100\n"
+"Last-Translator: Lipka B. <lipka.boldizsar@gmail.com>\n"
 "Language-Team: none\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -15,13 +15,13 @@ msgstr ""
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:10
 msgid "TDF"
-msgstr ""
+msgstr "ASF"
 
 #. [campaign]: id=The_Devils_Flute
 #. [editor_group]: id=tdf
 #: The_Devils_Flute/_main.cfg:11 The_Devils_Flute/_main.cfg:86
 msgid "The Devil's Flute"
-msgstr ""
+msgstr "A sátán furulyája"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:15
@@ -32,108 +32,113 @@ msgid ""
 "Level: easy is easy, nightmare is nightmare. 10 scenarios (2 text-only), "
 "finished."
 msgstr ""
+"Creona, a jónevű orgyilkos, különös megbízást kap egy különös személytől. "
+"Tulajdonképpen nem is meglepő, hogy az események hamarosan különös "
+"fordulatot vesznek\n"
+"\t\n"
+"Szint: könnyűtől rémálomig, amit csak akarsz, 10 küldetés (2 csak szöveg)"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:19
 msgid "difficulty_menu^<b>Quaver</b>"
-msgstr ""
+msgstr "difficulty_men^<b>Nyolcad</b>"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:19
 msgid "<span color='#888'>(Easy)</span>"
-msgstr ""
+msgstr "<span color='#888'>(Könnyű)</span>"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:20
 msgid "difficulty_menu^<b>Semiquaver</b>"
-msgstr ""
+msgstr "difficulty_menu^<b>Tizenhatod</b>"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:20
 msgid "<span color='#888'>(Normal)</span>"
-msgstr ""
+msgstr "<span color='#888'>(Átlagos)</span>"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:21
 msgid "<span color='#888'>(Hard)</span>"
-msgstr ""
+msgstr "<span color='#888'>(Nehéz)</span>"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:21
 msgid "difficulty_menu^<b>Demisemiquaver</b>"
-msgstr ""
+msgstr "difficulty_menu^<b>Harmincketted</b>"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:22
 msgid "difficulty_menu^<b>Hemidemisemiquaver</b>"
-msgstr ""
+msgstr "difficulty_menu^<b>Hatvannegyed</b>"
 
 #. [campaign]: id=The_Devils_Flute
 #: The_Devils_Flute/_main.cfg:22
 msgid "<span color='#888'>(Nightmare)</span>"
-msgstr ""
+msgstr "<span color='#888'>(Rémálom)</span>"
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:26
 msgid "Campaign design and coding"
-msgstr ""
+msgstr "Tervezés, programozás és egy kis grafika"
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:32
 msgid "WML assistance"
-msgstr ""
+msgstr "WML tanácsadók"
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:41
 msgid "Art"
-msgstr ""
+msgstr "Grafika"
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:50
 msgid "Non-mainline music"
-msgstr ""
+msgstr "Extra zene"
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:62
 msgid "Random code & content copied from"
-msgstr ""
+msgstr "Ezt-azt másoltam..."
 
 #. [entry]
 #: The_Devils_Flute/_main.cfg:64
 msgid "“Invasion from the Unknown” by shadowmaster"
-msgstr ""
+msgstr "shadowmaster: “Invasion from the Unknown”"
 
 #. [entry]
 #: The_Devils_Flute/_main.cfg:67
 msgid "“RPG Resources” by PapaSmurfReloaded"
-msgstr ""
+msgstr "PapaSmurfReloaded: “RPG Resources”"
 
 #. [entry]
 #: The_Devils_Flute/_main.cfg:70
 msgid "“RPG Creation Kit” by Bob_The_Mighty"
-msgstr ""
+msgstr "Bob_The_Mighty: “RPG Creation Kit”"
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:74
 msgid "And many others providing feedback and reporting bugs. Thank you all!"
-msgstr ""
+msgstr "És még sokan mások... köszi mindenkinek!"
 
 #. [unit]: id=Basyl, type=Rogue Scientist
 #: The_Devils_Flute/macros/utilities/heros.cfg:10
 msgid "Basyl"
-msgstr ""
+msgstr "Basyl"
 
 #: The_Devils_Flute/macros/utilities/heros.cfg:27
 msgid "assassins"
-msgstr ""
+msgstr "assassins"
 
 #: The_Devils_Flute/macros/utilities/heros.cfg:28
 msgid "Creona's team"
-msgstr ""
+msgstr "Creona csapata"
 
 #: The_Devils_Flute/macros/utilities/heros.cfg:31
 msgid "Creona"
-msgstr ""
+msgstr "Creona"
 
 #. [scenario]: id=Merlyn
 #. [unit]: id=Merlyn, type=Arcane Grenadier
@@ -141,7 +146,7 @@ msgstr ""
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:5
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:767
 msgid "Merlyn"
-msgstr ""
+msgstr "Merlyn"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/macros/utilities/misc.cfg:40
@@ -150,14 +155,14 @@ msgstr ""
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:426
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:486
 msgid "Death of Creona"
-msgstr ""
+msgstr "Creona meghal"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/macros/utilities/misc.cfg:44
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:430
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:490
 msgid "Death of Basyl"
-msgstr ""
+msgstr "Basyl meghal"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/macros/utilities/misc.cfg:48
@@ -166,30 +171,32 @@ msgstr ""
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:665
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:837
 msgid "Turns run out"
-msgstr ""
+msgstr "Kifutsz az időből"
 
 #: The_Devils_Flute/macros/utilities/misc.cfg:61
 msgid "Do you want this unit to take the bottle up?"
-msgstr ""
+msgstr "Akarod, hogy ez az egység magához vegye az üveget?"
 
 #: The_Devils_Flute/macros/utilities/misc.cfg:62
 msgid "Yes."
-msgstr ""
+msgstr "Igen."
 
 #: The_Devils_Flute/macros/utilities/misc.cfg:63
 msgid "No."
-msgstr ""
+msgstr "Nem."
 
 #: The_Devils_Flute/macros/utilities/misc.cfg:64
 msgid ""
 "Merlyn already has an arcane attack. Give that flask to somebody who really "
 "needs it."
 msgstr ""
+"Merlynnek már van egy földöntúli támadása. Hagyd meg a palackot valaki "
+"olyannak, aki tényleg rászorul."
 
 #. [object]
 #: The_Devils_Flute/macros/utilities/misc.cfg:66
 msgid "Holy water"
-msgstr ""
+msgstr "Szenteltvíz"
 
 #. [object]
 #: The_Devils_Flute/macros/utilities/misc.cfg:68
@@ -197,23 +204,25 @@ msgid ""
 "Holy water adds arcane damage to your melee weapons. Its effect lasts till "
 "the end of the campaign."
 msgstr ""
+"A szenteltvíz földöntúli sebzéssel ruházza fel közelharci fegyvereidet. "
+"Hatása kitart a hadjárat végéig."
 
 #. [attack]: type=fire
 #. [effect]: type=fire
 #: The_Devils_Flute/macros/utilities/misc.cfg:91
 #: The_Devils_Flute/units/Rogue_Scientist.cfg:48
 msgid "grenade"
-msgstr ""
+msgstr "gránát"
 
 #. [scenario]: id=The_Appointment
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:6
 msgid "The Appointment"
-msgstr ""
+msgstr "A találkozó"
 
 #. [side]: id=Mal Amadeus, type=Lich
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:30
 msgid "Mysterious undead"
-msgstr ""
+msgstr "Titokzatos élőholtak"
 
 #. [side]: id=Mal Amadeus, type=Lich
 #. [side]: id=Mal Amadeus, type=Party Lich, (id=Skele1)}, (id=Skele2, (id=Skele3
@@ -221,7 +230,7 @@ msgstr ""
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:26
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:146
 msgid "Mal Amadeus"
-msgstr ""
+msgstr "Mal Amadeus"
 
 #. [part]
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:46
@@ -243,11 +252,29 @@ msgid ""
 "Have fun,\n"
 "lipk\n"
 msgstr ""
+"Szevasz.\n"
+"\n"
+"A hadjárat még fejlesztés alatt áll. Kész van ugyan az összes küldetés, és "
+"elvileg mindegyik élvezhető minőségű, de bőven van még mit csiszolgatni. "
+"Minden ötletet, észrevételt, visszajelzést szívesen látok a hadjárat "
+"fejlesztői csatornáján angolul: forums.wesnoth.org, Scenario & Campaign "
+"Development/The Devil's Flute vagy magyarul: wesnoth.fsf.hu/phpbbforum, The "
+"Devil's Flute/A sátán furulyája. A nyelvtani hibák javítása különösen "
+"érdekel (mármint az angol, ez a magyarban nem releváns :P).\n"
+"\n"
+"Ha általában kikapcsolt zenével játszol, ehhez a hadjárathoz akkor is "
+"érdemes lehet visszakapcsolni. Nem, nincsenek hűderemek saját komponálású "
+"számok a kiegészítőben, de rengeteg időt töltöttem azzal, hogy minden "
+"küldetéshez és jelenethez a legalkalmasabbakat válasszam ki. Zene nélkül nem "
+"lesz teljes az élmény.\n"
+"\n"
+"Jó játékot,\n"
+"lipk\n"
 
 #. [part]
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:57
 msgid "Once upon a time, somewhere in Wesnoth..."
-msgstr ""
+msgstr "Egyszer volt, hol nem volt, volt egyszer Wesnothban..."
 
 #. [part]
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:60
@@ -257,6 +284,10 @@ msgid ""
 "from town to town in Wesnoth, she practiced the last job you'd expect from a "
 "woman."
 msgstr ""
+"...egy hölgyemény, akit Creonának hívtak. Határozott, erőszakos személyiség "
+"volt és már csak dacból sem engedelmeskedett senkinek; nem is nagyon voltak "
+"barátai. Városról városra járva az emberek királyságában, egy kevéssé nőies "
+"munkát űzve kereste a kenyerét."
 
 #. [part]
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:63
@@ -266,6 +297,11 @@ msgid ""
 "years she earned the title, 'Queen of the Assassins' and got the Wesnothian "
 "King to lay one of the greatest bounties ever seen on her head."
 msgstr ""
+"Creona orgyilkos volt. Meglehetősen férfias foglalkozás ez, először nem is "
+"vették túl komolyan szakmában; de első sikerei így annál nagyobb visszhangot "
+"válthattak ki. Nem egész két év alatt kiérdemelte, hogy az 'Orgyilkosok "
+"Királynőjeként' emlegessék és csillagászati összegű vérdíjat tűzzenek ki a "
+"fejére."
 
 #. [part]
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:66
@@ -276,75 +312,81 @@ msgid ""
 "surprised when she got an invitation for a meeting in a forest, far away "
 "from inhabited areas."
 msgstr ""
+"Alkalmazói (és áldozatai) nem csupán nemesek, tábornokok és bűnözők közül "
+"kerültek ki; a Wesnoth körüli földeket lakó mindenféle teremtményekkel is "
+"gyakran akadt dolga. Ismerte különös szokásaikat, nem is nagyon lepődött "
+"meg, mikor találkozóra hívták egy minden lakott területtől távol eső, messzi "
+"erdőbe."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:76
 msgid ""
 "Okay, my client is waiting for us on the other side of the forest. Move on!"
-msgstr ""
+msgstr "Az ügyfelem az erdő túloldalán vár ránk. Mozgás!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:80
 msgid "Do we know anything about this man?"
-msgstr ""
+msgstr "Tudunk bármit is a fickóról?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:84
 msgid "We shall soon."
-msgstr ""
+msgstr "Nemsokára fogunk."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:88
 msgid "And about the job? Who is the target?"
-msgstr ""
+msgstr "És a munkáról? Ki a célpont?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:92
 msgid ""
 "I have no clue. Would you keep your stupid questions for yourself, please?"
 msgstr ""
+"Tudom is én. Megtartanád magadnak a hülye kérdéseidet, ha szépen kérlek?"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:98
 msgid "Meet your employer"
-msgstr ""
+msgstr "Találkozol a megbízóddal"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:116
 msgid "Now I will have an unsatisfied customer... what a shame!"
-msgstr ""
+msgstr "Egy elégedetlen ügyfelet hagyok hátra... micsoda szégyen!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:131
 msgid "Ughhh..."
-msgstr ""
+msgstr "Ughhh..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:141
 msgid "It may sound odd, but we can't continue without him!"
-msgstr ""
+msgstr "Talán furcsán hangozhat, de nélküle nem tudjuk folytatni!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:153
 msgid ""
 "I should move to the front... I have to arrange the business personally, "
 "after all!"
-msgstr ""
+msgstr "Előre kéne mennem... az üzletet személyesen kell intéznem!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:169
 msgid "The trees seem to be parched here... strange."
-msgstr ""
+msgstr "Ezek a fák kiszáradtak... különös."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:194
 msgid "Undead! Undead in the forest!"
-msgstr ""
+msgstr "Élőholtak! Élőholtak az erdőben!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:198
 msgid "Destroy them! We can't let them harm our employer!"
-msgstr ""
+msgstr "Pusztítsátok el őket! Nem árthatnak az alkalmazónknak!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:216
@@ -352,6 +394,8 @@ msgid ""
 "We could be more efficient against the undead if I gave some grenades to "
 "everyone."
 msgstr ""
+"Hatékonyabbak lenhetnénk az élőholtak ellen, ha mindenkinek adnék egy pár "
+"gránátot."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:220
@@ -359,42 +403,46 @@ msgid ""
 "<i>(sighs)</i> I've already told you several times, bombs are too expensive "
 "to equip our whole team with them. It would consume up our profit."
 msgstr ""
+"<i>(sóhajt)</i> Már néhány ezerszer megtárgyaltuk, a bombáid túl drágák "
+"ahhoz, hogy az egész csapatot felszereljük velük. Felélné a hasznunkat."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:224
 msgid "But we'd lose less men."
-msgstr ""
+msgstr "De kevesebb embert vesztenénk."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:228
 msgid ""
 "More men, more shares paid. Even lower makings. Everything's good as it is."
 msgstr ""
+"Több ember, többfelé osztott pénz. Még kisebb haszon. Bízd rám, ki van ez "
+"találva."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:260
 msgid "What are you doing here, man? Who is your leader?"
-msgstr ""
+msgstr "Mit csinálsz itt, ember? Ki a vezéred?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:267
 msgid "Aww, a lich. I can only hope my client is all right."
-msgstr ""
+msgstr "Jaj ne, egy delevény. Csak remélhetem, hogy az ügyfelem egyben van."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:334
 msgid "Hey, you are Creona, the famous assassin, aren't you?"
-msgstr ""
+msgstr "Halihó, te vagy Creona, a híres orgyilkosnő, nemde?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:338
 msgid "Yes I am."
-msgstr ""
+msgstr "De."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:342
 msgid "Well, I'm Mal Amadeus, your client."
-msgstr ""
+msgstr "Remek, részemről Mal Amadeus, a megbízód."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:346
@@ -402,16 +450,18 @@ msgid ""
 "Ah, really? You could be a bit more welcoming if you want to count on my "
 "services!"
 msgstr ""
+"Igen? Na hát lehetnél egy kicsit vendégszeretőbb is, ha igényt tartasz a "
+"szolgálataimra!"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:350
 msgid "What? I hope you didn't have any trouble with my servants?"
-msgstr ""
+msgstr "Mi? Remélem nem volt semmi gond a szolgáimmal?"
 
 #. [message]: speaker=$offended_undead[0].id
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:354
 msgid "Offended $offended_undead[0].language_name"
-msgstr ""
+msgstr "Offended $offended_undead[0].language_name"
 
 #. [message]: speaker=$offended_undead[0].id
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:355
@@ -419,11 +469,13 @@ msgid ""
 "It wasn't us, master! We were just collecting flowers in the forest, when "
 "they attacked us for no reason!"
 msgstr ""
+"Nem mi voltunk, mester! Mi csak virágot szedtünk az erdőben, ezek meg minden "
+"ok nélkül ránk rontottak!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:359
 msgid "Errr..."
-msgstr ""
+msgstr "Ööö..."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:363
@@ -431,6 +483,8 @@ msgid ""
 "Ah, the usual prejudices against undead. There isn't another race on the "
 "continent which is as persecuted as ours!"
 msgstr ""
+"Ah, a szokásos előítéletek. Nincs még egy nép az egész kontinensen, ami oly "
+"üldözött lenne, mint a miénk!"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:367
@@ -438,11 +492,13 @@ msgid ""
 "But hopefully we can put aside our baseless stereotypes now and talk about "
 "your tasks."
 msgstr ""
+"De most talán tegyük félre az alaptalan balítéleteket, és beszéljünk a "
+"tennivalóidról."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:371
 msgid "Indeed."
-msgstr ""
+msgstr "Támogatom."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:375
@@ -450,6 +506,8 @@ msgid ""
 "Well, I need you to fetch me an object. It belongs to the arch mage "
 "Dunduggwyn who lives in the city of Cyty."
 msgstr ""
+"Szóval, egy tárgyat kéne megszereznetek. Dunduggwyn varázslómester "
+"tulajdonában van, aki Cyty városában él."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:379
@@ -457,6 +515,7 @@ msgid ""
 "An arch mage, you say? That won't be cheap. Their kind is pretty hard to "
 "deal with."
 msgstr ""
+"Egy varázslómester? Az nem lesz olcsó. Nem könnyű elbánni a fajtájukkal."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:383
@@ -464,18 +523,20 @@ msgid ""
 "It's not necessary to murder him. Just bring me the object. My offer is 400 "
 "golds."
 msgstr ""
+"Nem kell vele elbánni. Csak hozzátok el, amit kérek. 400 aranyat ajánlok."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:387
 msgid ""
 "Stealing things from a living arch mage is even more dangerous! 800 at least."
 msgstr ""
+"Élő varázslómestert meglopni még veszélyesebb! 800 alatt meg se hallom."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:391
 msgid ""
 "Well, then just kill him. 500 golds are more than generous for this job."
-msgstr ""
+msgstr "Akkor öld meg. 500 arany több, mint bőkezűség."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:395
@@ -483,6 +544,8 @@ msgid ""
 "Hah, you must be joking. A notoriously unimportant princeling costed 350 to "
 "my client last month. I won't do this for less than the double price."
 msgstr ""
+"Heh, jó vicc. Egy szánalmas, érdektelen hercegecske 350-be került az "
+"ügyfelemnek múlt hónapban. Ezt nem vállalom a kétszeresénél kevesebbért."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:399
@@ -491,6 +554,8 @@ msgid ""
 "650 is the last proposal. 200 prepaid and an additional 450 in case of "
 "success."
 msgstr ""
+"700 aranyért inkább toboroznék egy hadsereget és elfoglalnám az egész "
+"várost. 650 az utolsó ajánlatom. 200 előre, további 450 siker esetén."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:403
@@ -498,21 +563,23 @@ msgid ""
 "That sounds fair enough. And precisely what object do you wish to get? Some "
 "magic book, I guess."
 msgstr ""
+"Rendben, kezet rá. És pontosan mire is fáj a fogad? Valami varázskönyvre, "
+"gondolom."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:407
 msgid "No. A flute."
-msgstr ""
+msgstr "Nem. Egy furulyára."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:411
 msgid "A flute?"
-msgstr ""
+msgstr "Egy furulyára?"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:415
 msgid "Exactly. I need the flute from the silver thread on Dunduggwyn's neck."
-msgstr ""
+msgstr "Arra. Ezüstszálon lóg Dunduggwyn nyakán. Azt hozd el nekem."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:419
@@ -520,46 +587,48 @@ msgid ""
 "As you wish. Just give me that 200 golds and we shall come along with your "
 "precious instrument in a few days."
 msgstr ""
+"Ahogy parancsolod. Dobd ide azt a 200 aranyat, és egy-két napon múlva már "
+"játszhatsz is a kedves hangszereden."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:423
 msgid "Here it is."
-msgstr ""
+msgstr "Tessék."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/01_The_Appointment.cfg:436
 msgid "I'll be waiting for you here. Good luck."
-msgstr ""
+msgstr "Itt fogok várni. Sok szerencsét."
 
 #. [scenario]: id=Anyguests_Inn
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:5
 msgid "Anyguest's Inn"
-msgstr ""
+msgstr "Bárkifia Fogadója"
 
 #. [side]: id=Bruggwy, type=Assassin, (id=Renegade)}
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:35
 msgid "Bruggwy's team"
-msgstr ""
+msgstr "Bruggwy csapata"
 
 #. [side]: id=Bruggwy, type=Assassin, (id=Renegade)}
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:38
 msgid "Bruggwy"
-msgstr ""
+msgstr "Bruggwy"
 
 #. [side]: (id=Spectator1, (id=Spectator2, (id=Innkeeper
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:57
 msgid "Spectators"
-msgstr ""
+msgstr "Nézők"
 
 #. [side]: (id=Spectator1, (id=Spectator2, (id=Innkeeper
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:74
 msgid "Innkeeper"
-msgstr ""
+msgstr "Fogadós"
 
 #. [side]: id=Dwarvish Guest)}, id=Drake Guest)}, id=Merman Guest)}, id=Necromancer Guest)}
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:83
 msgid "Guests"
-msgstr ""
+msgstr "Vendégek"
 
 #. [part]
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:139
@@ -571,16 +640,26 @@ msgid ""
 "thieves, bandits--in a word, those who were in conflict with the law. Creona "
 "sent Basyl and most of her men ahead to scout Cyty, and then entered the inn."
 msgstr ""
+"Mivel csapata meggyengült a delevény teremtményeivel való csetepatéban, és "
+"mert gyanította, hogy nem lesz egyszerű dolguk a mágussal, Creona úgy "
+"döntött, felbérel még néhány embert. Ehhez még csak kitérőt sem kellett "
+"tenniük; a Bárkifia Fogadója éppen a Cytybe vezető úton feküdt. Ebben a "
+"kocsmában gyülekezett az alvilág krémje - zsiványok, tolvajok, banditák vagy "
+"bárki, aki harcban állt a törvénnyel. Basyl és a csapat nagyobbik fele "
+"továbbsietett Cyty felé, hogy felderítsék a terepet, Creona pedig belépett a "
+"fogadóba..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:175
 msgid "Hi all! I need some brave men for a really, really dangerous mission!"
 msgstr ""
+"'napot mindenkinek! Szükségem lenne néhány bátor és erős férfira egy nagyon-"
+"nagyon veszélyes feladathoz!"
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:179
 msgid "Hey! I'm recruiting here! Get away and find some other place!"
-msgstr ""
+msgstr "Hé! Itt én toborzok! Tűnj el, keress más helyet magadnak!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:183
@@ -588,61 +667,63 @@ msgid ""
 "Well, everybody's free to choose who to contract with. As for me, I'm "
 "getting 650 golds for this job..."
 msgstr ""
+"Ugyan már, hadd döntse csak el mindenki, kivel akar szerződni. Ami engem "
+"illet, én 650 aranyra számíthatok ezért a munkáért..."
 
 #. [message]: speaker=Renegade
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:187
 msgid "Hmmm, that implies an impressive share! You can count on me!"
-msgstr ""
+msgstr "Hmmm, abból tekintélyes összeg juthat nekem is! Szolgálatodra!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:205
 msgid "Wise decision."
-msgstr ""
+msgstr "Bölcs döntés."
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:209
 msgid "Don't steal my men or..."
-msgstr ""
+msgstr "Hagyd békén az embereimet vagy..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:213
 msgid "You can't make up for my better offer with whatever amount of shouting."
-msgstr ""
+msgstr "Hiába üvöltözöl, jobb az ajánlatom és kész."
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:217
 msgid "<b>GET LOST OR I KILL YOU!</b>"
-msgstr ""
+msgstr "<b>KOPJ LE VAGY KINYÍRLAK!</b>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:221
 msgid "Come on!"
-msgstr ""
+msgstr "Hajrá!"
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:225
 msgid "Catch her!"
-msgstr ""
+msgstr "Kapjátok el!"
 
 #. [message]: speaker=Spectator1
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:229
 msgid "Haha! Free entertainment! I'm going to join the winner!"
-msgstr ""
+msgstr "Hohó, micsoda móka! A győzteshez csatlakozom!"
 
 #. [message]: speaker=Spectator2
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:233
 msgid "Me too!"
-msgstr ""
+msgstr "Én is!"
 
 #. [message]: speaker=Innkeeper
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:237
 msgid "Okay, boys and girls, but don't destroy the furniture please!"
-msgstr ""
+msgstr "Jól van fiúk-lányok, de a bútorzatot kíméljétek."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:246
 msgid "Kill Bruggwy"
-msgstr ""
+msgstr "Megölöd Bruggwyt"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:272
@@ -650,56 +731,58 @@ msgid ""
 "Dying in a pub brawl by the hands of a second-class assassin. What a shame! "
 "Better to die fast."
 msgstr ""
+"Micsoda szégyen, egy kocsmai verekedésben meghalni egy másodosztályú "
+"orgyilkos kezétől... jobb lesz gyorsan túlesni rajta."
 
 #. [message]: speaker=Renegade
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:288
 msgid "Okay, calm down, I will..."
-msgstr ""
+msgstr "Jól, van nyugalom..."
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:292
 msgid "You will die, traitor!"
-msgstr ""
+msgstr "Halál rád, áruló!"
 
 #. [message]: speaker=Spectator1
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:307
 msgid "Excellent! Go on!"
-msgstr ""
+msgstr "Remek! Csak így tovább!"
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:322
 msgid "You haven't won yet!"
-msgstr ""
+msgstr "Még nem győztél!"
 
 #. [message]: speaker=$store_side2[0].id
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:353
 msgid "I think it's more tactical to retreat towards the front door."
-msgstr ""
+msgstr "Szerintem okosabb volna a kapu felé menekülni."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:371
 msgid "Finished. So, who can I expect to follow me?"
-msgstr ""
+msgstr "Kész. Nahát akkor, kire számíthatok?"
 
 #. [message]: speaker=Spectator2
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:375
 msgid "Hey, it's not over yet! You have to kill him."
-msgstr ""
+msgstr "Lassan a testtel! Előbb meg kell ölnöd."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:379
 msgid "Don't be childish. You aren't in a circus."
-msgstr ""
+msgstr "Maradj már, nem cirkuszban vagy."
 
 #. [message]: speaker=Spectator1
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:383
 msgid "We won't join you unless you slay that guy."
-msgstr ""
+msgstr "Amit mondtam, megmondtam."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:387
 msgid "<i>(sighs)</i> Alright. Where did he run?"
-msgstr ""
+msgstr "<i>(sóhajt)</i> Rendben. Merre futott?"
 
 #. [message]: speaker=Innkeeper
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:391
@@ -708,21 +791,23 @@ msgid ""
 "already changed into a guest of whatever race. Be careful, and try not to "
 "kill any of my actual customers, please."
 msgstr ""
+"A vendégszobák felé. Bruggwy valódi álcázómester, mostanra bármiféle lénnyé "
+"átalakulhatott. Légy óvatos, és lehetőleg ne öld meg a valódi ügyfeleimet."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:395
 msgid "Well, who are your 'actual' customers?"
-msgstr ""
+msgstr "És kik a 'valódi' ügyfeleid?"
 
 #. [message]: speaker=Innkeeper
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:399
 msgid "Ehm... I can't really remember it."
-msgstr ""
+msgstr "Hát... igazándiból nem emlékszem."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:403
 msgid "Somewhat shameful for a man in your job."
-msgstr ""
+msgstr "Érdekelne, hogy ilyen memóriával hogy tudsz megmaradni a szakmádban."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:416
@@ -730,11 +815,13 @@ msgid ""
 "He can't hide here, so he must be inside of one of the rooms. I should take "
 "a look at each one."
 msgstr ""
+"Itt sehol sem rejtőzhetett el, úgyhogy valamelyik szobában lesz. Legjobb "
+"lesz, ha végignézem őket."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:422
 msgid "Visit all rooms"
-msgstr ""
+msgstr "Átvizsgálod az összes szobát."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:465
@@ -742,7 +829,7 @@ msgstr ""
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:571
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:624
 msgid "<i>Creona asks about Bruggwy</i>"
-msgstr ""
+msgstr "<i>Creona Bruggwy felől érdeklődik</i>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:642
@@ -752,6 +839,10 @@ msgid ""
 "others lied to me, so I just have to deduce who was the one who made a false "
 "statement."
 msgstr ""
+"Tehát a négy közül az egyik Bruggwy. Lefogadom, hogy mindent megpróbált, "
+"hogy félrevezessen, de ez lesz a veszte. A többieknek semmi okuk nem "
+"lehetett rá, hogy hazudjanak nekem, úgyhogy csak ki kell következtetnem, ki "
+"tett hamis állítást."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:647
@@ -761,76 +852,80 @@ msgid ""
 "'$guest_texts[2].text'\n"
 "'$guest_texts[3].text'"
 msgstr ""
+"'$guest_texts[0].text'\n"
+"'$guest_texts[1].text'\n"
+"'$guest_texts[2].text'\n"
+"'$guest_texts[3].text'"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:657
 msgid "Move Creona to Bruggwy's room"
-msgstr ""
+msgstr "Megtalálod Bruggwy szobáját"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:661
 msgid "Move to a wrong room"
-msgstr ""
+msgstr "Rossz szobába mész be"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:742
 msgid "I have one more little question..."
-msgstr ""
+msgstr "Lenne még egy kérdésem..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:746
 msgid "Did you really think that I won't find you?"
-msgstr ""
+msgstr "Tényleg azt hitted, hogy nem talállak meg?"
 
 #. [animate_unit]
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:761
 msgid "*swoosh*"
-msgstr ""
+msgstr "*huss*"
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:790
 msgid "Arghh..."
-msgstr ""
+msgstr "Ááá..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:794
 msgid "You're the seeker now."
-msgstr ""
+msgstr "Most te vagy a hunyó."
 
 #. [message]: speaker=Bruggwy
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:798
 msgid "Damn you!"
-msgstr ""
+msgstr "Fordulj fel!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:814
 msgid "Heh! And this miserable weakling claimed that he would kill me!"
-msgstr ""
+msgstr "Heh! És ez a nyápic fenyegetőzött, hogy megöl!"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:829
 msgid "Really kill Bruggwy at last"
-msgstr ""
+msgstr "Most már tényleg megölöd Bruggwyt"
 
 #. [message]: speaker=$unit.id
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:848
 msgid "Auch... what the hell are you doing?!"
-msgstr ""
+msgstr "Aúú... mi az ördögöt csinálsz?!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:852
 msgid "Oops, this isn't Bruggwy!"
-msgstr ""
+msgstr "Ajaj, ez nem nyert!"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:856
 msgid "Distant voice of Bruggwy"
-msgstr ""
+msgstr "Bruggwy távolodó hangja"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:857
 msgid "Definitely not! Goodbye, stupid girl!"
-msgstr ""
+msgstr "Nem bizony! Viszlát, hülye liba!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:876
@@ -838,6 +933,8 @@ msgid ""
 "I shouldn't bother $unit.name again... if he's Bruggwy, he might become "
 "suspicous."
 msgstr ""
+"Jobb ha nem zaklatom mégegyszer... ha $unit.name valójában Bruggwy, még "
+"gyanút foghat."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:904
@@ -845,27 +942,29 @@ msgid ""
 "Huh, done at last. He was quite tough for an amateur. I could have made a "
 "good use of him... but it's too late to think about that, I'm afraid."
 msgstr ""
+"Na, végre valahára. Kispályás létére elég szívós volt. Talán hasznát is "
+"vehettem volna... de attól tartok, az már nem fog menni."
 
 #. [message]: speaker=Spectator1
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:908
 msgid "Bravo! You performed amazingly in battle dear... ehm..."
-msgstr ""
+msgstr "Bravó! Igazán tehetséges harcos vagy, kedves... ööö..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:912
 msgid "Creona."
-msgstr ""
+msgstr "Creona."
 
 #. [message]: speaker=Spectator2
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:916
 msgid "Creona? The famous Creona?"
-msgstr ""
+msgstr "Creona? A híres Creona?"
 
 #. [message]: speaker=Spectator1
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:920
 msgid ""
 "Why didn't you start with that? It would have been no question to join you!"
-msgstr ""
+msgstr "Miért nem ezzel kezdted? Rögtön szolgálatodra álltunk volna!"
 
 #. [message]: speaker=Creona
 #. [message]: speaker=Merlyn
@@ -873,7 +972,7 @@ msgstr ""
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:516
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:213
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: speaker=Spectator2
 #: The_Devils_Flute/scenarios/02_Anyguests_Inn.cfg:928
@@ -881,48 +980,50 @@ msgid ""
 "But now we'll do so anyway. It's a great honor to work for you... how much "
 "will be my salary?"
 msgstr ""
+"Mindegy, most úgyis csatlakozunk hozzád. Hatalmas megtiszteltetés hogy a "
+"csapatodban dolgozhatok... mennyi lesz a fizetésem?"
 
 #. [scenario]: id=Chaos_in_Cyty
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:5
 msgid "Chaos in Cyty"
-msgstr ""
+msgstr "Felfordulás Cytyben"
 
 #. [side]: id=Ssszzz
 #. [side]: id=Zzzsss
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:35
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:59
 msgid "mercenaries"
-msgstr ""
+msgstr "mercenaries"
 
 #. [side]: id=Zzzsss
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:36
 msgid "Disappointed nagas"
-msgstr ""
+msgstr "Sértődött nagák"
 
 #. [side]: id=Zzzsss
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:39
 msgid "Zzzsss"
-msgstr ""
+msgstr "Zzzsss"
 
 #. [side]: id=Ssszzz
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:60
 msgid "Disappointed saurians"
-msgstr ""
+msgstr "Sértődött gyíkok"
 
 #. [side]: id=Ssszzz
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:63
 msgid "Ssszzz"
-msgstr ""
+msgstr "Ssszzz"
 
 #. [side]
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:86
 msgid "loyalists"
-msgstr ""
+msgstr "loyalists"
 
 #. [side]
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:87
 msgid "City militia"
-msgstr ""
+msgstr "Városi őrség"
 
 #. [part]
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:102
@@ -932,16 +1033,20 @@ msgid ""
 "enjoyed a tropical holdiay for a few days. When she thought the scouts might "
 "have had finished their job, she commanded her team to pack up and set off."
 msgstr ""
+"Basylnak nem volt szokása a gyors munka, így Creona nem is siettet az "
+"indulással. Kibérelte az ál-sellő régi szobáját, kért egy csónakot, és "
+"élvezte néhány napig a trópusi környezetet. Mikor úgy vélte, hogy a "
+"felderítők már végezhettek, utasította embereit, hogy csomagoljanak."
 
 #. [part]
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:106
 msgid "They reunited with the others at midnight, north of Cyty."
-msgstr ""
+msgstr "Éjfélkor találkoztak a többiekkel, Cytytől északra."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:142
 msgid "Here I am. So, what could you find out about the mage?"
-msgstr ""
+msgstr "Megjöttem. Hadd halljam, mit derítettél ki a mágusról?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:146
@@ -950,21 +1055,24 @@ msgid ""
 "in his crystal ball. Yeah, and he's the uncle of the lord of the city, so he "
 "lives in the palace. More exactly, in the cottage at the riverside."
 msgstr ""
+"Nincs családja, imád kertészkedni, a borjúsültet, és weslabdát bámulni a "
+"kristálygömbjében. Ja igen, és az unokaöccse a város ura, úgyhogy a "
+"palotában lakik. Egész pontosan a folyóparti házikóban."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:154
 msgid "Good. Now we can start making the plan."
-msgstr ""
+msgstr "Remek. Akkor álljunk neki kieszelni valami tervet."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:158
 msgid "I've already prepared everything, if you approve"
-msgstr ""
+msgstr "Utólagos engedelmeddel, már mindent elrendeztem."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:162
 msgid "What? I only told you to collect information!"
-msgstr ""
+msgstr "Mi a...? Csak annyit mondtam, hogy kémlelj ki, amit tudsz!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:166
@@ -972,16 +1080,19 @@ msgid ""
 "Yes, but I couldn't stop myself brainstorming about the project. And I found "
 "the best solution."
 msgstr ""
+"Igen, igen, de nem tudtam megállni, hogy ne elmélkedjek a haditerven, és "
+"kitaláltam egy nagyon jót."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:170
 msgid "I will listen."
-msgstr ""
+msgstr "Hallgatom."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:181
 msgid "There's a dam east of the city. We blow it up to make a flood."
 msgstr ""
+"A várostól keletre van egy duzzasztógát. Felrobbantjuk és árvizet okozunk."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:190
@@ -989,68 +1100,73 @@ msgid ""
 "I couldn't muffle the bombs so this will go with a big noise. Big enough to "
 "wake the city militia."
 msgstr ""
+"Nem sikerült hangtompítót szereznem a bombákhoz, úgyhogy jó nagyot fognak "
+"szólni. Elég nagyot ahhoz, hogy felébresszék az őrséget."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:199
 msgid "So I hired some saurians to keep them busy."
-msgstr ""
+msgstr "Felbéreltem néhány gyíkot, hogy eltereljék a figyelmüket."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:208
 msgid "The flood will overrun the palace and the nearby areas in a short time."
-msgstr ""
+msgstr "Az ár hamarosan elönti a palotát és a környékét."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:217
 msgid "After that our naga mercenaries can easily control the territory."
-msgstr ""
+msgstr "Ezután naga zsoldosaink már könnyedén ellenőrizhetik azt a területet."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:224
 msgid "So our only task is to walk in and grab the flute."
 msgstr ""
+"Nekünk csak annyi dolgunk van, hogy odasétáljunk, és elhozzuk a furulyát."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:230
 msgid "Well, this is ingenious."
-msgstr ""
+msgstr "Ez egyszerűen zseniális."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:234
 msgid "Thanks."
-msgstr ""
+msgstr "Köszönöm."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:238
 msgid "I only suggest some little modifications."
-msgstr ""
+msgstr "Csak néhány apróbb módosítást javasolnék."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:242
 msgid "Precisely?"
-msgstr ""
+msgstr "Ööö... és mit?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:246
 msgid "No bombs, no flood, no nagas and no saurians. That's all."
 msgstr ""
+"A bombákat, az árvizet, a nagákat és a gyíkokat felejtsd el. A többi "
+"maradhat."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:250
 msgid "But why? This will completely..."
-msgstr ""
+msgstr "De miért? Teljesen tönkreteszed..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:254
 msgid ""
 "Because I simply have no intention to launch a full-scale attack against the "
 "city."
-msgstr ""
+msgstr "Egész egyszerűen nem tervezem lerohanni a várost."
 
 #. [message]: speaker=Zzzsss
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:260
 msgid "Humansssss! Give ussss our money!"
-msgstr ""
+msgstr "Emberek! A pénsssssszünket akarjuk, mossssszt!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:264
@@ -1058,105 +1174,108 @@ msgid ""
 "I'm sorry, there's no money for you. We don't need your help. However you "
 "can take this fool as compensation. He makes an excellent slave."
 msgstr ""
+"Sajnálom, nem tudok rátok pénzt áldozni. Nincs rátok szükségünk. Ezt a "
+"paprikajancsit vihetitek fájdalomdíjként, ha gondoljátok. Söpörni, azt egész "
+"jól tud."
 
 #. [message]: speaker=Zzzsss
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:268
 msgid ""
 "We don't like human'ssssss humour. Pay our goldsssss or we sssssslay you!"
-msgstr ""
+msgstr "Nem viccessssz. Fizessssssz, vagy ssssszétkasssssszabolunk!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:272
 msgid "I don't pay anything."
-msgstr ""
+msgstr "Nem fizetek."
 
 #. [message]: speaker=Zzzsss
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:276
 msgid "Then we take by for(c)ssssssse!"
-msgstr ""
+msgstr "Akkor elvessssssszük!"
 
 #. [message]: speaker=Ssszzz
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:280
 msgid "Sssssso ssssshall we!"
-msgstr ""
+msgstr "Sssssszintén!"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:288
 msgid "Move a unit to Dunduggwyn's house"
-msgstr ""
+msgstr "Egy egység eléri Dunduggwyn házát"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:307
 msgid "Curse you, Basyl... I die for your incompetence..."
-msgstr ""
+msgstr "Átok rád, Basyl... a te hülyeséged miatt halok meg..."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:322
 msgid "Maybe this plan wasn't so ingenious... ugghhh..."
-msgstr ""
+msgstr "Talán mégse volt olyan zseniális a tervem... uggghhh..."
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:347
 msgid "Nagas are attacking the city!"
-msgstr ""
+msgstr "Nagák ostromolják a várost!"
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:363
 msgid "Saurians are attacking the city!"
-msgstr ""
+msgstr "Gyíkok ostromolják a várost!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:379
 msgid "Treacheroussssss humansssss! Where isssss our money?"
-msgstr ""
+msgstr "Hitsssssszegő ember! Hol a assssz aranyam?"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:395
 msgid "Here's your payment, damned reptile!"
-msgstr ""
+msgstr "Itt a jussod, átkozott hüllő!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:406
 msgid "Ehm... Creona?"
-msgstr ""
+msgstr "Ööö... Creona?"
 
 #. [message]: speaker=Basyl
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:410
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:368
 msgid "Yes?"
-msgstr ""
+msgstr "Igen?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:414
 msgid "Don't kill me please."
-msgstr ""
+msgstr "Ne ölj meg, légy szíves."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:418
 msgid "Don't provide a reason."
-msgstr ""
+msgstr "Ne adj rá okot."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:422
 msgid "Well, the bombs... err... I forgot... they are timed..."
-msgstr ""
+msgstr "Szóval, a bombák... izé... elfelejtettem... időzítve vannak..."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:474
 msgid "What was that? Alarm!"
-msgstr ""
+msgstr "Mi volt az? Riadó!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:490
 msgid "I'm afraid I will definitely kill you!"
-msgstr ""
+msgstr "Attól tartok, nagyon is meg foglak ölni!"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:511
 msgid ""
 "The wild waves are crashing against the wall so fiercely that it collapses!"
-msgstr ""
+msgstr "A vad hullámok olyan erővel csapódnak a falnak, hogy az összeomlik!"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:523
@@ -1165,11 +1284,13 @@ msgid ""
 "underwater ruins. On the other side, the flood seems to be exhausted now - "
 "it just silently pours over the streets."
 msgstr ""
+"A város védműveinek jó rész nem több már, mint vízalatti rom. Másfelől, az "
+"özönvíz kimerülni látszik - csendesen ömlik szét az utcákon."
 
 #. [message]: speaker=Zzzsss
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:533
 msgid "The town isssss underwater. Ni(c)ssssse!"
-msgstr ""
+msgstr "A várossssz vísssssz alatt van. Tetsssssszetős!"
 
 #. [event]: id=Dunduggwyn
 #. [unit]: id=Dunduggwyn, type=Arch Mage
@@ -1178,47 +1299,47 @@ msgstr ""
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:859
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:253
 msgid "Dunduggwyn"
-msgstr ""
+msgstr "Dunduggwyn"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:574
 msgid "Who is that? Wait... argh, assassins!"
-msgstr ""
+msgstr "Ki az? Hé... segítség, orgyilkosok!"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:580
 msgid "Kill Dunduggwyn to get the flute from him"
-msgstr ""
+msgstr "Megölöd Dunduggwyn és megszerzed a furulyát"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:584
 msgid "Somebody else kills Dunduggwyn before you"
-msgstr ""
+msgstr "Valaki előtted végez Dunduggwynnal"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:613
 msgid "Here's it! Let's pick it up and leave this blasted city fast."
-msgstr ""
+msgstr "Itt van! Kapjuk fel, aztán lépjünk le ebből az istenverte városból."
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:619
 msgid "Here's the flute!"
-msgstr ""
+msgstr "Itt a furulya!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:623
 msgid "Good! Grab it and then we can go."
-msgstr ""
+msgstr "Szép munka! Kapd fel, aztán mehetünk."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:647
 msgid "They killed our wiseman! Catch them, they must not get away with this!"
-msgstr ""
+msgstr "Megölték a mágust! Utánuk, nem szökhetnek meg!"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:677
 msgid "Pick up the flute with a unit"
-msgstr ""
+msgstr "Felveszed a furulyát egy egységgel"
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:700
@@ -1226,16 +1347,18 @@ msgid ""
 "What isssss that sssssshiny thing? $second_unit.name likesssss it. "
 "$second_unit.name takesssss it."
 msgstr ""
+"Mi esssssssz a fényesssssssssz dolog? Nagyon sssssssszép! Magammal "
+"visssssszem!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:736
 msgid "Oh no! That reptile stole the flute. We failed."
-msgstr ""
+msgstr "Jaj, ne! A hüllők lenyúlták a furulyát. Kudarcot vallottunk."
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:768
 msgid "Got it!"
-msgstr ""
+msgstr "Megvan!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:775
@@ -1243,6 +1366,8 @@ msgid ""
 "Okay, let's go. Don't expect me waiting for anybody. I won't stay in this "
 "madness for a minute longer than I have to!"
 msgstr ""
+"Remek, akkor mozgás. Ne higgyétek, hogy bárkire is várni fogok, elegem van "
+"ebből az őrültekházából!"
 
 #. [objectives]
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:779
@@ -1250,48 +1375,50 @@ msgid ""
 "Any unit moved to the signpost is eventually removed from the map. When "
 "Creona leaves, the scenario ends. Every unit still on the map is lost."
 msgstr ""
+"Az útjelzőre lépő egységek lekerülnek a térképről. Amikor Creona is távozik, "
+"a küldetés véget ér. A pályán maradt egységek elvesznek"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:782
 msgid "The flute-bearer, Basyl and Creona reaches the signpost"
-msgstr ""
+msgstr "A furulyahordozó, Basyl és Creona elérik az útjelzőt"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:786
 msgid "The flute-bearer dies"
-msgstr ""
+msgstr "A furulyahordozó meghal"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:815
 msgid "Don't die you idiot!"
-msgstr ""
+msgstr "Nehogy meghalj, te szerencsétlen!"
 
 #. [message]: speaker=Ssszzz
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:849
 msgid "You won't esssscape!"
-msgstr ""
+msgstr "Nem sssssszöksssz meg!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:888
 msgid "Damn, we lost the flute."
-msgstr ""
+msgstr "A pokolba, elvesztettük a furulyát."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:941
 msgid ""
 "I don't understand what Creona is complaining about... everything went "
 "smoothly!"
-msgstr ""
+msgstr "Nem értem miért olyan ideges Creona... simán ment az akció!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:969
 msgid "Great! The flute is now in safe."
-msgstr ""
+msgstr "Remek! A furulya biztonságban van."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1000
 msgid "Move on, Basyl! I won't wait for eternity!"
-msgstr ""
+msgstr "Igyekezz, Basyl! Erősen véges a türelmem!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1025
@@ -1299,42 +1426,48 @@ msgid ""
 "It's your luck $flute_bearer.name that you could lay your hands on that "
 "gadget! I wouldn't be so patient otherwise!"
 msgstr ""
+"Nagy szerencséd, $flute_bearer.name, hogy megkaparintottad azt a vackot! "
+"Egyébként nem lennék ilyen türelmes!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1032
 msgid "Well done. Let's head back to Amadeus' keep."
-msgstr ""
+msgstr "Végre vége. Gyerünk vissza Amadeushoz."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1067
 msgid "Blast it. They escaped. But it's not over! We must catch these bandits!"
 msgstr ""
+"Ördög és pokol, megszöktek. De nam hagyom ennyiben! Fülön fogom csípni "
+"ezeket a banditákat!"
 
 #. [message]: speaker=$walterpartner.id
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1071
 msgid "Excuse me, sir, I have a good idea."
-msgstr ""
+msgstr "Engedelmeddel, uram, lenne egy jó ötletem."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1075
 msgid "What is that?"
-msgstr ""
+msgstr "És mi az?"
 
 #. [message]: speaker=$walterpartner.id
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1079
 msgid "The best tools against criminals are their own ones!"
-msgstr ""
+msgstr "A bünözők ellen a saját eszközeikkel harcolhatunk a leghatékonyabban!"
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1083
 msgid ""
 "This doesn't sound too sympathetic at first glance. Could you explain it?"
-msgstr ""
+msgstr "Ez így elsőre nem túl rokonszenves. Kifejtenéd egy kicsit bővebben?"
 
 #. [message]: speaker=$walterpartner.id
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1087
 msgid "I think we should hire an assassin to assassinate the assassins."
 msgstr ""
+"Véleményem szerint felbérelhetnénk egy gyilkost, hogy gyilkolja meg a "
+"gyilkosokat."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1091
@@ -1342,6 +1475,8 @@ msgid ""
 "Interesting idea. However, I don't see why the Secret Service couldn't do "
 "that."
 msgstr ""
+"Érdekes ötlet. Azonban nem látom át, hogy a Titkosszolgálat miért ne tudná "
+"megtenni ugyanezt."
 
 #. [message]: speaker=$walterpartner.id
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1095
@@ -1350,16 +1485,19 @@ msgid ""
 "According to my plan, only our assassin could die. Or the other one. One "
 "less problem anyway."
 msgstr ""
+"Biztos megtudná, de fennállna a veszély, hogy elveszítünk néhány értékes "
+"embert. Az én módszeremmel csak a mi orgyilkosunk halhatna meg. Vagy a "
+"másik. Eggyel kevesebb gond mindenképp."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1099
 msgid "Neat! Haha! Very-very neat!"
-msgstr ""
+msgstr "Ravasz! Hahaha! Nagyon-nagyon ravasz!"
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1103
 msgid "JACK!!!"
-msgstr ""
+msgstr "JACK!!!"
 
 #. [scenario]: id=Agent_Jack
 #. [side]: id=Agent Jack, type=Ranger
@@ -1368,12 +1506,12 @@ msgstr ""
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:5
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:38
 msgid "Agent Jack"
-msgstr ""
+msgstr "Jack ügynök"
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1116
 msgid "Yes, sir."
-msgstr ""
+msgstr "Igen, uram."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1120
@@ -1381,11 +1519,13 @@ msgid ""
 "Who is the most professional, most evil, most dangerous assassin on our "
 "wanted list? We need him."
 msgstr ""
+"Ki a legedzetteb, legördöngősebb, legveszélyesebb orgyilkos Wesnothban? "
+"Szükségünk lenne a segítségére."
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1124
 msgid "We need a criminal???"
-msgstr ""
+msgstr "Egy bűnöző segítségére???"
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1128
@@ -1393,11 +1533,13 @@ msgid ""
 "Yes. We hire him to find and kill the murderers of Dunduggwyn. Such a crime "
 "should not go unpunished!"
 msgstr ""
+"Igen. Felbéreljük, hogy megtalálja és elintézze Dunduggwyn gyilkosait. Ezt a "
+"tettet mindenképp meg kell torolni!"
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1132
 msgid "Hmmm... let me see... actually he's a she. Her name is Creona."
-msgstr ""
+msgstr "Hát... lássuk csak... azt hiszem megvan. Egy nő, Creonának hívják."
 
 #. [message]: speaker=Walter
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1136
@@ -1405,54 +1547,56 @@ msgid ""
 "A woman? Strange... but it doesn't matter. Find her and tell her that she "
 "gets 400 golds for the head of the murderer. Go!"
 msgstr ""
+"Egy nő? Furcsa... de nem számít. Keresd fel és mondd meg neki, hogy 400 "
+"arany üti a markát, ha végez a merénylőkkel. Indulj!"
 
 #. [message]: speaker=$random_loy_unit.id
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/03_Chaos_in_Cyty.cfg:1140
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:888
 msgid "Yes sir."
-msgstr ""
+msgstr "Igenis uram."
 
 #. [scenario]: id=Embarrassing_Question
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:5
 msgid "Embarrassing Question"
-msgstr ""
+msgstr "Egy kínos kérdés"
 
 #. [side]: id=Mal Amadeus, type=Lich
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:24
 msgid "Not anymore mysterious undead"
-msgstr ""
+msgstr "Most már nem titokzatos élőholtak"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:64
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:114
 msgid "Hello."
-msgstr ""
+msgstr "Szép napot."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:68
 msgid "It's you? You were pretty quick. Do you have the flute?"
-msgstr ""
+msgstr "Áh, ti vagytok azok? Egész gyorsan végeztetek. Megvan a furulya?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:72
 msgid "Maybe. Depends on how many golds you have left."
-msgstr ""
+msgstr "Talán, ha maradt még aranyad..."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:76
 msgid "Ah, the careful! Here's your reward."
-msgstr ""
+msgstr "A kis óvatos! Tessék, a pénzed."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:87
 msgid "You're lucky. Accidentally, we have a flute."
-msgstr ""
+msgstr "Szerencséd van. Véletlenül pont van nálunk egy furulya."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:91
 msgid "Haha! Thanks."
-msgstr ""
+msgstr "Haha! Kösz."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:98
@@ -1461,36 +1605,39 @@ msgid ""
 "motivations, but I simply can't imagine that... why is this flute so "
 "important to you?"
 msgstr ""
+"Izé... Amadeus... nem szokásom az ügyfeleim indítékairól kérdezősködni, de "
+"egyszerűen nem fér a fejembe... miért olyan fontos ez a furulya neked?"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:105
 msgid "Errr... you know... it just has such a nice voice!"
-msgstr ""
+msgstr "Háááát... tudod... olyan szép hangja van!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:109
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:113
 msgid "Goodbye!"
-msgstr ""
+msgstr "Viszlát!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:129
 msgid "I think your last question embarassed him a bit."
-msgstr ""
+msgstr "Az utolsó kérdésed mintha feszélyezte volna egy kicsit."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:133
 msgid "It's no surprise. People rarely like to be honest about their purposes."
 msgstr ""
+"Nincs ebben semmi meglepő. Az emberek ritkán őszinték a céljaikat illetően."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:137
 msgid "I'm sure he needs that flute for some evil machinations."
-msgstr ""
+msgstr "Biztos, hogy valami disznóságot tervez azzal furulyával."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/04_Embarrassing_Question.cfg:141
@@ -1498,11 +1645,13 @@ msgid ""
 "What did you expect? That he would perform on charity concerts? It's not our "
 "business, anyways."
 msgstr ""
+"Miért, mit vártál? Hogy majd jótékonysági koncerteken lép fel? Akárhogy is, "
+"semmi közünk hozzá."
 
 #. [side]: id=Agent Jack, type=Ranger
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:42
 msgid "Secret Service of Wesnoth"
-msgstr ""
+msgstr "Wesnothi Királyi Titkosszolgálat"
 
 #. [part]
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:53
@@ -1515,6 +1664,13 @@ msgid ""
 "a bit, then leave to find a new employer - that was the good old scenario. "
 "Nothing implied that it'd be any different this time."
 msgstr ""
+"Frissen szerzett vagyonukkal a zsebükben Creonáék észak felé vették az "
+"irányt, hogy elhagyják Wesnotht. Mindig így tettek a zajosabb munkák után, "
+"és egy egész város romba döntését akár zajosnak is lehetett tekinteni. Egy "
+"falucska felkeresése, egy csomó pénz a szállásért, hogy a falusiak ne "
+"árulják el, hogy ott voltál, kis pihenés, aztán jöhet az újabb megbízás - ez "
+"volt a jól bevált forgatókönyv. Semmi nem utalt rá, hogy ezúttal bármi "
+"máshogy történne."
 
 #. [part]
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:57
@@ -1524,6 +1680,10 @@ msgid ""
 "his profession, he knew where to start searching for a most wanted criminal "
 "- in the northlands."
 msgstr ""
+"Eközben a Wesnothi Királyi Titkosszolgálat nagy erőkkel kereste Creonát, "
+"hogy megbízzák a saját meggyilkolásával. Jack ügynök öreg róka volt, tudta, "
+"hogy egy igazán fajsúlyos gonosztevőt hol érdemes keresni - az északi "
+"földeken."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:91
@@ -1531,36 +1691,38 @@ msgid ""
 "If I remember well, these cliffs aren't so far from Gubbre. We shall be "
 "there by sunset."
 msgstr ""
+"Ha emlékezetem nem csal, ezek a sziklák már Gubbre közelében fekszenek. "
+"Napnyugtára ott vagyunk."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:95
 msgid "Someone is approaching on the road."
-msgstr ""
+msgstr "Valaki közeledik az úton."
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:110
 msgid "Greetings, beautiful lady!"
-msgstr ""
+msgstr "Üdvözlet neked, szép hölgy!"
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:118
 msgid "You're Creona, the well-known assassin, aren't you?"
-msgstr ""
+msgstr "Creona vagy, a neves orgyilkos, ha nem tévedek?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:122
 msgid "Hmmm... yes I am."
-msgstr ""
+msgstr "Hmmm... igen, az vagyok."
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:126
 msgid "It's pretty hard to find you! I have a job for you."
-msgstr ""
+msgstr "Nem könnyű a nyomodra bukkani! Van egy ajánlatom a számodra."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:130
 msgid "Really?"
-msgstr ""
+msgstr "Igazán?"
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:134
@@ -1570,16 +1732,20 @@ msgid ""
 "military commander of the city offers you 400 gold for finding and slaying "
 "the murderers."
 msgstr ""
+"Igazán. Néhány napja banditák támadtak városomra, Cytyre, és megölték "
+"Dunduggwynt, egy nagy tiszteletben álló polgárunkat. Walter tábornok, a "
+"városi őrség parancsnoka 400 aranyat fizet neked, ha felkutatod és megölöd a "
+"tetteseket."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:138
 msgid "It sounds interesting..."
-msgstr ""
+msgstr "Érdekesnek hangzik..."
 
 #. [event]: (id=Hawkeye Howard
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:143
 msgid "Hawkeye Howard"
-msgstr ""
+msgstr "Sólyom Sam"
 
 #. [message]: speaker=Hawkeye Howard
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:147
@@ -1587,6 +1753,8 @@ msgid ""
 "Wait Jack! I know this woman! I saw her in that night in Cyty. She is the "
 "murderer of Dunduggwyn!"
 msgstr ""
+"Várj csak, Jack! Én láttam már ezt a nőt! Ő is ott volt azon az éjszakán "
+"Cytyben. Ő Dunduggwyn gyilkosa!"
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:154
@@ -1594,6 +1762,8 @@ msgid ""
 "Well, milady, then I suppose you can get a 400 gold reward for commiting "
 "suicide."
 msgstr ""
+"Hát, ha így áll a dolog, asszonyom, akkor értelmezésem szerint 400 aranyat "
+"ajánlhatok az öngyilkosságodért cserébe."
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:161
@@ -1601,26 +1771,28 @@ msgid ""
 "But it's very unlikely that you would do that, so I'm afraid I have to kill "
 "you myself."
 msgstr ""
+"De mivel nem hinném, hogy ilyesfajta üzletet nyélbe tudunk ütni, az lesz a "
+"legjobb, ha megöllek."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:165
 msgid "In your place, I would try to get away alive instead."
-msgstr ""
+msgstr "A helyedben inkább próbálnék ép bőrrel elmenekülni."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:210
 msgid "Defeat Agent Jack"
-msgstr ""
+msgstr "Legyőzöd Jack ügynököt"
 
 #. [message]: speaker=$newly_arrived_unit.id
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:231
 msgid "What's going on, Creona?"
-msgstr ""
+msgstr "Mi folyik itt, Creona?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:235
 msgid "We've got a little obstacle in our way."
-msgstr ""
+msgstr "Van egy kis fennakadás."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:244
@@ -1628,41 +1800,44 @@ msgid ""
 "Probably it'd be a good idea not to rush ahead so that the others can catch "
 "up..."
 msgstr ""
+"Ne rohanjatok előre, adjunk egy kis időt a többieknek, hogy felzárkózzanak."
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:257
 msgid "I will make you drink up all the water in my backyard!"
-msgstr ""
+msgstr "Felitatom veled az összes vizet a kertemből!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:275
 msgid "I hate you, Basyl!!!"
-msgstr ""
+msgstr "Utállak, Basyl!!!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:279
 msgid "Why does everybody blame me? I didn't do anything this time!"
-msgstr ""
+msgstr "Miért szid engem mindig mindenki? Most nem is csináltam semmit!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:292
 msgid "Blast my sharp eyes! Why did I have to make Jack attack these bandits?"
 msgstr ""
+"Fenébe azokkal a sólyomszemeimmel! Miért is kellett észrevennem, hogy ezek "
+"azok a banditák?"
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:296
 msgid "This is the fate of nitpickers."
-msgstr ""
+msgstr "Ez a mitugrászok sorsa."
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:309
 msgid "You're wrong if you think it's so easy to kill Agent Jack!"
-msgstr ""
+msgstr "Jack ügynököt nem győzöd le ilyen könnyen!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:321
 msgid "Oh no! He escaped. What will happen now?"
-msgstr ""
+msgstr "Jaj, ne, megszökött! Most mi lesz?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:325
@@ -1670,16 +1845,18 @@ msgid ""
 "Another bounty will be put on my head. It matters little. If somebody "
 "managed to kill me, he could have already become a millionaire by that."
 msgstr ""
+"Még egy vérdíjat tűznek ki a fejemre. Nem sokat számít. Ha valaki megölt "
+"volna, már amúgy is milliomos lett volna belőle."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:329
 msgid "Let's go. The holiday resort is very close."
-msgstr ""
+msgstr "Gyerünk tovább. Az üdülő már nagyon közel van."
 
 #. [message]: speaker=Agent Jack
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:347
 msgid "Hah! A shiny trophy to my collection."
-msgstr ""
+msgstr "Hah! Egy újabb trófea a gyűjteményembe."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/05_Agent_Jack.cfg:363
@@ -1687,21 +1864,23 @@ msgid ""
 "He was a fool, but still... it's impossible to find another usable "
 "explosives expert for this cheap!"
 msgstr ""
+"Bolond volt, de akkor is... képtelenség más robbantómestert találni ilyen "
+"olcsón!"
 
 #. [scenario]: id=Zombies_in_the_Stable
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:5
 msgid "Zombies in the Stable"
-msgstr ""
+msgstr "Zombik az istállóban"
 
 #. [side]
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:53
 msgid "Once again mysterious undead"
-msgstr ""
+msgstr "Ismét titokzatos élőholtak"
 
 #. [side]
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:67
 msgid "Who can they be?"
-msgstr ""
+msgstr "Kik lehetnek ők?"
 
 #. [part]
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:73
@@ -1711,6 +1890,10 @@ msgid ""
 "The fight with the SSW party evidently caused a delay, so they didn't "
 "arrived before sunset as wanted."
 msgstr ""
+"A törvényen kívüliek továbbhaladtak Gubbre felé. Creon jól ismerte a falut, "
+"tudta, hogy tisztes összeg fejében biztos menedékre találnak. A WKT-vel való "
+"összecsapás miatt azonban nem érkeztek meg napszállta előtt, ahogy szerettek "
+"volna."
 
 #. [part]
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:77
@@ -1719,17 +1902,19 @@ msgid ""
 "generous payday and a before a several weeks long vacation. Or at least they "
 "thought so..."
 msgstr ""
+"Nem mintha ez kedvét szegte volna a csapatnak. Friss aranyak csilingeltek a "
+"zsebükben és többhetes vakáció lebegett a szemük előtt..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:94
 msgid "Damn that sneak... it will be midnight when we arrive to Gubbre."
-msgstr ""
+msgstr "Pokolba azzal a spiclivel. Éjfél előtt nem érünk oda."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:98
 msgid ""
 "What if we don't find anybody awaken? I don't want to sleep in the forest."
-msgstr ""
+msgstr "Mi lesz, ha senkit nem találunk ébren? Nem akarok az erdőben aludni."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:102
@@ -1738,11 +1923,13 @@ msgid ""
 "really a minor annoyance compared to the money we're going to pay them for "
 "this little holiday."
 msgstr ""
+"Heh, nyugodt lélekkel rúgom ki az ágyból az egész települést. Igazán apróság "
+"ahhoz képest, hogy mennyit fogunk nekik fizetni egy vacak kis nyaralásért."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:107
 msgid "Get to Gubbre"
-msgstr ""
+msgstr "Eljutsz Gubbréba"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:123
@@ -1750,6 +1937,8 @@ msgid ""
 "Being killed by a miserable pile of flesh... not a glorious end for my "
 "career."
 msgstr ""
+"Egy nyamvadt húskupac győzött le... nem valami dicsőséges vég ez a "
+"pályafutásomnak."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:139
@@ -1757,37 +1946,40 @@ msgid ""
 "I don't think I can make any use of Basyl as a zombie... not likely he can "
 "still handle bombs."
 msgstr ""
+"Nem hinném, hogy Basylt zombiként is munkára lehetne fogni... így már pláne "
+"nem tudja kezelni a nyomorult bombáit."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:163
 msgid "Oh no, not again!"
-msgstr ""
+msgstr "Ne, csak ezt ne!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:167
 msgid "Perhaps it's excess to fight them this time either."
-msgstr ""
+msgstr "Lehet, hogy most sem kéne velük harcba szállnunk."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:171
 msgid ""
 "Well, if you wish to do diplomacy with a bunch of decaying corpses, just go."
 msgstr ""
+"Hát ha te rá tudod őket venni, hogy hagyjanak minket békén, akkor hajrá."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:175
 msgid "Ehm... rather not."
-msgstr ""
+msgstr "Ööö... inkább nem."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:180
 msgid "From all around"
-msgstr ""
+msgstr "Körös-körül"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:181
 msgid "Eeeeeeeeeerw... graaaaaaaaa... bwuoaaaaaaaaaaaa..."
-msgstr ""
+msgstr "Ööööööööö... höööööööö... bvuoááááááááááá...."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:188
@@ -1795,104 +1987,108 @@ msgid ""
 "There might be more of them in the forest... I have a bad feeling that we "
 "won't get our well-merited relax!"
 msgstr ""
+"Még több lehet belőlük az erdőben... valami azt súgja, hogy ebben a faluban "
+"nem sokat fogunk pihenni!"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:194
 msgid "Kill all zombies"
-msgstr ""
+msgstr "Megölöd az összes zombit"
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:215
 msgid "Well, if you're just collecting flowers, say it fast!"
-msgstr ""
+msgstr "Ha csak virágot szedsz, még most mondhatod!"
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:231
 msgid "You can't say I didn't ask!"
-msgstr ""
+msgstr "Ne mondd, hogy nem kérdeztem!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:263
 msgid "Where did they come from?"
-msgstr ""
+msgstr "Honnan jöttek ezek?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:267
 msgid ""
 "How could I know? Let's hurry to the village and see if we can save anything "
 "from our vacation."
-msgstr ""
+msgstr "Honnan tudnám? Gyerünk a faluba, hátha megmenthetjük még a vakációt."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:272
 msgid "Investigate the village"
-msgstr ""
+msgstr "Átkutatod a falut"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:311
 msgid "Is there anybody here?"
-msgstr ""
+msgstr "Van itt valaki?"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:324
 msgid "Huh! It's good to see somebody at last who moves and actually lives..."
-msgstr ""
+msgstr "Huh! Végre valaki, aki tényleg él..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:328
 msgid ""
 "...and not just un-lives! Grrr... you can't imagine what horrors we met!"
 msgstr ""
+"...és nem csak élő-hal! Brrr... el se tudjátok képzelni, min mentünk "
+"keresztül!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:332
 msgid "What happened here, villager?"
-msgstr ""
+msgstr "Mi történt itt, ember?"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:336
 msgid "Undead..."
-msgstr ""
+msgstr "Élőholtak..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:340
 msgid "Lots of lots of undead..."
-msgstr ""
+msgstr "Sok-sok élőholt..."
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:344
 msgid "Lieutenant Fred was killed..."
-msgstr ""
+msgstr "Megölték Fred hadnagyot..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:348
 msgid "More and more of undead..."
-msgstr ""
+msgstr "Még több élőholt..."
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:352
 msgid "Oh no! Here they come again!"
-msgstr ""
+msgstr "Segítség! Megint támadnak!"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:369
 msgid "Zombie crowd"
-msgstr ""
+msgstr "Zombi horda"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:370
 msgid "Uuuuuuuuuuuuuuurrrrggghhhh... wwruuuuuuuuuuggghhhh..."
-msgstr ""
+msgstr "Grrrrrrrrrrrrrrmmmmmmm... brrrrrrrrrrrgrrrrrrrrrrr...."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:374
 msgid "Run! Run for our lives!"
-msgstr ""
+msgstr "Fussatok! Fussatok az életetekért!"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:378
 msgid "Fight! Fight for our lives!"
-msgstr ""
+msgstr "Küzdjetek! Küzdjetek az életetekért!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:382
@@ -1900,11 +2096,13 @@ msgid ""
 "These two won't give a senseful word while these abonimations are lurking "
 "around. Let's get rid of them."
 msgstr ""
+"Egy értelmes szót nem fogunk tudni ebből a kettőből kihúzni, amíg azok az "
+"ocsmányságok itt garázdálkodnak. Szabaduljunk meg tőlük."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:386
 msgid "There's a whole swarm of them! Maybe we could use some explosives?"
-msgstr ""
+msgstr "Rengetegen vannak! Talán besegíthetnék egy kis robbanószerrel?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:390
@@ -1912,11 +2110,13 @@ msgid ""
 "I'm fed up with your explosives. Let's lock them up into the stables, then "
 "we can burn them along with the building."
 msgstr ""
+"Torkig vagyok a robbanószereiddel. Tessékeljük be őket az istállóba, aztán "
+"rájukgyújtjuk az épületet."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:395
 msgid "Special game mode"
-msgstr ""
+msgstr "Különleges játékszabály"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:398
@@ -1934,58 +2134,70 @@ msgid ""
 "the scenario if you do so. This is a technical issue which will be fixed in "
 "the future."
 msgstr ""
+"Ezekkel az élőholtakkal kicsit másképp kell megküzdened. A zombik "
+"lépéspontjai 2-re csökkennek, de egyébként a szokott módon lépnek és "
+"támadnak. Te azonban nem tudod se megölni, se megsebesíteni őket. Amikor "
+"megtámadsz egy élőholtat, sebzés helyett egy mezővel odébb lököd. A "
+"megtaszított zombi elkábul és a következő körben nem mozoghat (de "
+"támadhat!). Ha több egység áll egymás mellett, akkor dominószerűen az egész "
+"sort odébb lökheted. A istállóba (a térkép alján lévő két falu egyikébe) "
+"juttatott ellenfelek azonnal eltűnnek a térképről.\n"
+"\n"
+"<b>Figyelem:</b> ne lökd a zombikat a pályán kívülre, különben nem fogod "
+"tudni megnyerni a küldetést. Technikai probléma, majd valamikor javítom."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:406
 msgid "Toss all zombies into the stables"
-msgstr ""
+msgstr "Az összes zombit belökdösöd az istállóba"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:410
 msgid "Any of the villagers die"
-msgstr ""
+msgstr "Bármelyik falusi meghal"
 
 #. [message]: speaker=$survivor_villager.id
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:432
 msgid "Maybe it's better to escape before I get slayed too!"
-msgstr ""
+msgstr "Jobb, ha lelépek, mielőtt engem is lemészárolnak!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:444
 msgid "Damn... we'll never find out what happened here."
-msgstr ""
+msgstr "A fenébe... így aztán sohase tudjuk meg, mi történt itt."
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:515
 msgid ""
 "You're going the wrong way, hellish creature! Let me show you the right path!"
-msgstr ""
+msgstr "Rosszfele mész, pokoli teremtmény! Hadd mutatom meg a helyes irányt!"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:712
 msgid "Huh. This was tiring."
-msgstr ""
+msgstr "Hú, ez fárasztó volt."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:716
 msgid ""
 "We're very grateful for your help. If we can do anything for you, just say."
 msgstr ""
+"Nagyon hálásak vagyunk a segítségért. Ha tehetünk értetek bármit, csak szólj."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:720
 msgid "Well, we'd need some sort of accomodation for the next few weeks."
-msgstr ""
+msgstr "Szükségünk lenne valami szállásra néhány hét erejéig."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:724
 msgid "Oh, no problem. We have quite a few empty rooms right now."
-msgstr ""
+msgstr "Ó, nem gond. Pillanatnyilag van egy pár üres szobánk."
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:728
 msgid "Just take a less bloody one."
-msgstr ""
+msgstr "Csak keressetek egy kevésbé véreset."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:732
@@ -1993,17 +2205,20 @@ msgid ""
 "Before all, I'd like to know what happened here. Were you experimenting with "
 "necromancy, heh?"
 msgstr ""
+"Mindenekelőtt szeretném tudni, hogy mi történt itt. Holtidézéssel "
+"kísérletezgettetek, mi?"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:736
 msgid "No, no it wasn't us..."
-msgstr ""
+msgstr "Dehogyis, nem mi voltunk..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:740
 msgid ""
 "This whole nightmare started two days ago. Two men arrived from Fruggwoc."
 msgstr ""
+"Két napja kezdődött ez az egész borzalom. Két ember érkezett Fruggwocból."
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:744
@@ -2011,6 +2226,8 @@ msgid ""
 "They said that their village was destroyed. And not just theirs, but Lorcyn, "
 "Krabwy and many others too..."
 msgstr ""
+"Azt mondták, elpusztult a falujuk. És nem is csak az övék, hanem sok másik "
+"is, Lorcyn, Krabwy..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:748
@@ -2018,37 +2235,41 @@ msgid ""
 "We asked them what happened but they only stuttered and muttered and their "
 "eyes bulged in horror."
 msgstr ""
+"Kérdeztük, hogy hogy történt de csak mormogtak és motyogtak és ijedten "
+"bámultak ránk."
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:752
 msgid "Then suddenly one of them shouted: 'Run! Run for our lives!'"
 msgstr ""
+"Hirtelen az egyik elkiáltotta magát: 'Fussatok! Fussatok az életetekért!'"
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:756
 msgid "And the other: 'Fight! Fight for our lives!'"
-msgstr ""
+msgstr "A másik pedig: 'Küzdjetek! Küzdjetek az életetekért!'"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:760
 msgid "And then we noticed him..."
-msgstr ""
+msgstr "És akkor észrevettük..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:764
 msgid "A man in black robes, coming down the northern road..."
-msgstr ""
+msgstr "Valaki közeledett az északi úton, fekete ruhában..."
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:768
 msgid "When he came closer we could hear some weird, ghoulish song..."
 msgstr ""
+"Ahogy közelebb ért, valami furcsa, hátborzongató dallamot hallottunk..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:772
 msgid ""
 "And, unfortunately, not just us... seems like even the dead could hear it!"
-msgstr ""
+msgstr "És sajnos nem csak mi... úgy tűnik, még a holtak is meghallották!"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:776
@@ -2056,63 +2277,65 @@ msgid ""
 "The next thing we saw were hordes of zombies staggering out of the cemetery, "
 "as the man continued to play on his flute..."
 msgstr ""
+"A következő pillanatban élőholtak seregeit pillantottuk meg kitámolyogni a "
+"temetőből, ahogy a feketeruhás tovább játszott a furulyáján..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:780
 msgid "His... flute?"
-msgstr ""
+msgstr "A... furulyáján?"
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:784
 msgid "Yes. Is there something wrong?"
-msgstr ""
+msgstr "Igen, miért?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:788
 msgid "No, no..."
-msgstr ""
+msgstr "Semmi, semmi..."
 
 #. [message]: speaker=Villager2
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:792
 msgid "He left towards Daklyn. Hope they had better luck there..."
-msgstr ""
+msgstr "Daklyn felé távozott. Talán nekik több szerencséjük volt..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:796
 msgid "Thank you... I think I've heard enough. Good night."
-msgstr ""
+msgstr "Köszönöm... eleget hallottam. Jó éjszakát."
 
 #. [message]: speaker=Villager1
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:800
 msgid "Good night then."
-msgstr ""
+msgstr "Jó éjt."
 
 #. [message]: speaker=Basyl
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:816
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:865
 msgid "Creona..."
-msgstr ""
+msgstr "Creona..."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:830
 msgid "I think..."
-msgstr ""
+msgstr "Szerintem..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:834
 msgid "I'm not interested in anything you might think."
-msgstr ""
+msgstr "Nem érdekel a véleményed."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:838
 msgid "I think this man is..."
-msgstr ""
+msgstr "Szerintem ez a valaki..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:842
 msgid "<b>DON'T SAY IT!</b>"
-msgstr ""
+msgstr "<b>KI NE MONDD!</b>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:846
@@ -2121,11 +2344,14 @@ msgid ""
 "more than 5000 golds, for the first time I feel that I've done a horribly, "
 "unreverertably evil thing!"
 msgstr ""
+"57 gyilkosság, többszáz betörés és lopás után több, mint 5000 arany értékben "
+"most érzem először, hogy valami megbocsáthatatlanul, jóvátehetetlenül gonosz "
+"dolgot műveltem!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:850
 msgid "<i>(murmuring)</i> We could have not known..."
-msgstr ""
+msgstr "<i>(motyogva)</i> Nem tudhattuk..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:854
@@ -2133,21 +2359,23 @@ msgid ""
 "This beast could have destroyed half the northlands by now! This... this is "
 "a crime! And we did help him!"
 msgstr ""
+"Ez a sátánfajzat mostanra talán már fél északföldét kiirtotta! Ez... ez bűn! "
+"És mi segítettünk neki!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:869
 msgid "Oh no! The mage! He returned to take revenge!"
-msgstr ""
+msgstr "Szent ég, a mágus! Visszatért, hogy bosszút álljon!"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:873
 msgid "Not at all."
-msgstr ""
+msgstr "Nem, nem azért."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:885
 msgid "I come with peaceful intentions."
-msgstr ""
+msgstr "Békés szándékaim vannak."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:889
@@ -2155,31 +2383,33 @@ msgid ""
 "<i>(aside)</i> Good to know... we'd be in big trouble if all our victims "
 "appeared seeking for revenge."
 msgstr ""
+"<i>(félre)</i> Végre egy jó hír... nagy bajban lennénk ha egyszer csak az "
+"összes bosszúszomjas áldozatunk felbukkanna."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:893
 msgid "I have a job for you."
-msgstr ""
+msgstr "Megbízásom van a számodra."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:897
 msgid "Ehm... really?"
-msgstr ""
+msgstr "Ööö... igazán?"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:901
 msgid "Yes. I need you to assassinate Mal Amadeus."
-msgstr ""
+msgstr "Igazán. A feladatod Mal Amadeus meggyilkolása lesz."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:905
 msgid "Mal... Amadeus?"
-msgstr ""
+msgstr "Mal... Amadeus?"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:909
 msgid "You know who is he, don't you?"
-msgstr ""
+msgstr "Ismeritek egymást, nem?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:913
@@ -2188,6 +2418,8 @@ msgid ""
 "slaughtered thousands of people and you're tearing my nerves with your silly "
 "jokes! <b>You're not funny at all!</b>"
 msgstr ""
+"Állítsd le magad! Halálra gyötör a bűntudat, hogy lemészároltam több ezer "
+"embert, te meg a hülye poénjaiddal téped az idegeim! <b>Nem vagy vicces!</b>"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:917
@@ -2195,11 +2427,13 @@ msgid ""
 "Oh, calm down, my dear. It's not your fault. Or at least not solely yours. "
 "Let me tell you the whole story."
 msgstr ""
+"Jól van, nyugalom, kedveském. Nem te tehetsz róla. Vagy legalábbis nem csak "
+"te. Hadd meséljem el a történetet."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:921
 msgid "The story of what? The flute? You? Mal Amadeus?"
-msgstr ""
+msgstr "Minek a történetet? A furulyáét? A tiédet? Amadeusét?"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:925
@@ -2211,6 +2445,12 @@ msgid ""
 "rebels. The king could have raised taxes quite high with this tool in his "
 "hand."
 msgstr ""
+"Egyre megy. Lássunk hát neki. A furulya készítése szigorúan titkos "
+"biztonsági projektként indult, Weldyn megrendelésére. Alduin legnagyobb "
+"koponyái dolgoztak rajta. Az eredeti célja az volt, hogy varázslatos "
+"hanjával elbágyassza és elaltassa az embereket. Kiváló tömegoszlató lett "
+"volna belőle, a király jó nagy adókat tudott volna kivetni egy ilyen eszköz "
+"birtokában."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:929
@@ -2223,6 +2463,13 @@ msgid ""
 "flaw - minor tonality sounded so nerve-rackingly terrifying on this "
 "instrument that even the dead resonated to it."
 msgstr ""
+"A gondok akkor kezdődtek, amikor Ludwigot, egy tehetséges fiatal mágust is "
+"bevontak a fejlesztésbe. Kiderült, hogy a tervezők zeneileg képzetlenek "
+"voltak, és hatalmas hibát követtek el. A furuly a célnak megfelelően "
+"működött dúr hangnemek esetén, de a moll hangnemekről teljesen "
+"megfeledkeztek. Sajnos Ludwig kiváló furulyajátékos volt, és rálelt a "
+"rejtett hibára - a moll olyan idegszaggatóan rémisztően hangzott a "
+"hangszeren, hogy még a halottak is megérezték."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:933
@@ -2234,6 +2481,12 @@ msgid ""
 "attention of his pursuers, and he was taken down by the Wesnothian Special "
 "Forces in an ambush the public never got informed of."
 msgstr ""
+"A többit már mondanom se kell... megrontva a hatalom igézetétől, Ludwig "
+"megszökött a furulyával, és nekiállt föltámasztani élőholt seregét. "
+"Szerencsénkre nem volt gyakorlott holtidéző, így nehezen tudott rendet "
+"tartani katonái között. A céltalanul kóborló csontvázak a nyomára vezették "
+"üldözőit, és végül a Wesnothi Különleges Erők végeztek vele. A közvélemény "
+"sohasem értesült az akcióról."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:937
@@ -2246,6 +2499,13 @@ msgid ""
 "how the flute worked, though. So it was assigned to me to examine the device "
 "and find out its working mechanisms."
 msgstr ""
+"A királyt megrémítette a hangszer ereje és úgy gondolta, hogy veszélyes "
+"lenne használni, így hosszú ideig a valahol weldyni erőd mélyén pihent. Telt-"
+"múlt az idő, és az eredeti készítők szép lassan meghaltak, majd végül a "
+"király is. Az új kormányzat nem osztotta a régi uralkodó aggodalmait, és "
+"nagy érdklődést mutatott a furulya iránt. Azonban már senki sem élt a "
+"tervezők közül. Az én feladatom lett, hogy megvizsgáljam a hangszert, és "
+"feltárjam a működési elvét."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:941
@@ -2257,11 +2517,17 @@ msgid ""
 "the time I got to know that he's still alive and seeks for the flute it was "
 "too late - he located me, and... you know the story from here."
 msgstr ""
+"Mivel azt hittem, Ludwigtól egyszer és mindenkorra megszabadultunk, nem "
+"igazán vettem komolyan a feladat titkos mivoltát. De hamarosan fény derült "
+"egy végzetes titokra - Ludwignak valahogy sikerült utolsó leheletével "
+"belefújni a furulyába, és így újjáéledt, immár Mal Amadeusként. Mire "
+"megtudtam, hogy él és nagy erővel keresi a furulyát már késő volt - "
+"rámtalált, és... a folytatást már ismeritek."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:945
 msgid "Unfortunately. Where is he now? Do you know?"
-msgstr ""
+msgstr "Sajnos. És most hol lehet? Mit tudsz róla?"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:949
@@ -2270,6 +2536,9 @@ msgid ""
 "is known as the 'Concert Hall' by the locals for its intensive echo effect. "
 "It's a few days' walk from here."
 msgstr ""
+"Egy barlangban rendezte be lakhelyét, a nagy északi hegyekben. Az ottaniak "
+"csak 'Hangversenyteremként' emlegetik a helyet az erős visszhang miatt. "
+"Innen néhány nap gyalog."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:953
@@ -2277,22 +2546,26 @@ msgid ""
 "Thanks. I am... sorry for all that happened. I'll do my best to make up for "
 "it. We must go now."
 msgstr ""
+"Köszönöm, és... sajnálom ami történt. Mindent megteszek, hogy jóvátegyem. "
+"Most mennünk kell."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:957
 msgid "You aren't strong enough to fight him alone."
-msgstr ""
+msgstr "Nem vagytok elég erősek, hogy harcba szálljatok vele."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:961
 msgid "I wish I didn't have to, but that's our only option."
-msgstr ""
+msgstr "Nincs is sok kedvem, de nincs más választásunk."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:965
 msgid ""
 "Don't be so pessimistic. Many people's life is on risk. You must find help!"
 msgstr ""
+"Ne legyél olyan borúlátó, sok ember élete forog kockán! Muszáj segítséget "
+"találnod!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:969
@@ -2301,16 +2574,19 @@ msgid ""
 "head! Northlanders? Yeah, just after they got rid of the undead in their "
 "very own homes. Who?!"
 msgstr ""
+"És úgy mégis ki segítene <i>nekem</i>!? Wesnothiak? Több ezer arany vérdíj "
+"van a fejemen! Északiak? Persze, mihelyst elzavarták az élőholtakat a saját "
+"házaikból. Ki?!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:973
 msgid "I know... someone."
-msgstr ""
+msgstr "Én ismerek... valakit."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:977
 msgid "Speak up!"
-msgstr ""
+msgstr "Beszélj!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:981
@@ -2318,22 +2594,27 @@ msgid ""
 "I have a... brother. He lives in Larfoc. He's very educated in arcane "
 "magic... or at least used to be."
 msgstr ""
+"Van egy... bátyám. Larfocban él. Elég jártas a földöntúli mágiában... vagy "
+"legalábbis régen az volt."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:985
 msgid "You have a brother? You never said."
-msgstr ""
+msgstr "Van testvéred? Soha nem mondtad."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:989
 msgid ""
 "I forgot it myself... we aren't really in contact since... since very long."
 msgstr ""
+"Magam is elfelejtettem... nem tartjuk a kapcsolatot már... már nem is tudom "
+"mióta."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:993
 msgid "Alright, we'll fetch him. I mean, if he still lives in Larfoc."
 msgstr ""
+"Rendben, meglátogathatjuk. Feltéve persze, hogy még mindig Larfocban lakik."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:997
@@ -2341,6 +2622,8 @@ msgid ""
 "I'm pretty sure he does. I would be surprised if he even stepped out from "
 "his house in the last twenty years."
 msgstr ""
+"Biztos vagyok benn. Meg lennék lepve, ha egyáltalán a küszöböt átlépte volna "
+"az elmúlt húsz évben."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1001
@@ -2350,26 +2633,29 @@ msgid ""
 "650 golds: 200 prepaid and an additional 450 in cas of success. How does "
 "that sound?"
 msgstr ""
+"Csodás. Mint most már tudjátok, nekem is részem van vaj bőven a fülem "
+"mögött, és nem vicceltem, amikor azt mondtam, hogy megfizetném a munkátokat. "
+"Az ajánlatom 650 arany, 200 előleg és siker esetén további 450. Hogy tetszik?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/06_Zombies_in_the_Stable.cfg:1005
 msgid "Very generous. But I think, for this one time, I will work for free."
-msgstr ""
+msgstr "Bőkezű. De azt hiszem, életemben először, most ingyen fogok dolgozni."
 
 #. [side]: id=Patrick, type=Lieutenant
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:39
 msgid "City guard"
-msgstr ""
+msgstr "Városi őrség"
 
 #. [side]: id=Patrick, type=Lieutenant
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:43
 msgid "Lieutenant Patrick"
-msgstr ""
+msgstr "Patrick hadnagy"
 
 #. [side]
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:65
 msgid "Thief Guild of Larfoc"
-msgstr ""
+msgstr "A larfoci tolvajcéh"
 
 #. [part]
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:74
@@ -2381,6 +2667,12 @@ msgid ""
 "realised that she still knew almost nothing about Basyl's brother, where did "
 "he live and how they would persuade him the help them."
 msgstr ""
+"Creona kegyetlen iramban hajtotta előre embereit, hogy minél előbb Larfocban "
+"legyenek. Számára szokatlan módon képtelen volt az előtte álló feladatra "
+"összponosítani. Szüntelenül az járt a fejében, hogy fogy az idejük és még "
+"gyorsabban kéne haladniuk. Csak mikor már Larfoc tornyai felsejlettek a "
+"láthatáron döbbent rá, hogy még mindig nem tud semmit sem Basyl bátyjáról, "
+"hogy hol lakik, és hogy hogyan fogják megnyerni az ügyüknek."
 
 #. [part]
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:77
@@ -2388,11 +2680,13 @@ msgid ""
 "She also totally forgot about the escape of Agent Jack, although the "
 "consequences of that soonly became very-very actual..."
 msgstr ""
+"Úgyszintén teljesen megfeledkezett Jack ügynök szökéséről is, habár ennek "
+"következményei hamarosan nagyon is időszerűvé váltak..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:88
 msgid "Why have you never mentioned that you had a brother?"
-msgstr ""
+msgstr "Miért nem említetted soha, hogy van testvéred?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:92
@@ -2400,11 +2694,12 @@ msgid ""
 "I've already told you. We haven't see eachother for so long that I even "
 "started to forget that I have a brother."
 msgstr ""
+"Már mondtam. Olyan régóta nem találkoztunk, hogy már kezdtem is elfelejteni."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:96
 msgid "Tell me a bit about him."
-msgstr ""
+msgstr "Mesélj egy kicsit róla."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:100
@@ -2412,11 +2707,13 @@ msgid ""
 "He's name is Merlyn. He's two years older than me and always have been "
 "obsessed with arcane magic. I can't really tell more. I don't like him."
 msgstr ""
+"Merlynnek hívják. Két évvel idősebb nálam és mindig is érdekelte a "
+"földöntúli mágia. Nem nagyon tudok többet mondani. Nem kedvelem."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:104
 msgid "Why?"
-msgstr ""
+msgstr "Miért?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:108
@@ -2424,11 +2721,13 @@ msgid ""
 "You know... we're very different. He used to be an eminent student. He was "
 "nice and obedient. He always did the right thing and I always did the wrong."
 msgstr ""
+"Hát... nagyon különbözőek vagyunk. Ő mindig kitűnő tanuló volt, rendes volt "
+"és szófogadó. Ő mindig mindent jól csinált én meg mindent rosszul."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:112
 msgid "Haha! The suppressed brother syndrome?"
-msgstr ""
+msgstr "Haha! Az elnyomott kisöcsi esete?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:116
@@ -2437,26 +2736,28 @@ msgid ""
 "learn from your brother or you'll end up as a criminal'. You would hate him "
 "too."
 msgstr ""
+"Hívd aminek akarod. Egész gyerekkoromban azt hallgattam, hogy 'példát "
+"vehetnél a bátyádról, különben bűnözőként végzed'. Te is utálnád."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:120
 msgid "Quite a childish attitude."
-msgstr ""
+msgstr "Elég gyerekes hozzáállás."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:124
 msgid "Well... yes, maybe."
-msgstr ""
+msgstr "Hát... jó, lehet."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:128
 msgid "You shall have some time to talk this over soon. For now, let's go."
-msgstr ""
+msgstr "Na, majd most átbeszélhetitek a családi sérelmeket. Gyerünk."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:132
 msgid "Merlyn lives in the old town, up on the mountain."
-msgstr ""
+msgstr "Merlyn az óvárosban lakik, fenn a hegyen."
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:150
@@ -2464,11 +2765,13 @@ msgid ""
 "Sorry, madam, I can't let you go further! No woman's allowed to enter the "
 "district before sunrise."
 msgstr ""
+"Sajnálom, nem engedhetlek tovább! Nők nem léphetnek át a kapun napkelte "
+"előtt."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:154
 msgid "What kind of rule this is?!"
-msgstr ""
+msgstr "Miféle szabály ez?!"
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:158
@@ -2481,12 +2784,22 @@ msgid ""
 "Service of Wesnoth identified her, so you can enter the old town as soon as "
 "an SSW ofiicial checked your identity. But they're not on duty until dawn."
 msgstr ""
+"Ó, nem hallottátok a híreket? Egy csapat bandita, gyík és naga támadt Cytyre "
+"olyan két héttel ezelőtt. A törvényen kívüliek még mindig szökésben vannak, "
+"így szigorú biztonsági előírások vannak érvényben, nehogy mégegy várost "
+"kiraboljanak. De jelenleg csak annyit tudunk róluk, hogy a vezetőjük egy nő. "
+"Szerencsére, a Királyi Titkosszolgálat egyik ügynökének sikerült őt "
+"azonosítania, így minden további nélkül beléphettek, mihelyst a Szolgálat "
+"meggyőződött róla, hogy nem titeket keresünk. De az embereik hajnalig "
+"nincsenek szolgálatban."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:162
 msgid ""
 "Okay then, I'll stay outside, just some of these impeccable gentlemen go in."
 msgstr ""
+"Semmi gond, akkor én kinmaradok, csak ezek a megkérdőjelezhetetlen erkölcsű "
+"urak fáradnak be."
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:166
@@ -2495,21 +2808,24 @@ msgid ""
 "your companions so letting them inside our walls is nothing better than "
 "letting you."
 msgstr ""
+"Attól tartok, ezt sem engedhetem meg. Jó okom van azt gondolni, hogy a "
+"társaid, és így semmivel se lenne kevésbé kockázatos a falaink közé engedni "
+"őket, mint téged."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:170
 msgid "<i>Basyl?</i>"
-msgstr ""
+msgstr "<i>Basyl?</i>"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:174
 msgid "<i>Yes?</i>"
-msgstr ""
+msgstr "<i>Igen?</i>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:178
 msgid "<i>Is there another way to get into that district?</i>"
-msgstr ""
+msgstr "<i>Van valami másik út a körzetbe?</i>"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:182
@@ -2517,6 +2833,8 @@ msgid ""
 "<i>Maybe... I remember there was a weak point. But I doubt that the guards "
 "would tolerate us probing the wall.</i>"
 msgstr ""
+"<i>Talán... emlékszem, hogy valahol be lehetett surranni. De nem hinném, "
+"hogy az őrök jó szemmel néznék, ha a falat vizsgálgatnánk.</i>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:186
@@ -2524,11 +2842,13 @@ msgid ""
 "<i>Don't care about the guards. We'll keep them busy. Meanwhile, you sneak "
 "into the castle and take out your brother.</i>"
 msgstr ""
+"<i>Ne törődj az őrökkel, majd mi lefoglaljuk őket. Közben te belopódzol a "
+"várba és kihozod a bátyádat.</i>"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:190
 msgid "<i>What if he doesn't want to come?</i>"
-msgstr ""
+msgstr "<i>Mi van, ha nem lesz hajlandó jönni?</i>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:194
@@ -2536,16 +2856,17 @@ msgid ""
 "<i>Your problem. I strongly advise you not to return without Merlyn. Good "
 "luck.</i>"
 msgstr ""
+"<i>Oldd meg. Nem ajánlom, hogy Merlyn nélkül gyere vissza. Sok sikert.</i>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:198
 msgid "Hey you! Canhead!"
-msgstr ""
+msgstr "Hé te! Bádogfejű!"
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:202
 msgid "What...?!"
-msgstr ""
+msgstr "Mi...?!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:206
@@ -2553,21 +2874,23 @@ msgid ""
 "I decided not to annoy myself with your pathetic bureaucracy. After all, I'm "
 "not here for sightseeing, but to destroy your town with my saurian allies!"
 msgstr ""
+"Úgy döntöttem, nem állok le a szerencsétlen irodistáiddal szórakozni. Úgyse "
+"nézelődni jöttem, hanem elfoglalni a várost gyík barátaimmal!"
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:210
 msgid "What kind of joke is this?!"
-msgstr ""
+msgstr "Miféle tréfa ez?!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:214
 msgid "A very serious one! Creona's always <i>deathly</i> serious!"
-msgstr ""
+msgstr "Egy nagyon komoly tréfa! Creona mindig <i>halálosan</i> komoly!"
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:218
 msgid "Creona... it's she! Get them!"
-msgstr ""
+msgstr "Creona... ő az! Kapjátok el!"
 
 #. [objectives]
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:242
@@ -2576,23 +2899,26 @@ msgid ""
 "Patrick gets some gold whenever one of his units get killed, so don't be too "
 "bloody-handed"
 msgstr ""
+"Patrick minden elvesztett egység után kap némi aranyat, úgyhogy csak "
+"kíméletesen"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:245
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:285
 msgid "Find a way into the old town with Basyl"
-msgstr ""
+msgstr "Basyl bejut a városba"
 
 #. [message]: speaker=$random_loy.id
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:270
 msgid ""
 "Sir! There're thousands of soldiers in the city. Shouldn't we alarm them?"
 msgstr ""
+"Uram! Többezer katona állomásozik a városban. Nem kéne riasztanunk őket?"
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:274
 msgid "No way. I want to catch these bandits myself."
-msgstr ""
+msgstr "Nem. Magam akarok végezni a banditákkal."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:278
@@ -2600,21 +2926,23 @@ msgid ""
 "Don't kill their leader! If the guards get frightened and wake up the whole "
 "army, we won't be able to hold them back."
 msgstr ""
+"Ne bántsátok a vezért! Ha túlontúl ráijesztünk az őrökre, akkor ránk hozzák "
+"az egész sereget, és végünk!"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:290
 msgid "Patrick dies"
-msgstr ""
+msgstr "Patrick meghal"
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:305
 msgid "We got her! I surely get a promotion for this."
-msgstr ""
+msgstr "Sikerült! Ezért biztosan előléptetnek."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:327
 msgid "Oh, this is not good. Nobody can tell us now where we can find Merlyn."
-msgstr ""
+msgstr "Ajaj, ez nem jó. Így soha nem találjuk meg Merlynt."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:333
@@ -2623,6 +2951,9 @@ msgid ""
 "you wouldn't have ended up like this. I'm going to return to my home now to "
 "mourn you for a year."
 msgstr ""
+"Ó, szegény, szegény Basyl! Ha hallgattál volna jó anyánk figyelmeztetéseire, "
+"elkerülhetted volna ezt a szörnyű véget. Most visszatérek otthonomba, és egy "
+"évig gyászollak."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:340
@@ -2630,11 +2961,13 @@ msgid ""
 "Come back, you bastard! Eh, we have to leave not more but less armed than "
 "we've come. It's your fault, Basyl."
 msgstr ""
+"Vissza ne fordulj, gazember! Eh, még gyengébben is kell távoznunk, mint "
+"ahogy idejöttünk. Erről is te tehetsz, Basyl."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:358
 msgid "No! Merlyn! We need you!"
-msgstr ""
+msgstr "Ne! Merlyn! Szükségünk van rád!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:362
@@ -2642,21 +2975,23 @@ msgid ""
 "He couldn't have had much use anyways if he couldn't had standed against "
 "these puny guards. Seems that nobody can help us against Amadeus..."
 msgstr ""
+"Nem sok hasznát vettük volna, ha egy pár nyápic katona is le tudta teríteni. "
+"Úgy tűnik, senki sem tud rajtunk segíteni..."
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:378
 msgid "No, it can't be! I fell... but they can't win... raise alarm!"
-msgstr ""
+msgstr "Ne, ez nem lehet! Elestem... de nem győzhetnek... fújjatok riadót!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:385
 msgid "Fool! I told you not to..."
-msgstr ""
+msgstr "Fafejű! Megmondtam, hogy..."
 
 #. [message]: speaker=Loy General
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:396
 msgid "What's going on here? Attack!"
-msgstr ""
+msgstr "Mi történik itt? Támadás!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:400
@@ -2664,11 +2999,13 @@ msgid ""
 "I suppose Basyl'd rather see us away and alive than here and dead... or even "
 "if he wouldn't, he will."
 msgstr ""
+"Gondolom, Basyl is szívesebben látna minket árkon-bokron túl élve, mint itt "
+"holtan... de ha mégsem, akkor is kénytelen lesz."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:432
 msgid "That's it! I hope its walkable till the end."
-msgstr ""
+msgstr "Ez az! Remélem végig járható."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:453
@@ -2676,16 +3013,18 @@ msgid ""
 "Great. I can't remember the exact location of Merlyn's house, but maybe a "
 "little promenade on the streets will call back my memories."
 msgstr ""
+"Remek. Már nem emlékszem, hol van Merlyn háza, de egy kis séta az utcákon "
+"talán előhívja majd az emlékeimet."
 
 #. [message]: speaker=Guild Leader
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:464
 msgid "Hey! Who goes there?"
-msgstr ""
+msgstr "Hé! Ki van ott?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:468
 msgid "I'm a traveller, I'm..."
-msgstr ""
+msgstr "Utazó vagyok, és..."
 
 #. [message]: speaker=Guild Leader
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:472
@@ -2694,17 +3033,19 @@ msgid ""
 "hands and a bomb in the other. You definitely look like some kind of "
 "criminal."
 msgstr ""
+"És késő éjjel az utcán ólálkodsz, egyik kezedben tőrrel a másikban pedig egy "
+"bombával. Te nagyon úgy nézel ki, mint valami bűnöző."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:476
 msgid "I'm not! I'm just a peaceful..."
-msgstr ""
+msgstr "Ostobaság! Én egy békés..."
 
 #. [message]: speaker=Guild Leader
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:480
 msgid ""
 "Be welcomed in Larfoc, brother! I'm the the head of the local thieves' guild."
-msgstr ""
+msgstr "Isten hozott Larfocban, testvér! A helyi tolvajcéh vezetője vagyok."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:484
@@ -2712,26 +3053,30 @@ msgid ""
 "Oh... okay then. I'm Basyl, an explosives expert. And yes, I'm not exactly a "
 "lawful man."
 msgstr ""
+"Ó... akkor jó. Basyl vagyok, robbantásszakértő. És igen, törvényenkívüli "
+"vagyok."
 
 #. [message]: speaker=Guild Leader
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:488
 msgid "Nice to see you, Basyl. The thieves of Larfoc are all friends of yours."
 msgstr ""
+"Örvendek a szerencsének, Basyl. Larfoc tolvajai mind szolgálatodra állnak."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:492
 msgid "That's a warm welcoming. Could you help me a bit then?"
 msgstr ""
+"Köszönöm a szíves fogadtatást. Hát akkor... tudnál egy kicsit segíteni?"
 
 #. [message]: speaker=Guild Leader
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:496
 msgid "I'll make my best."
-msgstr ""
+msgstr "Megteszek minden tőlem telhetőt."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:500
 msgid "I'm looking for a mage, Merlyn."
-msgstr ""
+msgstr "Egy mágust keresek, Merlynt."
 
 #. [message]: speaker=Guild Leader
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:504
@@ -2739,6 +3084,7 @@ msgid ""
 "Ah, Merlyn! He's a strange man. He lives in one of those unusual dwellings "
 "on the main square."
 msgstr ""
+"Ó, Merlynt! Különös ember. A főtéren lakik, az egyik olyan furcsa kalyibában"
 
 #. [message]: speaker=Guild Leader
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:512
@@ -2748,6 +3094,9 @@ msgid ""
 "his precise address. Maybe the others can tell you more. Visit the wooden "
 "houses - you will find my friends there."
 msgstr ""
+"Sajnos nem tudom, melyikben. Nincs sok pénze, se ékszerei, csak könyvek meg "
+"effélék. Nem nagyon érdekes számunkra a lakcíme. Talán a többiek többet "
+"tudnak róla. Nézz körül a város faházaiban - ott találod a barátaimat."
 
 #. [message]: speaker=Basyl
 #. [message]: speaker=Creona
@@ -2755,12 +3104,12 @@ msgstr ""
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:559
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:207
 msgid "Thank you."
-msgstr ""
+msgstr "Köszönöm."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:525
 msgid "Visit the log cabins to get more information"
-msgstr ""
+msgstr "Ellátogatsz a faházakba további információért"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:551
@@ -2768,7 +3117,7 @@ msgstr ""
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:609
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:634
 msgid "<i>(Basyl explains the situation)</i>"
-msgstr ""
+msgstr "<i>(Basyl elmagyarázza a helyzetet)</i>"
 
 #. [message]: speaker=Guild Member
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:555
@@ -2776,6 +3125,8 @@ msgid ""
 "He hates extreme temperatures, both cold and hot. That's all I know about "
 "him."
 msgstr ""
+"Gyűlöli a szélsőséges hőmérsékleteket, a hideget és a meleget is. Ennyit "
+"tudok róla."
 
 #. [message]: speaker=Guild Member
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:584
@@ -2784,11 +3135,14 @@ msgid ""
 "not live even opposite to a house which he wouldn't live in... but he "
 "wouldn't mind it as a neighbour... strange, isn't it?"
 msgstr ""
+"Á, Merlyn. Nem mindennapi ember. Egyszer hallottam, hogy azt mondja, még "
+"szemben se lakna egy olyan házzal, ami nem való kedvére... de szomszédként "
+"megtűrné... hát épeszű ez?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:588
 msgid "Sure it is."
-msgstr ""
+msgstr "Bizonyára nem."
 
 #. [message]: speaker=Guild Member
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:613
@@ -2796,17 +3150,21 @@ msgid ""
 "I don't know which is his house, but I can remember that he lives next to a "
 "librarian. They're good friends, I often see them chatting."
 msgstr ""
+"Nem tudom, hol lakik, de emlékeim szerint egy könyvtáros mellett. Jó "
+"barátok, gyakran látom őket beszélgetni."
 
 #. [message]: speaker=Guild Member
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:638
 msgid ""
 "Never heard of Merlyn. But hey, would you like to hear an interesting story?"
 msgstr ""
+"Életemben nem hallottam még erről a Merlynről. De várj csak, meséljek valami "
+"érdekeset?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:642
 msgid "Not really."
-msgstr ""
+msgstr "Köszönöm nem, sietek."
 
 #. [message]: speaker=Guild Member
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:646
@@ -2814,11 +3172,13 @@ msgid ""
 "Okay, then I'll be short. So, once I broke into that igloo. Guess what I "
 "found inside?"
 msgstr ""
+"Rendben, akkor rövid leszek. Szóval, egyszer betörtem abba az igluba. És "
+"találd ki, mit találtam benn?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:650
 msgid "Fish?"
-msgstr ""
+msgstr "Halat?"
 
 #. [message]: speaker=Guild Member
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:654
@@ -2827,21 +3187,23 @@ msgid ""
 "everything is from ice and snow, and there're books and books and books "
 "everywhere! Haha! Isn't that funny?"
 msgstr ""
+"Nem! Könyveket! Hát érted te ezt? Bemész, a padló, az asztal, minden jégből "
+"van meg hóból, és közben könyvek hevernek mindenfelé! Haha! Hát nem vicces?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:658
 msgid "Ummm... actually, you provided me some useful information."
-msgstr ""
+msgstr "Hmmm... történetesen most megtudtam valami hasznosat."
 
 #. [message]: speaker=Guild Member
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:662
 msgid "Really? Then you might want to hear another..."
-msgstr ""
+msgstr "Igazán? Akkor mondok még egyet..."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:666
 msgid "Nonono. <i>(shuts the door)</i>"
-msgstr ""
+msgstr "Nenene. <i>(bevágja az ajtót)</i>"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:676
@@ -2851,36 +3213,40 @@ msgid ""
 "'He lives next to a librarian.'\n"
 "<i>The story with igloo</i>"
 msgstr ""
+"'Utálja a szélsőséges hőmérskleteket, a hideget és a meleget is.'\n"
+"'Szemben se lakna egy olyan házzal, ami nem való kedvére.'\n"
+"'Egy könyvtáros mellett lakik'\n"
+"<i>Az iglus történet</i>"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:687
 msgid "Move Basyl to Merlyn's house"
-msgstr ""
+msgstr "Basyl megtalálja Merlyn házát"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:691
 msgid "Move Basyl to a wrong house"
-msgstr ""
+msgstr "Basyl rossz házba megy be"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:782
 msgid "Who's that?"
-msgstr ""
+msgstr "Ki az?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:786
 msgid "Hi Merlyn."
-msgstr ""
+msgstr "Szervusz Merlyn."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:790
 msgid "Basyl! My poor, errand brother!"
-msgstr ""
+msgstr "Basyl! Szegény, eltévelyedett testvérem!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:794
 msgid "I'm quite alright, but..."
-msgstr ""
+msgstr "Semmi bajom, de..."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:798
@@ -2888,17 +3254,20 @@ msgid ""
 "You came back to be pulled out from the dark abyss of crime you were fallen "
 "to!"
 msgstr ""
+"Visszatértél hát, hogy kihúzzalak a bűn sötét verméből, ahová lebuktál!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:802
 msgid "Not exactly. But I need your help."
-msgstr ""
+msgstr "Nem éppen. De a segítségedre van szükségem."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:806
 msgid ""
 "What? My help? In what? Be warned, I won't participate in anything illegal!"
 msgstr ""
+"Mi? A segítségemre? Mihez? Figyelmeztetlek, nem vállalok részt semmi "
+"törvénytelenségben!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:810
@@ -2906,16 +3275,19 @@ msgid ""
 "No, no, this is for a good purpose, even in your terms. A powerful lich is "
 "terrorising the northern regions. We want to stop him."
 msgstr ""
+"Nem, nem, ez jó ügy, még a te fogalmaid szerint is. Egy hatalmas delevény "
+"tartja rettegésben az északi földeket. Meg akarjuk állítani."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:814
 msgid "A lich! The evilest of all creatures in hell! We must destroy him!"
 msgstr ""
+"Egy delevény! A pokol teremtményeinek legaljasabbika! El kell pusztítanunk!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:818
 msgid "So you'll help? Great! Pack your luggage and..."
-msgstr ""
+msgstr "Tehát segítesz? Ez csodálatos! Pakold össze a homidat és..."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:822
@@ -2923,37 +3295,39 @@ msgid ""
 "No, there's no time to waste! We leave right now! Lead me on the holy "
 "crusade, brother!"
 msgstr ""
+"Nem, nincs vesztegetnivaló időnk! Most rögtön indulunk! Légy vezetőm a szent "
+"hadjáraton, testvér!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:826
 msgid "As you wish. Let's go then, this way."
-msgstr ""
+msgstr "Ahogy óhajtod. Akkor menjünk, erre."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:830
 msgid "This way is the lich?"
-msgstr ""
+msgstr "Erre van az a pokolfajzat?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:834
 msgid "No, this way we can leave your garden."
-msgstr ""
+msgstr "Nem, erre tudunk kimenni a kertből."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:838
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:393
 msgid "Oh."
-msgstr ""
+msgstr "Ó."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:844
 msgid "Move Basyl or Merlyn near to Creona"
-msgstr ""
+msgstr "Basyl vagy Merlyn Creona közelébe ér."
 
 #. [unit]: type=Peasant, id=Frightened Citizen
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:857
 msgid "Frightened Citizen"
-msgstr ""
+msgstr "Rémült polgár"
 
 #. [message]: speaker=Frightened Citizen
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:876
@@ -2961,11 +3335,13 @@ msgid ""
 "Damn, who's that, this late... my god, a madman with bombs! He's gonna blow "
 "me up! <b>HELP!!!</b>"
 msgstr ""
+"Ki zavar ilyenkor, az isten verje meg... te jó ég, egy őrült robbantgató! "
+"Fel fog robbantani! <b>SEGÍTSÉG!!!</b>"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:880
 msgid "Uh-oh."
-msgstr ""
+msgstr "Ajjaj."
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:884
@@ -2973,6 +3349,8 @@ msgid ""
 "I heard a cry! You and you, go and look round in the town. It's not "
 "impossible that some of the bandits sneaked in!"
 msgstr ""
+"Kiáltást hallottam! Te és te, mozgás, nézzetek körül a városban. Nem kizárt, "
+"hogy a gazemberek beosontak valahogy!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:892
@@ -2980,6 +3358,8 @@ msgid ""
 "Oh no, they'll find Basyl... we came for reinforcements, but actually had to "
 "leave here some of our best men... and Basyl, too."
 msgstr ""
+"Jaj ne, meg fogják találni Basylt... erősítésért jöttünk, de végül legjobb "
+"embereinket itt kellett hagynunk... meg még Basylt is."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:944
@@ -2987,22 +3367,26 @@ msgid ""
 "What is that? Our beloved city is besieged by bandits! Filthy outlaws, feel "
 "my rage!"
 msgstr ""
+"Mi ez? Szeretett városunkat gonosztevők ostromolják! Alávaló banda, "
+"érezzétek haragomat!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:948
 msgid "Stop Merlyn, they are my friends!"
-msgstr ""
+msgstr "Hagyd abba Merlyn, ők a barátaim!"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:952
 msgid ""
 "Really? And you expect me to form an alliance with these criminals?! Never!"
 msgstr ""
+"Igen? És azt várod tőlem, hogy szövetségre lépjek ezekkel a bűnözőkkel?! "
+"Soha!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:956
 msgid "We must destroy that lich somehow! Do you not remember?"
-msgstr ""
+msgstr "Valahogy muszáj megölnünk a delevényt! Hát nem emlékszel?"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:960
@@ -3010,31 +3394,34 @@ msgid ""
 "Well... hmmm.. yes, you're right. I can't let this minor conflict to "
 "distract me. Sometimes we have to make sacrifices for the greater good."
 msgstr ""
+"Hmmm... igen, igazad van. Nem hagyhatom, hogy ez az aprócska összetűzés "
+"elterelje a figyelmemet. Néha áldozatokat kell hoznunk a nagyobb jó "
+"érdekében."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1012
 msgid "So you're Basyl's brother."
-msgstr ""
+msgstr "Tehát te vagy Basyl bátyja."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1016
 msgid "Merlyn, at your service."
-msgstr ""
+msgstr "Merlyn, szolgálatodra."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1020
 msgid "Creona. I hope Basyl's already explained you the situation."
-msgstr ""
+msgstr "Creona. Remélem, Basyl már felvázolta a helyzetet."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1024
 msgid "Yes he did. I'm ready to sacrifice my life for the holy purpose."
-msgstr ""
+msgstr "Igen. Készen állok életemet áldozni a szent cél érdekében."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1028
 msgid "Basyl was quite right. You seem to be very different than he..."
-msgstr ""
+msgstr "Az öcsédnek igaza volt. Nem nagyon hasonlítotok..."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1032
@@ -3042,105 +3429,109 @@ msgid ""
 "Oh, that's just the surface, an illusion of the eyes. In fact, we have more "
 "similarities than differences."
 msgstr ""
+"Ó, ez csak a felszín, szemfényvesztés csupán. Valójában több mindenben "
+"hasonlítunk, mint amennyiben különözünk."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1036
 msgid "For example?"
-msgstr ""
+msgstr "Például?"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1040
 msgid "For example, we both like explosives."
-msgstr ""
+msgstr "Például, mindketten kdevünket leljük a robbanószerekben."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1044
 msgid "Oh no."
-msgstr ""
+msgstr "Jaj ne."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1048
 msgid "I have a special bomb, designed particularly against undead. Look!"
 msgstr ""
+"Kifejlesztettem egy különleges bombát, kifejezetten élőholtak ellen. "
+"Nézzétek4"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1062
 msgid "Wow! Cool!"
-msgstr ""
+msgstr "Tyű! Nem semmi!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1066
 msgid "Fun time is over, keep on moving. We have nothing to do here."
-msgstr ""
+msgstr "Mókának vége, mozgás. Semmi dolgunk itt."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1086
 msgid "Creona reaches the signpost"
-msgstr ""
+msgstr "Creona eléri az útjelzőt."
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1091
 msgid "Merlyn dies"
-msgstr ""
+msgstr "Merlyn meghal"
 
 #. [message]: speaker=Patrick
 #: The_Devils_Flute/scenarios/07_Merlyn.cfg:1114
 msgid "Damn... there goes my promotion."
-msgstr ""
+msgstr "A pokolba... ott megy a kitüntetésem."
 
 #. [scenario]: id=Prelude_of_the_Finale
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:5
 msgid "Prelude of the Finale"
-msgstr ""
+msgstr "Prelűd a fináléhoz"
 
 #. [side]: type=Deathblade, id=Gatekeeper1
 #. [side]: type=Wraith, id=Gatekeeper2
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:25
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:42
 msgid "Once again not mysterious undead"
-msgstr ""
+msgstr "Már megint nem titokzatos élőholtak"
 
 #. [side]: type=Deathblade, id=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:29
 msgid "First Gatekeeper"
-msgstr ""
+msgstr "Első kapuőr"
 
 #. [side]: type=Wraith, id=Gatekeeper2
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:46
 msgid "Second Gatekeeper"
-msgstr ""
+msgstr "Második kapuőr"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:62
 msgid "Are we there yet?"
-msgstr ""
+msgstr "Ott vagyunk már?"
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:67
 msgid "there yet... there yet..."
-msgstr ""
+msgstr "vagyunk már... vagyunk már..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:71
 msgid "Seems like."
-msgstr ""
+msgstr "Úgy tűnik igen."
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:75
 msgid "Hey you! What's your business here?"
-msgstr ""
+msgstr "Hé, ti ott! Mi dolgotok erre?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:79
 msgid "We came to see Mal Amadeus."
-msgstr ""
+msgstr "Mal Amadeushoz érkeztünk látogatóba."
 
 #. [message]: speaker=Gatekeeper2
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:83
 msgid ""
 "Lord Amedeus is giving a reception and a concert right now. Nobody's allowed "
 "to enter."
-msgstr ""
+msgstr "Amadeus nagyúr éppen fogadást és koncertet ad. Senki nem léphet be."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:87
@@ -3148,31 +3539,34 @@ msgid ""
 "And invitees, maybe? We're guests in honor. You had better not to infuriate "
 "your master by locking us out."
 msgstr ""
+"És meghívottak, esetleg? Díszvendégek vagyunk. A helyedben nem heccelném "
+"azzal a főnökömet, hogy kizárom a vendégeit."
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:91
 msgid "<i>You knew that Amadeus actually invited guests?</i>"
-msgstr ""
+msgstr "<i>Te tudtad, hogy Amadeus vendégeket is hívott?</i>"
 
 #. [message]: speaker=Gatekeeper2
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:95
 msgid "<i>No... I thought he organized this whole thing only for himself.</i>"
 msgstr ""
+"<i>Nem... azt hittem, ezt az egész felhajtást csak magának csinálja.</i>"
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:99
 msgid "<i>Suspicious.</i>"
-msgstr ""
+msgstr "<i>Gyanús.</i>"
 
 #. [message]: speaker=Gatekeeper2
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:103
 msgid "<i>Yeah, and I really don't like that guy in the white robes.</i>"
-msgstr ""
+msgstr "<i>Jaja, és az a fickó a fehér köpenyben nagyon nem tetszik nekem.</i>"
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:107
 msgid "Can I see your invitation cards, please?"
-msgstr ""
+msgstr "Láthatnám a meghívóitokat?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:111
@@ -3180,28 +3574,30 @@ msgid ""
 "Euh... I'm afraid I lost it somewhere... I'm an old friend of Amadeus, he "
 "really expects me... we must enter..."
 msgstr ""
+"Ööö... attól tartok, elhagytam valahol... Amadeus régi barátja vagyok, "
+"nagyon számít rám... muszáj bemennünk..."
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:115
 msgid "Just through my dead body."
-msgstr ""
+msgstr "Csak a holttestemen át."
 
 #. [message]: speaker=Gatekeeper2
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:119
 msgid "Haha... that's quite a meaningless banality in your case."
-msgstr ""
+msgstr "Haha... ez elég lapos közhely a te esetedben."
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:123
 msgid "Shut up. You have no body at all."
-msgstr ""
+msgstr "Fogd be. Neked meg egyáltalán nincs tested."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:128
 msgid ""
 "I don't think we're strong enough to fight our way through all these undead. "
 "Not even with grenades."
-msgstr ""
+msgstr "Nem vagyunk elegen ennyi élőholt ellen. Még gránátokkal együtt sem."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:132
@@ -3209,17 +3605,19 @@ msgid ""
 "Exceptionally, you're right. It's impossible to beat Amadeus' entire army "
 "and then also Amadeus himself."
 msgstr ""
+"Kivételesen igazad van. Nem tudjuk legyőzni Amadeus teljes hadseregét, és "
+"utána még magát Amadeust is."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:136
 msgid ""
 "You shall not fall into desperation while you see my light! Here, take these."
-msgstr ""
+msgstr "Sose essetek kétségbe, míg fényemet látjátok! Tessék, fogjátok ezeket."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:145
 msgid "What's this?"
-msgstr ""
+msgstr "Mi ez?"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:149
@@ -3228,24 +3626,28 @@ msgid ""
 "spawns. I have enough for only three men, so choose the three whom you trust "
 "the most!"
 msgstr ""
+"Szenteltvíz. Sokkal pusztítóbbá teszi fegyvereiteket ezekkel a szentségtelen "
+"fajzatokkal szemben. Csak három emberre futja a készleteimből, úgyhogy "
+"válaszd ki a legérdemesebbeket!"
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:163
 msgid "Defeat both enemy leaders"
-msgstr ""
+msgstr "Legyőzöd mindkét ellenséges vezért"
 
 #. [objective]: condition=lose
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:167
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:434
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:494
 msgid "Death of Merlyn"
-msgstr ""
+msgstr "Merlyn meghal"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:195
 msgid ""
 "Sorry master, I tried to stop them. I hope they won't disturb you too much."
 msgstr ""
+"Bocsáss meg mesterem, én megpróbáltam. Remélem nem fognak nagyon zavarni."
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:203
@@ -3253,72 +3655,74 @@ msgid ""
 "Okay... khhh... I think... it's not that necessary... to show your "
 "invitation cards... go, have fun..."
 msgstr ""
+"Rendben... khhh.. azt hiszem... nem olyan fontosak... azok a meghívók... "
+"menjetek, érezzétek jól magatokat..."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:225
 msgid "I couldn't destroy the lich... I failed my holy mission..."
-msgstr ""
+msgstr "Nem pusztítottam el a delevényt... elbuktam szent küldetésemet..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:235
 msgid "At least you're not alone with that."
-msgstr ""
+msgstr "De legalább nem vagy vele egyedül."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:251
 msgid "No! My brother!"
-msgstr ""
+msgstr "Ne! Testvérem!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:255
 msgid "Eh, even that was a miracle that he could survive for so long..."
-msgstr ""
+msgstr "Eh, kész csoda, hogy eddig nem halt meg."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:271
 msgid "Tell your lord that I hate him..."
-msgstr ""
+msgstr "Mondd meg az uradnak, hogy utálom..."
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:287
 msgid "You want free tickets, heh? Die, impostor!"
-msgstr ""
+msgstr "Ingyen belépőt akarunk, mi? Halál rád, sunyi csaló!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:305
 msgid "Take this, nasty undead!"
-msgstr ""
+msgstr "Ezt neked, mocskos élőholt!"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:317
 msgid ""
 "In the name of the fathers of light, go back to the hell where you came from!"
-msgstr ""
+msgstr "A fény atyjainak nevében a pokolba száműzlek, ördögi teremtmény!"
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:321
 msgid "Hey boys, I think we've got a white mage here!"
-msgstr ""
+msgstr "Hé fiúk, azt hiszem találtam itt egy fehér mágust!"
 
 #. [message]: speaker=Gatekeeper2
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:325
 msgid "A white mage! Now it's sure that they have ulterior motives!"
-msgstr ""
+msgstr "Egy fehér mágus! Most már biztos, hogy nem egyenesek a szándékaik!"
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:329
 msgid "Kill him!"
-msgstr ""
+msgstr "Öljétek meg!"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:333
 msgid "<b>I'm no white mage. I am the Arcane Grenadier!</b>"
-msgstr ""
+msgstr "<b>Nem fehér mágus vagyok, hanem a Mennyei Gránátos!</b>"
 
 #. [message]: speaker=second_unit
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:337
 msgid "What?"
-msgstr ""
+msgstr "Mi?"
 
 #. [message]: speaker=Gatekeeper1
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:341
@@ -3326,37 +3730,41 @@ msgid ""
 "Don't worry about it, likely that he's just insane. You know, all this light-"
 "magic-stuff isn't particularly good for your mental health."
 msgstr ""
+"Hagyd csak, nem teljesen épeszű a fickó. Tudod, ez a fehér mágia-izé nem "
+"igazán tesz jót a mentális egészségednek."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:354
 msgid "That was your well-deserved fate, unholy creature!"
-msgstr ""
+msgstr "Ezt a sorsot érdemelted, aljas sátánfajzat!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:364
 msgid "Basyl?"
-msgstr ""
+msgstr "Basyl?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:372
 msgid "Errr... could you give me some grenades, please?"
-msgstr ""
+msgstr "Izé... nincs véletlenül egy pár fölös gránátod?"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:376
 msgid ""
 "Of course. Here they are. Be careful with them, they are really explosive."
-msgstr ""
+msgstr "Dehogynem. Tessék, parancsolj. Vigyázz velük, nagyon robbanékonyak."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:380
 msgid "Don't you say!"
-msgstr ""
+msgstr "Nem mondod!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:398
 msgid "I've never thought that once I'll be throwing these goddamn grenades."
 msgstr ""
+"Sohase gondoltam volna, hogy egyszer én is ezeket az istenverte bombákat "
+"fogom hajigálni."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:402
@@ -3364,21 +3772,22 @@ msgid ""
 "Don't look at it like that! Once you'll have got used to it, you'll see that "
 "it's fun!"
 msgstr ""
+"Ne légy már ilyen! Hamarosan te is rá fogsz jönni, hogy milyen jó móka!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/08_Prelude_of_the_Finale.cfg:423
 msgid "Wow! This water-thingy really works!"
-msgstr ""
+msgstr "Hohó! Ez a lötty tényleg működik!"
 
 #. [scenario]: id=Danse_Macabre
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:5
 msgid "Danse Macabre"
-msgstr ""
+msgstr "Haláltánc"
 
 #. [side]: id=Mal Amadeus, type=Party Lich, (id=Skele1)}, (id=Skele2, (id=Skele3
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:143
 msgid "undead"
-msgstr ""
+msgstr "undead"
 
 #. [part]
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:170
@@ -3388,63 +3797,68 @@ msgid ""
 "of life (or un-life). However, as they proceeded deeper into the underground "
 "dungeons, a faint, distant voice of a flute came to their ears."
 msgstr ""
+"A csapat belépett a barlangba. Fáklyáik fénye csillogó földalatti folyamokre "
+"és varázslatos cseppkövekre vetült. Élő (vagy élőholt) teremtménynek azonban "
+"nyomát se látták. Ahogy azonban egyre mélyebbre hatoltak a hegy gyomrába, "
+"egyszerre csak egy furulya távoli, halk hangja ütötte meg fülüket."
 
 #. [part]
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:174
 msgid ""
 "Then they arrived to the main hall, which looked like nothing they had "
 "expected..."
-msgstr ""
+msgstr "Végül megérkeztek a főcsarnokba, és nagyon meglepődtek..."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:182
 msgid "Wow! This place is..."
-msgstr ""
+msgstr "A mindenit! Ez a hely..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:186
 msgid "Amazing."
-msgstr ""
+msgstr "Elképesztő."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:190
 msgid "A work of evil magic."
-msgstr ""
+msgstr "Sötét mágia műve."
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:194
 msgid "Look, there!"
-msgstr ""
+msgstr "Odanézzetek!"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:369
 msgid "Oh, hi Creona! Would you like to join the party?"
-msgstr ""
+msgstr "Nicsak, szevasz Creona! Nem csatlakozol?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:373
 msgid "Hello, we..."
-msgstr ""
+msgstr "Szép napot, mi..."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:377
 msgid "<b>WE CAME TO DESTROY YOU, VILLAINOUS CREATURE OF THE HELLS!</b>"
 msgstr ""
+"<b>MI AZÉRT JÖTTÜNK, HOGY ELPUSZTÍTSUNK, POKLOK POKOLI POKOLFAJZATA!</b>"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:381
 msgid "Merlyn!"
-msgstr ""
+msgstr "Merlyn!"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:385
 msgid "What it is? Isn't that our purpose?"
-msgstr ""
+msgstr "Mi van? Talán nem ez a célunk?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:389
 msgid "Sure it is, but I wouldn't have insisted on giving it away."
-msgstr ""
+msgstr "Dehogynem, de azért nem ragaszkodtam volna hozzá, hogy eláruld."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:397
@@ -3452,11 +3866,13 @@ msgid ""
 "Ah! Hah! Is this serious? <i>You?</i> With that handful of thugs and that "
 "idiot? Haha!"
 msgstr ""
+"Ah! Hah! Ez komoly? <i>Te?</> Azzal a maroknyi utonállóval, meg azzal a "
+"tökfejjel? Haha!"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:401
 msgid "You don't know what powers are you facing, lich!"
-msgstr ""
+msgstr "Nem tudod, milyen erőkkel állsz szemben, delevény!"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:405
@@ -3464,6 +3880,8 @@ msgid ""
 "Hahahaha! Your clothes may be light but there's an obvious darkness in your "
 "head. It's <i>you</i> who's rather misinformed about my skills!"
 msgstr ""
+"Hahahaha! A ruhád lehet, hogy világít, de a fejedben elég sötét lehet. "
+"<i>Te</i> vagy igen tájékozatlan az <i>én</i> képességeimet illetően!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:410
@@ -3471,6 +3889,8 @@ msgid ""
 "It won't be easy to reach Amadeus. I wonder if we could use those runes for "
 "something."
 msgstr ""
+"Nem lesz könnyű Amadeus közelébe jutnunk. Talán használhatnánk azokat a "
+"rúnákat valamire."
 
 #. [message]: speaker=narrator
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:416
@@ -3480,13 +3900,17 @@ msgid ""
 "move away from the appropriate rune. Only Merlyn, Basyl and Creona can "
 "trigger runes."
 msgstr ""
+"Minden fénylő (narancs) rúnához tartozik egy vagy kettő (lila) pár "
+"valamelyik szimmetrikus kőoszlop közepén. Az oszlop elfordulnak, amikor "
+"rálépsz vagy elmozdulsz a megfelelő rúnáról. Csak Merlyn, Basyl vagy Creona "
+"hozhatja működésbe a rúnákat."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:422
 msgid ""
 "Creona, Basyl and Merlyn reaches the magic circle at the other end of the "
 "abyss"
-msgstr ""
+msgstr "Creona, Basyl és Merlyn elérik a varázskört a szakadék túloldalán."
 
 #. [objectives]
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:436
@@ -3494,6 +3918,8 @@ msgid ""
 "Don't recruit too many units. There won't be many enemies along the way and "
 "it'd be painfully boring to maneuver with a big army in the lanirynth."
 msgstr ""
+"Ne toborozz túl sokat. Nem fogsz sok ellenséggel találkozni, és nagyon "
+"unalmas lenne egy nagyobb sereggel manőverezni ebben a labirintusban"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:446
@@ -3501,11 +3927,13 @@ msgid ""
 "I really don't understand what's your problem. We had an agreement. I got my "
 "flute, you got your money. What the hell do you want from me?"
 msgstr ""
+"Igazán nem értem, mi bajod. Megegyeztünk valamiben. Én megkaptam a "
+"furulyámat, te megkaptad a pénzedet. Mi az ördögöt akarsz tőlem?"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:450
 msgid "What? You helped him to acquire that thing?!"
-msgstr ""
+msgstr "Micsoda? Te segítettél neki megszerezni azt a micsodát?!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:454
@@ -3513,6 +3941,7 @@ msgid ""
 "Yes, I did... it was my mistake and this is why I'm trying so hard to make "
 "up for it."
 msgstr ""
+"Igen, segítettem... ez az egész az én hibám, ezért is szeretném jóvátenni."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:458
@@ -3520,11 +3949,13 @@ msgid ""
 "I see, daughter, that you found the right way out of sin and to the light. I "
 "forgive you."
 msgstr ""
+"Látom, lányom, hogy magad mögött hagytad a sötétséget és immár a fány útján "
+"jársz. Megbocsátok neked."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:462
 msgid "Bahh... I'm obliged."
-msgstr ""
+msgstr "Bahh... le vagyok kötelezve."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:466
@@ -3534,31 +3965,34 @@ msgid ""
 "away my property? You didn't leave me any option but to kill you. Maybe "
 "you'll be a bit nicer afterwards."
 msgstr ""
+"Sajnálom, hogy ide jutottunk. Azt hittem, barátok lehetünk. Komolyan, mit "
+"képzelsz te magadról, hogy idejössz, és csak úgy ki akarsz fosztani? Nincs "
+"más választásom, meg kell öljelek. Talán utána egy kicsit kedvesebb leszel."
 
 #. [objective]: condition=win
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:482
 msgid "Destroy Mal Amadeus!"
-msgstr ""
+msgstr "Elpusztítod Mal Amadeust!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:508
 msgid "Master?"
-msgstr ""
+msgstr "Mester?"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:512
 msgid "Look! He's got some nasty device to revive the dead with!"
-msgstr ""
+msgstr "Nézzétek! Valami gonosz szerkezettel idézi meg a holtakat!"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:520
 msgid "Don't let them past the abyss!"
-msgstr ""
+msgstr "Ne engedjétek őket átjutni!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:524
 msgid "Yes, my lord."
-msgstr ""
+msgstr "Igenis, uram."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:536
@@ -3566,16 +4000,18 @@ msgid ""
 "I'm really sorry, Creona. But it's your fault, I wouldn't have harmed you if "
 "you didn't force me."
 msgstr ""
+"Igazán sajnálom, Creona. De a te hibád volt, én nem bántottalak volna, ha "
+"nem kényszerítesz rá."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:551
 msgid "I fell, but you must continue the fight, friends!"
-msgstr ""
+msgstr "Én elbuktam, de nektek folytatnotok kell a küzdelmet, barátaim!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:562
 msgid "I'm afraid we can't."
-msgstr ""
+msgstr "Sajnos ez nem fog menni."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:577
@@ -3583,151 +4019,155 @@ msgid ""
 "Without Basyl's grenades, this fight is even more hopeless now than it was "
 "before."
 msgstr ""
+"Basyl gránátjai nélkül még reménytelenebb a győzelem, mint azelőtt volt."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:589
 msgid ""
 "I could never perform on a concert while I was alive, and you won't let me "
 "even in my death!"
-msgstr ""
+msgstr "Soha nem léphettem fel, amíg éltem, és ti halálom után sem hagyjátok!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:593
 msgid "Just give me the flute and we're off."
-msgstr ""
+msgstr "Csak add ide a furulyát és itt se vagyunk."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:597
 msgid "Pfff."
-msgstr ""
+msgstr "Pfff."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:609
 msgid "Go away! You're ruining my concert!"
-msgstr ""
+msgstr "Hagyjatok békén! Tönkreteszitek a koncertemet!"
 
 #. [message]: speaker=unit
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:613
 msgid "We'll stop them, master. I mean, the others."
-msgstr ""
+msgstr "Elüldözzük őket, mester. Úgy értem, majd a többiek elüldözik."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:627
 msgid "Arrrggghhhh..."
-msgstr ""
+msgstr "Arrrrrrggghhhh..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:631
 msgid "Game over."
-msgstr ""
+msgstr "Vége."
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:635
 msgid "Just let me... blow my flute... for one last time..."
-msgstr ""
+msgstr "Csak a furulyámat... hadd fújjam meg... még egyszer, utoljára..."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:639
 msgid "Don't even dream of it!"
-msgstr ""
+msgstr "Ne is álmodj róla!"
 
 #. [message]: speaker=Mal Amadeus
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:677
 msgid "Noooooo!!!!"
-msgstr ""
+msgstr "Neeeeeeeeeee!!!!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/09_Danse_Macabre.cfg:698
 msgid "May you have a luckier second death, Amadeus."
-msgstr ""
+msgstr "Ezúttal nyugodj békésebben, Amadeus."
 
 #. [scenario]: id=A_Job_Well_Done
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:5
 msgid "A Job Well Done"
-msgstr ""
+msgstr "Jól végzett munka"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:122
 msgid "Yippie! We made it!"
-msgstr ""
+msgstr "Hurrá! Megcsináltuk!"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:141
 msgid "Hahaha! Bimm-bumm!"
-msgstr ""
+msgstr "Hahaha! Bimm-bumm!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:179
 msgid "Ummm, Creona... what are you doing?"
-msgstr ""
+msgstr "Öööö, Creona... te mit csinálsz?"
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:183
 msgid ""
 "Errr... well... in fact... I'm just getting rid of your goddamn bombs!!!"
 msgstr ""
+"Ööö... izé... szóval... végre megszabadulok az istenverte bombáidtól!!!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:193
 msgid "It's already spring out here! Fantastic!"
-msgstr ""
+msgstr "Itt kint máris tavasz van! Hihetetlen!"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:197
 msgid ""
 "I hope this affair will make you reconsider your ways of living, Creona."
-msgstr ""
+msgstr "Remélem ez az eset meggyőzött, hogy átgondold az életedet, Creona."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:201
 msgid "Sure it will."
-msgstr ""
+msgstr "Természetesen."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:205
 msgid "Good."
-msgstr ""
+msgstr "Helyes."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:209
 msgid "I'll never do business with liches again."
-msgstr ""
+msgstr "Soha többé nem üzletelek delevényekkel."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:217
 msgid "Or at least I won't bring them any flutes."
-msgstr ""
+msgstr "Vagy legalábbis soha többet nem szerzek nekik furulyákat."
 
 #. [message]: speaker=Creona
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:221
 msgid "Thank you for all the help. Good bye!"
-msgstr ""
+msgstr "Köszönjük a segítséget. A viszontlátásra!"
 
 #. [message]: speaker=Basyl
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:233
 msgid "Hey Creona! Wait!"
-msgstr ""
+msgstr "Hé Creona! Várj meg!"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:246
 msgid "<i>(Sighs)</i>"
-msgstr ""
+msgstr "<i>(Sóhajt)</i>"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:267
 msgid "Forget it, Merlyn. You can't change them."
-msgstr ""
+msgstr "Felejtsd el, Merlyn. Nem tudod megváltoztatni őket."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:271
 msgid "Who are you?"
-msgstr ""
+msgstr "Te meg ki vagy?"
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:275
 msgid ""
 "Arch mage Dunduggwyn, former owner of the flute and a victim of your brother."
 msgstr ""
+"Dunduggwyn, nagy mágus, a furulya korábbi tulajdonosa, és az öcséd egyik "
+"áldozata."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:279
@@ -3735,6 +4175,7 @@ msgid ""
 "Oh, I'm sorry about that. Sometimes I feel really ashamed for what Basyl's "
 "doing."
 msgstr ""
+"Jó ég, borzasztóan sajnálom. Néha hihetetlenül szégyellem magam Basyl miatt."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:283
@@ -3746,11 +4187,17 @@ msgid ""
 "her mind, and Amadeus could have caused much more trouble later? What if I "
 "didn't die? I could have become the new Mal Amadeus?"
 msgstr ""
+"Ne bánj semmit, barátom. Mi lett volna, ha Basyl és Creona nem áll "
+"bűnözőnek? Talán Amadeus így is megszerezte volna a furulyát, de nem lett "
+"volna senki, hogy megállítsa? Mi lett volna, ha nem mészárol le sok ezer "
+"ártatlan falusit? Creona soha nem fordul ellene, és később sokkal nagyobb "
+"galibát okoz? Mi lett volna, ha én nem halok meg? Most én lennék az új Mal "
+"Amadeus?"
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:287
 msgid "I don't really understand what you are trying to imply."
-msgstr ""
+msgstr "Nem igazán értem, hova akarsz kilyukadni."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:291
@@ -3758,21 +4205,23 @@ msgid ""
 "What I'm saying, my friend, is that we know that the story ended well this "
 "way. There's no need to wish for alternative scenarios."
 msgstr ""
+"Arra célzok, barátom, hogy a történet ilyen módon jól végződhetett. Nem "
+"lenne érdemes változtatni rajta."
 
 #. [message]: speaker=Merlyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:295
 msgid "Quite a strange point of view."
-msgstr ""
+msgstr "Elég különös nézőpont."
 
 #. [message]: speaker=Dunduggwyn
 #: The_Devils_Flute/scenarios/10_A_Job_Well_Done.cfg:299
 msgid "Maybe you'll better understand this once you'll have died too."
-msgstr ""
+msgstr "Talán majd jobban megérted majd ha már te is meghaltál."
 
 #. [unit_type]: id=Arcane Grenadier, race=human
 #: The_Devils_Flute/units/Arcane_Grenadier.cfg:4
 msgid "Arcane Grenadier"
-msgstr ""
+msgstr "Mennyei gránátos"
 
 #. [unit_type]: id=Arcane Grenadier, race=human
 #: The_Devils_Flute/units/Arcane_Grenadier.cfg:20
@@ -3786,47 +4235,47 @@ msgid ""
 "\n"
 "Though not trained for combat, they are a potent ally against magical or "
 "unnatural things."
-msgstr ""
+msgstr "A Mennyei Gránátos leírása."
 
 #. [attack]: type=impact
 #: The_Devils_Flute/units/Arcane_Grenadier.cfg:42
 msgid "fist"
-msgstr ""
+msgstr "ököl"
 
 #. [attack]: type=arcane
 #: The_Devils_Flute/units/Arcane_Grenadier.cfg:51
 msgid "holy bomb"
-msgstr ""
+msgstr "megszentelt bomba"
 
 #. [unit_type]: id=Party Lich, race=undead
 #: The_Devils_Flute/units/Party_Lich.cfg:4
 msgid "Party Lich"
-msgstr ""
+msgstr "Bulidelevény"
 
 #. [unit_type]: id=Party Lich, race=undead
 #: The_Devils_Flute/units/Party_Lich.cfg:23
 msgid "Even liches have high enough spirit sometimes to organize parties."
-msgstr ""
+msgstr "Néha még a delevények is buliznak."
 
 #. [attack]: type=arcane
 #: The_Devils_Flute/units/Party_Lich.cfg:46
 msgid "touch"
-msgstr ""
+msgstr "érintés"
 
 #. [attack]: type=cold
 #: The_Devils_Flute/units/Party_Lich.cfg:58
 msgid "chill tempest"
-msgstr ""
+msgstr "fagyhullám"
 
 #. [attack]: type=arcane
 #: The_Devils_Flute/units/Party_Lich.cfg:70
 msgid "shadow wave"
-msgstr ""
+msgstr "árnyhullám"
 
 #. [unit_type]: id=Rogue Scientist, race=human
 #: The_Devils_Flute/units/Rogue_Scientist.cfg:6
 msgid "Rogue Scientist"
-msgstr ""
+msgstr "Zsivány tudós"
 
 #. [unit_type]: id=Rogue Scientist, race=human
 #: The_Devils_Flute/units/Rogue_Scientist.cfg:22
@@ -3835,8 +4284,71 @@ msgid ""
 "path of crime in the hope of easy money. They are invaluable members of any "
 "crime group for their knowledge of engineering and explosions."
 msgstr ""
+"Vannak tudósok, akik nem tudnak ellenállni saját tudásuk csábításának, és "
+"könnyen szerzett pénz reményében a bűn útjára lépnek. A mérnöki "
+"tudományokban és robbanószerekben való jártasságuk miatt bármely banda "
+"nagyra értékeli szolgálataikat."
 
 #. [attack]: type=blade
 #: The_Devils_Flute/units/Rogue_Scientist.cfg:39
 msgid "dagger"
-msgstr ""
+msgstr "tőr"
+
+#~ msgid ""
+#~ "You could prevent me from harming your business by telling who are your "
+#~ "so-called authentic customers."
+#~ msgstr "Sokat segítene, ha elárulnád, kik azok a valódi ügyfelek."
+
+#~ msgid ""
+#~ "Yep, I definitely heard him running past my door. He must be either in "
+#~ "the second or the third room."
+#~ msgstr ""
+#~ "Jaja, hallottam itt az ajtó előtt rohangálni. A második vagy a harmadik "
+#~ "szobában lesz."
+
+#~ msgid "I'm not Bruggwy, and I don't care at all where he is."
+#~ msgstr "Semmi közöm ehhez a Bruggwyhoz, és nem is érdekel, hol van."
+
+#~ msgid ""
+#~ "Hmmm... I heard a slam of door, must have come from the first or the last "
+#~ "room."
+#~ msgstr ""
+#~ "Hát... hallottam egy ajtócsapódást, az első vagy az utolsó szobából "
+#~ "jöhetett."
+
+#~ msgid ""
+#~ "I didn't notice anything, but my instincts tell me that if he's not in "
+#~ "the third room, he must be in the second."
+#~ msgstr ""
+#~ "Semmit sem hallottam, de az ösztöneim azt súgják, hogy ha nem a harmadik "
+#~ "szobában van, akkor a másodikban kell lennie."
+
+#~ msgid ""
+#~ "'Yep, I definitely heard him running past my door. He must be either in "
+#~ "the second or the third room.'\n"
+#~ "'I'm not Bruggwy, and I don't care at all where he is.'\n"
+#~ "'Hmmm... I heard a slam of door, must have come from the first or the "
+#~ "last room.'\n"
+#~ "'I didn't notice anything, but my instincts tell me that if he's not in "
+#~ "the third room, he must be in the second.'"
+#~ msgstr ""
+#~ "'Jaja, hallottam itt az ajtó előtt rohangálni. A második vagy a harmadik "
+#~ "szobában lesz.'\n"
+#~ "'Semmi közöm ehhez a Bruggwyhoz, és nem is érdekel, hol van.'\n"
+#~ "'Hát... hallottam egy ajtócsapódást, az első vagy az utolsó szobából "
+#~ "jöhetett.'\n"
+#~ "'Semmit sem hallottam, de az ösztöneim azt súgják, hogy ha nem a harmadik "
+#~ "szobában van, akkor a másodikban kell lennie.'"
+
+#~ msgid "Come on, Jack! You can't win, why to bother us then?"
+#~ msgstr "Hagyjuk már ezt, Jack! Úgye nyerhetsz, minek zaklatsz minket?"
+
+#~ msgid ""
+#~ "Damn! Damn! There're dry trees here! On guard, there might be another "
+#~ "nasty lich lurking around!"
+#~ msgstr ""
+#~ "Ördög és pokol! Száraz levelek! Legyetek résen, lehet, hogy egy delevény "
+#~ "ólálkodik a környéken!"
+
+#~ msgid "Mal Autumn, most likely."
+#~ msgstr "Mal Szeptember, vagy valami hasonló nevű lehet az."
