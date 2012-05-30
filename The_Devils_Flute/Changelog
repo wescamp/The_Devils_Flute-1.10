@@ -1,3 +1,11 @@
+* version 0.1.4c
+	* Bugfixes & other
+		* added Hungarian translation
+		* added missing #textdomain to macros/scenarios/scenario02.cfg
+		* credited Espreon
+	* Balancing
+		* 0% chance to hit Walter in scenario 3
+
 * version 0.1.4b
 	* double quoted strings replaced with “” signs, now it shold be ok
 
