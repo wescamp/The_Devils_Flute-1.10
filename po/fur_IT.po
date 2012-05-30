@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-05-15 06:45-0400\n"
+"POT-Creation-Date: 2012-05-29 23:37-0400\n"
 "PO-Revision-Date: 2012-02-26 17:24+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #. [campaign]: id=The_Devils_Flute
 #. [editor_group]: id=tdf
-#: The_Devils_Flute/_main.cfg:11 The_Devils_Flute/_main.cfg:86
+#: The_Devils_Flute/_main.cfg:11 The_Devils_Flute/_main.cfg:92
 msgid "The Devil's Flute"
 msgstr ""
 
@@ -94,27 +94,110 @@ msgstr ""
 
 #. [about]
 #: The_Devils_Flute/_main.cfg:62
+msgid "A little bit of this and that"
+msgstr ""
+
+#. [about]
+#: The_Devils_Flute/_main.cfg:68
 msgid "Random code & content copied from"
 msgstr ""
 
 #. [entry]
-#: The_Devils_Flute/_main.cfg:64
+#: The_Devils_Flute/_main.cfg:70
 msgid "“Invasion from the Unknown” by shadowmaster"
 msgstr ""
 
 #. [entry]
-#: The_Devils_Flute/_main.cfg:67
+#: The_Devils_Flute/_main.cfg:73
 msgid "“RPG Resources” by PapaSmurfReloaded"
 msgstr ""
 
 #. [entry]
-#: The_Devils_Flute/_main.cfg:70
+#: The_Devils_Flute/_main.cfg:76
 msgid "“RPG Creation Kit” by Bob_The_Mighty"
 msgstr ""
 
 #. [about]
-#: The_Devils_Flute/_main.cfg:74
+#: The_Devils_Flute/_main.cfg:80
 msgid "And many others providing feedback and reporting bugs. Thank you all!"
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:15
+msgid "I'm not Bruggwy. Dwarves never lie!"
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:16
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:17
+msgid ""
+"Yep, I definitely heard him running past my door. He must be either in the "
+"second or the third room."
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:18
+msgid ""
+"Oh, so he was that guy? You must have frightened him to death. He was "
+"running up and down on the corridor, three or four times, before finally "
+"shutting the door behind himself somewhere... so I suppose he managed to "
+"find an empty room, after all."
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:23
+msgid "I'm not Bruggwy. Drakes, just like dwarves, never lie!"
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:24
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:25
+msgid "I'm not Bruggwy, and I don't care at all where he is."
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:26
+msgid "He made a horrible noise... rushing past my door at least seven times."
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:31
+msgid "I'm not Bruggwy. Mermans, just like dwarves and drakes, never lie!"
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:32
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:33
+msgid ""
+"Hmmm... I heard a slam of door, must have come from the first or the last "
+"room."
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:34
+msgid "I heard four shuts of door, none of them coming from too far away..."
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:39
+msgid ""
+"I'm not Bruggwy. Necromancers, just like dwarves, drakes and mermans, never "
+"lie!"
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:40
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:41
+msgid ""
+"I didn't notice anything, but my instincts tell me that if he's not in the "
+"third room, he must be in the second."
+msgstr ""
+
+#. [value]
+#: The_Devils_Flute/macros/scenarios/scenario02.cfg:42
+msgid ""
+"Awww, that annoying bastard... he opened my door three times, to see whether "
+"the room is empty. Have he done for fourth, he'd be a skeleton by now!"
 msgstr ""
 
 #. [unit]: id=Basyl, type=Rogue Scientist
